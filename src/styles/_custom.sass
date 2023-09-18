@@ -2,13 +2,39 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    width: 65px
+    top: 35%
+    right: 68%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 3.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 14%
+    right: 64%
+    width: 40px
+  &-3
+    animation: float1 2.7s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 77%
+    width: 70px
+  &-4
+    animation: float1 3.6s ease-in-out infinite alternate
+    position: absolute
+    top: 35%
+    right: 15%
+    width: 55px
+  &-5
+    animation: float1 2.9s ease-in-out infinite alternate
+    position: absolute
+    top: 13%
+    right: 35%
+    width: 50px
+  &-6
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 23%
+    right: 71%
+    width: 50px
 
 
 @keyframes float1
@@ -17,3 +43,415 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal__img
+  padding-bottom: 0rem !important
+  padding-top: 5rem !important
+
+
+
+// ESTILOS GLOBALES --------------------------------
+
+.bg-titulo1
+  background-image: url("../assets/curso/temas/tema1/titulo1.png")
+  background-repeat: no-repeat
+  background-size: 26% 100%
+  @media (max-width: 500px)
+    background-size: 70% 100%
+  @media (min-width: 700px) and (max-width: 991px)
+    background-size: 32% 100%
+
+.bg-titulo2
+  background-image: url("../assets/curso/temas/tema1/titulo2.svg")
+  background-repeat: no-repeat
+  background-size: 12% 100%
+  @media (max-width: 500px)
+    background-size: 70% 100%
+  @media (min-width: 700px) and (max-width: 991px)
+    background-size: 32% 100%
+
+.bg-titulo3
+  background-image: url("../assets/curso/temas/tema1/titulo3.svg")
+  background-repeat: no-repeat
+  background-size: 17% 100%
+  @media (max-width: 500px)
+    background-size: 70% 100%
+  @media (min-width: 700px) and (max-width: 991px)
+    background-size: 32% 100%
+
+.bg-titulo6
+  background-image: url("../assets/curso/temas/tema2/titulo6.svg")
+  background-repeat: no-repeat
+  background-size: 40% 100%
+  @media (max-width: 500px)
+    background-size: 70% 100%
+  @media (min-width: 700px) and (max-width: 991px)
+    background-size: 32% 100%
+
+
+.text-right
+  position: relative
+  left: 15px
+  @media (max-width: 991px)
+    left: 0px
+
+.text-right2
+  position: relative
+  left: 40px
+  @media (max-width: 991px)
+    left: 0px
+
+.text-right3
+  position: relative
+  left: 55px
+  top: 9px
+  @media (max-width: 991px)
+    left: 0px
+    top: 0px
+
+
+.fa-ul2
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7PX
+      font-size: 1.4rem
+
+
+.tarjeta-amarilla3
+  background-color: #FFB338
+  border-top-right-radius: 80px
+  margin-top: 50px
+
+.img-tarjeta
+  position: relative
+  margin-bottom: -30%
+  margin-top: -45%
+  @media (max-width: 991px)
+    margin-bottom: -10%
+    margin-top: 0%  
+
+//negrilla para titulos de TabsC Activos-----
+
+.tabs-c__tab--active
+  font-weight: bold
+  border-bottom: 4px solid !important
+
+// ESTILOS TEMA 1 --------------------------------------------------------------------
+
+.bg1-tema1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -20px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema1/bg1.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: space
+
+.bg2-tema1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -30px
+    width: calc( 100% + 96px )
+    height: 130%       
+    background-image: url('../assets/curso/temas/tema1/bg2.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: space
+
+.bg3-tema1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -20px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema1/bg3.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: space
+
+.bg4-tema1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: -16px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema1/bg4.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+    @media (max-width: 500px)
+      background-repeat: space
+
+
+.color-azul1
+  background-color: #D6ECFA
+.cajon.color-azul1:before
+    background-color: #B6E1FD
+
+.cajon.color-primario
+  background-color: #FFF7E5
+
+.tarjeta-azul1
+  background-color: #B6E1FD
+
+.tarjeta-azul2
+  background-color: #92D1F9
+
+.tarjeta-1
+  background-color: #ECF6FC
+
+.tarjeta-2
+  background-color: #F6F6F6
+
+.tarjeta--amarilla
+  background-color: #FFF7E3
+
+
+// imagenes ------------------------------
+
+.img3-tm1
+  position: relative
+  margin-top: 40px
+  @media (max-width: 991px)
+    margin-top: 0px
+
+.img26-tm1
+  position: relative
+  max-width: 150%
+  width: 120%
+  margin-bottom: 5px
+
+.img48-tm1
+  position: relative
+  max-width: 150%
+  width: 120%
+  top: -33px
+  right: 10%
+  @media (max-width: 991px)
+    width: 100%
+    top: 0px
+    right: 0%    
+
+// imagen infigrafica ---------------------------
+
+.img-infografica__item
+  width: 5%
+
+.tarjeta.color-naranja--borde
+  background-color: white
+  color: #12263F
+  border: solid 4px #fd4c1b
+
+.tarjeta.color-verde--borde
+  background-color: white
+  color: #12263F
+  border: solid 4px #038a7b
+
+
+// imagen infigrafica B ---------------------------
+
+.img-infografica-b__item__tooltip
+  background-color: #cccccc00
+
+.img-infografica-b__modal
+    background-color: #FFF7E3
+
+.img-infografica-b__modal__contenido div > * 
+  color: #12263F !important
+
+.img-infografica-b__modal__btn-cerrar i
+  color: #12263F !important
+
+.img-infografica-b.color-blanco .img-infografica-b__item__dot:before
+  background-color: #ffffff
+  border: 1px solid #707070
+
+.img-infografica-b__item
+  width: 4%
+
+// BG TARJETAS -------------------------
+
+.bg-tarjeta1
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta1.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta2
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta2.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta3
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta3.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta4
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta4.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta5
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta5.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta6
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta6.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta7
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta7.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta8
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta8.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta9
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta9.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta10
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta10.svg")
+  background-size: 100% 100%
+
+.bg-tarjeta11
+  background-image: url("../assets/curso/temas/tema1/bg-tarjeta11.svg")
+  background-size: 100% 100%
+
+
+
+// SlyderA --------------------------
+
+.slyder-a__bullets__item--active
+  background-color: #EB6F2D !important
+  border-color: #EB6F2D !important
+
+.slyder-a__bullets__item
+  background-color: #F5C5A2
+
+.bg-slyder
+  background-image: url(../assets/curso/temas/tema1/bg-slyder.png)
+  background-size: 100% 100%
+
+// tarjetas conectadas -------------
+
+.tarjeta-conectada1
+  background-color: #FFB338
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.tarjeta-conectada2
+  background-color: #F9D9A2
+
+.tarjeta-conectada3
+  background-color: #FFECBE  
+
+.tarjeta-conectada4
+  background-color: #F3F9FF
+
+.tarjeta-conectada5
+  background-color: #D2E1F1
+
+.tarjeta-conectada6
+  background-color: #B4E6FF
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+
+// ESTILOS TEMA 2 --------------------------------------------------------------------
+
+.tarjeta-azul3
+  background-color: #F3F9FF
+
+// IMAGENES ------------
+
+
+// TAPS A -----------------
+
+.tarjeta-taps
+  background-color: #FFF3D6
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.tarjeta-verde
+  background-color: #EFFFB9
+  border-top-right-radius: 60px
+
+//BLOQUE TEXTO A ---------------------------
+
+.bloque-texto-a.color-acento-botones:before
+    background-color: #D1E8F6
+
+.bloque-texto-a.color-acento-botones
+    background-color: #D1E8F6
+
+
+// ESTILOS TEMA 3 --------------------------------------------------------------------
+
+.tarjeta-amarilla
+  background-color: #FFB338
+  position: relative
+  margin-top: -75%
+  @media (max-width: 991px)
+    margin-top: 0%  
+
+.tarjeta-azul4
+  background-color: #B4E6FF
+
+.tarjeta-verde2
+  background-color: #AFDF9E
+
+.color-verde
+  background-color: #3D672F
+
+// ESTILOS TEMA 4 --------------------------------------------------------------------
+
+.tarjeta-amarilla2
+  background-color: #FFF4D9
+
+//.img-tarjetaflip
+  width: 98%
+
+.tarjeta-flip.color-acento-botones .tarjeta-flip__contenido 
+  background-color: #DBEDF8
+
+.texto-negro
+  color: #12263F !important
+
+.tarjeta-flip
+  height: 365px
+  @media (min-width: 700px) and (max-width: 991px)
+    height: 380px
+  @media (max-width: 699px)
+    height: auto
+
+
