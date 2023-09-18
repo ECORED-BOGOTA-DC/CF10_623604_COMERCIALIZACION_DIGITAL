@@ -18,14 +18,16 @@
         .cajon.color-primario.p-4
           p.mb-0 Cuando este tema se mezcla con mercadeo, se comienza a hablar de <i>neuromarketing</i>, que es la unión entre la ciencia y las técnicas de <i>marketing</i>; es la herramienta que contribuye a comprender las emociones y las razones por las cuales viaja un turista. Desde el punto de vista científico, se puede decir que el <i>neuromarketing</i> tiene por objetivo entender el comportamiento de compra de un cliente con respecto a una marca, teniendo en cuenta la actividad neuronal.
 
-    .bg4-tema1.mb-5
-      .row.justify-content-center.align-items-center.p-3
-        .col-lg-9
-          p.mt-lg-5 No es una herramienta exclusiva del turismo ya que se aplica en muchos otros campos, sin embargo, en la industria de los viajes se puede aplicar por ejemplo para conocer la opinión de un cliente antes de lanzar un nuevo producto turístico o una experiencia turística; también funciona para definir una estrategia de precios o para conocer el gusto del público con respecto a un diseño publicitario.  
-        
-        .col-8.col-lg-3
-          figure
-            img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imágen decorativa')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p.mb-lg-0.mt-lg-5 No es una herramienta exclusiva del turismo ya que se aplica en muchos otros campos, sin embargo, en la industria de los viajes se puede aplicar por ejemplo para conocer la opinión de un cliente antes de lanzar un nuevo producto turístico o una experiencia turística; también funciona para definir una estrategia de precios o para conocer el gusto del público con respecto a un diseño publicitario. 
+
+          .col-8.col-lg-4
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema3/img2.svg', alt='Imágen decorativa').img-tarjeta
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6

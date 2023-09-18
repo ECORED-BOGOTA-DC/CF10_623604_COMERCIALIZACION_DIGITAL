@@ -48,21 +48,21 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema6/img3.svg', alt='Imágen decorativa')
 
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         p El principio básico del marketing es disponer de las herramientas necesarias para informar a los consumidores de la existencia de productos destinados a satisfacer sus necesidades específicas. Y es aquí donde los canales digitales juegan un papel activo como herramienta que posibilita la comunicación directa entre las marcas corporativas y el público en general.
 
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4(data-aos="fade-left")
           p.mb-0 Es un canal que sirve para prestar servicios, comunicar o vender a través de computadoras, tabletas o teléfonos móviles, en otras palabras, los canales digitales ayudan a lograr el conocido "omnicanal" o "acceso del cliente en cualquier momento y lugar". Hay dos tipos de canales, uno es tu empresa (sitio web de la empresa, tu tienda online B2B o B2C o app comercial) y la otra es externa (marketplace o tienda de terceros). 
 
     separador
-    #t_6_2.titulo-segundo.color-acento-contenido
+    #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 6.2 Características
 
     .bg1-tema1.mb-5
-      p.mb-5 Los medios digitales juegan un papel mucho más importante en el proceso de marketing digital y en el ciclo de vida del producto. A diferencia de otros canales de comunicación, los canales digitales brindan la oportunidad de capturar datos invaluables sobre el conocimiento del producto y la efectividad de la campaña en el mercado. Todos ellos permiten:
+      p.mb-5(data-aos="fade-right") Los medios digitales juegan un papel mucho más importante en el proceso de marketing digital y en el ciclo de vida del producto. A diferencia de otros canales de comunicación, los canales digitales brindan la oportunidad de capturar datos invaluables sobre el conocimiento del producto y la efectividad de la campaña en el mercado. Todos ellos permiten:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-10.col-lg-6
@@ -72,28 +72,28 @@
         .col-lg-6
           .tarjeta-2.p-4.mb-3
             ul.lista-ul--color.fa-ul2
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-dot-circle(style="color: #EB6F2D")
                 p.mb-0 #[b Disponibilidad:] los clientes o usuarios pueden acceder a los canales y realizar solicitudes en cualquier momento y en cualquier lugar. 
 
-              li 
+              li(data-aos="fade-up") 
                 i.fas.fa-dot-circle(style="color: #EB6F2D")
                 p.mb-0 #[b Atención al usuario:] uno de los principales beneficios de digitalizar una empresa (y automatizar el proceso para hacerlo) es la capacidad de brindar sus servicios con una mayor calidad sin la necesidad de una persona responsable, pues, al hacer esto, encontrará que la inversión en mano de obra interna se reduce.
 
-              li 
+              li(data-aos="fade-up")
                 i.fas.fa-dot-circle(style="color: #EB6F2D")
                 p.mb-0 #[b Información:] el cliente o usuario se hace cargo de parte del proceso en sí, es decir, puede ver información como pedidos, ofertas y facturas, realizar pedidos y administrar entregas. Brindar este tipo de servicio mejora la eficiencia de su negocio.
 
-              li 
+              li(data-aos="fade-up")
                 i.fas.fa-dot-circle(style="color: #EB6F2D")
                 p.mb-0 #[b Automatización:] otra característica de los canales digitales más comunes a considerar como herramienta para la adquisición de datos y distribución de información es que están diseñados para realizar tareas específicas de forma automática.
 
-              li 
+              li(data-aos="fade-up")
                 i.fas.fa-dot-circle(style="color: #EB6F2D")
                 p.mb-0 #[b Relación marca-cliente:] no se puede ignorar la eficiencia y practicidad de los canales digitales como medio de comunicación que permite a las empresas mantenerse en contacto con sus clientes.
 
     .row.justify-content-center.align-items-center.mb-5
-      .tarjeta-amarilla3.px-5.py-3
+      .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
             p.mb-lg-0.mt-lg-5 Es importante, no confundir estos canales con los canales tradicionales (teléfono, catálogos en papel o PDF, folletos o fuerza de ventas y publicidad interna), es digital en teoría, pero se parece mucho al tradicional (correo, WhatsApp, telegramas, redes sociales, etc.), porque requiere que alguien detrás de ti lo gestione en el día a día.
@@ -103,7 +103,7 @@
               img(src='@/assets/curso/temas/tema6/img5.svg', alt='Imágen decorativa').img-tarjeta
 
     separador
-    #t_6_3.titulo-segundo.color-acento-contenido
+    #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 6.3 Clasificación
 
     p.mb-5 Según los expertos en la materia, hay tres tipos de canales que deben ser considerados en una estrategia efectiva de contenido digital: propiedad, pago y adquisición:
@@ -111,7 +111,7 @@
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
-          .titulo-sexto.color-acento-contenido.mb-5
+          .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
             h5 Figura 4
             span Canales digitales
 
@@ -119,11 +119,11 @@
             img(src='@/assets/curso/temas/tema6/img6.svg', alt='Imágen decorativa')
             figcaption.mt-3 Nota. Tomada de The Converged Media Imperative: How Brands Must Combine Paid, Owner & Earned Media, Altimeter Group (2012).
 
-    p.mb-5 Un claro ejemplo de ello es un comentario positivo sobre una marca en las redes sociales. Estos mensajes no solo crean una imagen positiva para la empresa, sino que también son más creíbles y convierten a los consumidores en embajadores de la marca, pero, ¿cómo llegar a este hecho? 
+    p.mb-5(data-aos="fade-right") Un claro ejemplo de ello es un comentario positivo sobre una marca en las redes sociales. Estos mensajes no solo crean una imagen positiva para la empresa, sino que también son más creíbles y convierten a los consumidores en embajadores de la marca, pero, ¿cómo llegar a este hecho? 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        ImagenInfograficaB.color-primario
+        ImagenInfograficaB.color-primario(data-aos="flip-down")
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema6/img7.svg', alt='Imágen decorativa')
@@ -152,16 +152,16 @@
               figure
                 img(src='@/assets/curso/temas/tema6/img10.svg', alt='Imágen decorativa')
 
-    p.mb-5 Un claro ejemplo de ello es un comentario positivo sobre una marca en las redes sociales. Estos mensajes no solo crean una imagen positiva para la empresa, sino que también son más creíbles y convierten a los consumidores en embajadores de la marca, pero, ¿cómo llegar a este hecho? 
+    p.mb-5(data-aos="fade-left") Un claro ejemplo de ello es un comentario positivo sobre una marca en las redes sociales. Estos mensajes no solo crean una imagen positiva para la empresa, sino que también son más creíbles y convierten a los consumidores en embajadores de la marca, pero, ¿cómo llegar a este hecho? 
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema6/img11.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p Al igual que con la estrategia de marketing de contenido orgánico, el éxito en los canales que se adquieran depende del tiempo, la paciencia y el contenido influyente, regular y de alta calidad. ¡Hay que convencer a la audiencia!
+          p(data-aos="fade-left") Al igual que con la estrategia de marketing de contenido orgánico, el éxito en los canales que se adquieran depende del tiempo, la paciencia y el contenido influyente, regular y de alta calidad. ¡Hay que convencer a la audiencia!
 
 
 

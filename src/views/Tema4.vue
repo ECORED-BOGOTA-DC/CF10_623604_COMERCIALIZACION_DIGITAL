@@ -14,12 +14,12 @@
             img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
 
         .col-lg-6
-          p La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del inbound marketing que ha tomado una gran importancia ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
+          p(data-aos="fade-left") La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del inbound marketing que ha tomado una gran importancia ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
 
-          .cajon.color-azul1.p-4
+          .cajon.color-azul1.p-4(data-aos="flip-down")
             p.mb-0 Los contenidos digitales son una estrategia muy buena cuando se usan de manera correcta con fines comerciales, pues ayudan a que los clientes se conecten de manera emocional y racional con la marca, viendo en estos pilares de confianza, inspiración y empatía que contribuyen a posicionar su imagen en el mercado y en los motores de búsqueda.
 
-    p El proceso para crear contenido no se debe basar, entonces, en el azar o en la intuición del equipo de mercadeo; por el contrario, se deben llevar a cabo unas fases para que la inversión de tiempo y dinero, valga la pena, a saber:
+    p(data-aos="fade-right") El proceso para crear contenido no se debe basar, entonces, en el azar o en la intuición del equipo de mercadeo; por el contrario, se deben llevar a cabo unas fases para que la inversión de tiempo y dinero, valga la pena, a saber:
 
     .tarjeta.tarjeta--gris.p-4
       PasosB.color-secundario
@@ -80,19 +80,19 @@
               img(src='@/assets/curso/temas/tema4/img5.svg', alt='Imágen decorativa')
 
     separador
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 4.1 Metodologías 
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p Como se vio anteriormente, se deben llevar a cabo unos pasos de planeación para poder crear el contenido que den respuesta a las necesidades de los clientes objetivo. Cuando hacemos esto, nos estamos enfocando en una estrategia de mercadeo de contenido, donde se definen ítems mucho más educativos y de menos de venta comercial.
+          p(data-aos="fade-left") Como se vio anteriormente, se deben llevar a cabo unos pasos de planeación para poder crear el contenido que den respuesta a las necesidades de los clientes objetivo. Cuando hacemos esto, nos estamos enfocando en una estrategia de mercadeo de contenido, donde se definen ítems mucho más educativos y de menos de venta comercial.
 
-    p En esa estrategia se deben tener presentes algunos aspectos: 
+    p(data-aos="fade-right") En esa estrategia se deben tener presentes algunos aspectos: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -102,25 +102,25 @@
       .col-lg-6
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Usuarios para quienes se crea el contenido.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | La necesidad que va a resolver el contenido.
             li 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | El valor y lo que hace único al contenido.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Los formatos en los que se va a crear el contenido (videos, archivos, fotos…).
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Los canales en los que se publicará el contenido.
 
-          p A partir de lo anterior, se profundizará sobre la MIA que se refiere a la metodología “Mínima Asombrosa, la cual es nombrada así por la facilidad con la se puede explicar y sus sencillos pilares para crear contenido de éxito” (García, 2020). La MIA se enfoca en crear contenido aportante, pero a través de una estrategia; dicho de otra manera, a través de un proceso compuesto por unos pasos que contribuyan a alcanzar la meta. 
+          p(data-aos="fade-left") A partir de lo anterior, se profundizará sobre la MIA que se refiere a la metodología “Mínima Asombrosa, la cual es nombrada así por la facilidad con la se puede explicar y sus sencillos pilares para crear contenido de éxito” (García, 2020). La MIA se enfoca en crear contenido aportante, pero a través de una estrategia; dicho de otra manera, a través de un proceso compuesto por unos pasos que contribuyan a alcanzar la meta. 
 
-    p.mb-5 Esta metodología se basa en cinco pilares que todo buen creador de contenido debe aplicar:
+    p.mb-5(data-aos="fade-right") Esta metodología se basa en cinco pilares que todo buen creador de contenido debe aplicar:
 
     .row.justify-content-center.align-items-center.mb-5
       SlyderF(columnas="col-lg-6")
@@ -161,40 +161,40 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        p Teniendo en claro estos pilares, se procede a definir días específicos de la semana en los que se deben publicar esos contenidos. Luego se diseña un calendario donde se determinan los títulos y el contenido asociado a cada uno de ellos para las publicaciones; este siempre se debe estipular antes de iniciar las publicaciones, no se recomienda hacerlo día con día. Se puede alternar entre los diferentes tipos de contenido para luego identificar las publicaciones más exitosas y los horarios más convenientes. Si se evidencia que alguno de los pilares no está generando mayor impacto, se debe hacer un ajuste y comunicar de otra forma el objetivo.
+        p(data-aos="fade-right") Teniendo en claro estos pilares, se procede a definir días específicos de la semana en los que se deben publicar esos contenidos. Luego se diseña un calendario donde se determinan los títulos y el contenido asociado a cada uno de ellos para las publicaciones; este siempre se debe estipular antes de iniciar las publicaciones, no se recomienda hacerlo día con día. Se puede alternar entre los diferentes tipos de contenido para luego identificar las publicaciones más exitosas y los horarios más convenientes. Si se evidencia que alguno de los pilares no está generando mayor impacto, se debe hacer un ajuste y comunicar de otra forma el objetivo.
 
-        p Ejemplo de contenidos bajo esta metodología:
+        p(data-aos="fade-right") Ejemplo de contenidos bajo esta metodología:
 
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Pensemos en las publicaciones para una tienda de ropa femenina.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Producto: ropa para mujer.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Contenido: para Instagram.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Publicaciones: 1 por día.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Títulos de publicaciones y tipo de contenido en cada día de la semana:
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Lunes - Educar: “Evita que tu ropa se llene de motas. Aprende cómo”.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Martes - Ayudar: “Guíate en la siguiente tabla de medidas para tus camisas”.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Miércoles - Convencer: “Haz caso a las etiquetas, te explicamos por qué”.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Jueves - Entretener: utiliza un meme o una imagen chistosa a la que le puedes agregar información así “Esta es la cara de tu novio cuando te ve con la ropa de…” (el nombre de la marca).
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Viernes - Una historia: aparece en un video o en fotos y cuenta porqué decidiste lanzar la marca y los desafíos antes de hacerlo. 
 
@@ -211,10 +211,10 @@
           img(src='@/assets/curso/temas/tema4/img14.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        .cajon.color-primario.p-4.mb-3
+        .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
           p.mb-0 Existen muchas herramientas para crear contenidos digitales que simplifican el trabajo, lo vuelven mucho más rápido y optimizan las publicaciones. Hacer uso de ellas es importante ya que el crear contenido implica encontrar las palabras clave (<i>keywords</i>) que representen al post; saber redactar títulos llamativos que generen curiosidad al público; y finalmente diseñar un mensaje claro que le sepa llegar al público objetivo.
 
-        p A continuación, se indican algunas herramientas y aplicaciones para el diseño de contenido digital:
+        p(data-aos="fade-left") A continuación, se indican algunas herramientas y aplicaciones para el diseño de contenido digital:
 
     .row.justify-content-center.align-items-center.mb-5
       SlyderE.tarjeta.tarjeta--azul.p-5(indicadores="centro")
@@ -338,31 +338,31 @@
               img(src='@/assets/curso/temas/tema4/img23.svg', alt='Imágen decorativa')
 
     separador
-    #t_4_2.titulo-segundo.color-acento-contenido
-       h2 Tipos de contenido
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+       h2 4.2 Tipos de contenido
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema4/img6.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p El <i>marketing</i> de contenido le permite a una empresa establecerse como una autoridad en lo que profesa; pero para ello debe brindarle al público un material de calidad, que informe, que entretenga y que sea relevante. El principal beneficio de crear contenido propio, es la confianza que se genera en el público. Los clientes creen en las empresas que presentan un trabajo de calidad y que demuestran la experiencia que tienen en el campo en el que operan. 
+          p(data-aos="fade-left") El <i>marketing</i> de contenido le permite a una empresa establecerse como una autoridad en lo que profesa; pero para ello debe brindarle al público un material de calidad, que informe, que entretenga y que sea relevante. El principal beneficio de crear contenido propio, es la confianza que se genera en el público. Los clientes creen en las empresas que presentan un trabajo de calidad y que demuestran la experiencia que tienen en el campo en el que operan. 
 
-    p.mb-5 Existen tres tipos de contenido que pueden fidelizar y comprometer a los usuarios con esta estrategia de mercadeo digital:
+    p.mb-5(data-aos="fade-right") Existen tres tipos de contenido que pueden fidelizar y comprometer a los usuarios con esta estrategia de mercadeo digital:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-6.col-lg-2
-        figure.mb-3
+        figure.mb-3(data-aos="fade-down-right")
           img(src='@/assets/curso/temas/tema4/img24.svg', alt='Imágen decorativa')
 
       .col-6.col-lg-2
-        figure.mb-3
+        figure.mb-3(data-aos="fade-down")
           img(src='@/assets/curso/temas/tema4/img25.svg', alt='Imágen decorativa')
 
       .col-6.col-lg-2
-        figure.mb-3
+        figure.mb-3(data-aos="fade-down-left")
           img(src='@/assets/curso/temas/tema4/img26.svg', alt='Imágen decorativa')
 
     p.mb-5 Teniendo claro este tipo de contenido, aquí se presenta la clasificación por formatos texto, imagen, audio y video.
@@ -496,9 +496,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Como se vio anteriormente, el embudo de ventas lleva a conocer la etapa en la que se encuentra el cliente en el proceso de mercadeo hasta lograr la compra. En este numeral se amplía la información correspondiente al contenido que se le debe ofrecer al público objetivo, teniendo clara la etapa en la que se encuentra. 
+        p(data-aos="fade-left") Como se vio anteriormente, el embudo de ventas lleva a conocer la etapa en la que se encuentra el cliente en el proceso de mercadeo hasta lograr la compra. En este numeral se amplía la información correspondiente al contenido que se le debe ofrecer al público objetivo, teniendo clara la etapa en la que se encuentra. 
 
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4(data-aos="flip-down")
           p.mb-0 A cada fase del embudo se le aplican diferentes formatos que buscan satisfacer las necesidades de los clientes en ese momento del proceso; cuando se acierta con dicho contenido, los resultados del inbound marketing fluyen y los usuarios quedan satisfechos. 
 
       .col-10.col-lg-6
@@ -507,7 +507,7 @@
 
 
     separador
-    #t_4_3.titulo-segundo.color-acento-contenido
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 4.3 Cronograma de publicaciones por canal
 
     .row.justify-content-center.align-items-center.mb-5
@@ -516,38 +516,38 @@
           img(src='@/assets/curso/temas/tema4/img36.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p Un calendario de publicaciones para medios digitales es una herramienta que permite programar y gestionar el contenido alineado a la estrategia de mercadeo en los diferentes canales de la compañía. El diseño de esta herramienta es muy personal ya que se hace según el gusto de cada marca; sin embargo, su fin último es brindar uniformidad, orden y calidad a las publicaciones, para que estas fluyan correctamente durante cada mes; adicional a ello, permite realizar seguimiento a las mismas y efectuar mejoras según los resultados obtenidos. 
+        p(data-aos="fade-left") Un calendario de publicaciones para medios digitales es una herramienta que permite programar y gestionar el contenido alineado a la estrategia de mercadeo en los diferentes canales de la compañía. El diseño de esta herramienta es muy personal ya que se hace según el gusto de cada marca; sin embargo, su fin último es brindar uniformidad, orden y calidad a las publicaciones, para que estas fluyan correctamente durante cada mes; adicional a ello, permite realizar seguimiento a las mismas y efectuar mejoras según los resultados obtenidos. 
 
-        p De manera general, se podría decir que los calendarios incluyen:
+        p(data-aos="fade-left") De manera general, se podría decir que los calendarios incluyen:
 
         .tarjeta-2.p-4
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Definición del tipo de contenido que se manejará en cada red social o plataforma.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Hora de publicación, título, formato y copy de los contenidos.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Establecimiento del objetivo y tipo de campaña.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Links con documentos o imágenes de referencia.
 
-    p.mb-5 Algunos de los beneficios de contar con un calendario son:
+    p.mb-5(data-aos="fade-right") Algunos de los beneficios de contar con un calendario son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .tarjeta-2.p-4.mb-4
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               p.mb-0 <b>Optimiza tiempos:</b> con esto se evita crear contenido bajo presión y en un momento inadecuado cuando las ideas no fluyen. Crear publicaciones en dichos momentos genera aún más bloqueos en la creatividad, por ello, con un calendario se hace gestión y control por adelantado.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               p.mb-0 <b>Organización de temas:</b> con la planificación previa, hay mayor seguridad de tener temas en orden según los diferentes objetivos comunicacionales: educar, informar, entretener, etc. Con el calendario se puede definir la variedad de los temas durante el mes. 
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               p.mb-0 <b>Estrategia:</b> al generar orden en las publicaciones, se mejora la estrategia a nivel de comunicación y delegación.
 
@@ -557,7 +557,7 @@
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center
-        p.mb-5 Ahora bien, para la organización del calendario de publicaciones es importante tener en cuenta algunas acciones, pues el desarrollo de contenido es todo un desafío en la vida de los profesionales del marketing y se vuelve más complejo a medida que se agregan más canales. Por lo que a continuación se presenta una guía básica para crear un calendario de este tipo:
+        p.mb-5(data-aos="fade-right") Ahora bien, para la organización del calendario de publicaciones es importante tener en cuenta algunas acciones, pues el desarrollo de contenido es todo un desafío en la vida de los profesionales del marketing y se vuelve más complejo a medida que se agregan más canales. Por lo que a continuación se presenta una guía básica para crear un calendario de este tipo:
 
 
         .col-6.col-lg-4
@@ -596,7 +596,7 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
@@ -611,7 +611,7 @@
                     span Descargar 
                     i.fas.fa-file-download           
 
-    p.mb-5 Tener un cronograma de publicación permitirá tener organizado el plan de mercadeo digital de las empresas, así mismo, ofrece grandes beneficios, entre ellos:
+    p.mb-5(data-aos="fade-left") Tener un cronograma de publicación permitirá tener organizado el plan de mercadeo digital de las empresas, así mismo, ofrece grandes beneficios, entre ellos:
 
     .row.justify-content-center.align-items-center.mb-5
 

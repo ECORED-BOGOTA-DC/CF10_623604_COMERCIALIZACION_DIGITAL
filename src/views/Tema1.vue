@@ -481,14 +481,16 @@
 
         p Sus ventajas son el monitoreo constante del proceso de ventas y el comportamiento de los usuarios a través de las campañas, permite optimizar al máximo el contenido y las estrategias, ayuda a identificar clientes potenciales y a ofrecerles la propuesta de valor de la marca; y, finalmente, el embudo de ventas, contribuye a aumentar la productividad ya que proceso de ventas puede ser mucho más organizado y optimizado.
 
-    .bg4-tema1.mb-5
-      .row.justify-content-center.align-items-center.p-3
-        .col-lg-9
-          p Con el embudo se aprende que no todos los clientes se pueden tratar de igual manera ya que esto va ligado directamente con la etapa del embudo en la que cada cual se encuentran. Un cliente que apenas está conociendo la compañía, no accederá a un descuento promocional de la misma ya que ni siquiera se ha familiarizado con el contenido; por ello, a este tipo de clientes, por ejemplo, se les debe informar acerca del qué hacer de la empresa y de las ventajas de su producto o servicio, en vez de ofrecerle un descuento. Aquí las etapas del embudo de ventas:
-        
-        .col-8.col-lg-3
-          figure
-            img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imágen decorativa')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p.mb-lg-0.mt-lg-5 Con el embudo se aprende que no todos los clientes se pueden tratar de igual manera ya que esto va ligado directamente con la etapa del embudo en la que cada cual se encuentran. Un cliente que apenas está conociendo la compañía, no accederá a un descuento promocional de la misma ya que ni siquiera se ha familiarizado con el contenido; por ello, a este tipo de clientes, por ejemplo, se les debe informar acerca del qué hacer de la empresa y de las ventajas de su producto o servicio, en vez de ofrecerle un descuento. Aquí las etapas del embudo de ventas:
+
+          .col-8.col-lg-4
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema1/img26.svg', alt='Imágen decorativa').img-tarjeta
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -775,14 +777,16 @@
     .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
       h4.mt-3.text-right Marco legal de internet
 
-    .bg4-tema1.mb-5
-      .row.justify-content-center.align-items-center.p-3
-        .col-lg-9
-          p En el entorno digital no todo se vale. Hoy día el mercadeo digital se ha vuelto indispensable para vender y comunicar a los clientes la propuesta de valor de la marca; sin embargo, al hacerlo a través de los diferentes canales, se pueden omitir en ocasiones el marco legal de las campañas digitales de mercadeo, por ello, hay que tener presente en el espacio virtual leyes las que no se deben infringir. 
-        
-        .col-8.col-lg-3
-          figure
-            img(src='@/assets/curso/temas/tema1/img48.svg', alt='Imágen decorativa')
+
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p.mb-lg-0.mt-lg-5 En el entorno digital no todo se vale. Hoy día el mercadeo digital se ha vuelto indispensable para vender y comunicar a los clientes la propuesta de valor de la marca; sin embargo, al hacerlo a través de los diferentes canales, se pueden omitir en ocasiones el marco legal de las campañas digitales de mercadeo, por ello, hay que tener presente en el espacio virtual leyes las que no se deben infringir.
+
+          .col-8.col-lg-4
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema1/img48.svg', alt='Imágen decorativa').img-tarjeta
 
     .tarjeta.tarjeta--gris.p-4
       PasosB.color-secundario

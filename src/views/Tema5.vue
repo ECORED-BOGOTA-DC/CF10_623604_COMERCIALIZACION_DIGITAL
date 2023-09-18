@@ -23,9 +23,9 @@
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
-        p Las estrategias de <i>marketing</i> digital generalmente se dirigen a todo tipo de motores de búsqueda de acuerdo con sus particularidades, por lo que, el contenido o empresa, debe estar ubicado en todos los motores de búsqueda y visible para todos los usuarios, independientemente del motor de búsqueda utilizado. 
+        p(data-aos="fade-left") Las estrategias de <i>marketing</i> digital generalmente se dirigen a todo tipo de motores de búsqueda de acuerdo con sus particularidades, por lo que, el contenido o empresa, debe estar ubicado en todos los motores de búsqueda y visible para todos los usuarios, independientemente del motor de búsqueda utilizado. 
 
-        p Los motores de búsqueda y posicionamiento web se basan en dos pasos, a saber: 
+        p(data-aos="fade-left") Los motores de búsqueda y posicionamiento web se basan en dos pasos, a saber: 
 
       .row.justify-content-center.align-items-center
         TabsC.color-primario
@@ -68,7 +68,7 @@
                   img(src='@/assets/curso/temas/tema5/img3.svg', alt='Imágen decorativa')
 
     separador
-    #t_5_1.titulo-segundo.color-acento-contenido
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 5.1 <i>Search Engine Optimization</i>
 
     .row.justify-content-center.align-items-center.mb-5
@@ -82,23 +82,25 @@
         .cajon.color-azul1.p-4.mb-3
           p.mb-0 Cuando los motores de búsqueda conocen su sitio, pueden escanear el código y el contenido de su sitio e indexar la información. Los motores de búsqueda analizan el contenido de su sitio web para determinar cuándo y dónde aparecerá su sitio web en las páginas de resultados del motor de búsqueda. 
 
-    .bg4-tema1.mb-5
-      .row.justify-content-center.align-items-center.p-3
-        .col-lg-9
-          p.mt-lg-5 El contenido de la página (el texto que se muestra en las páginas web) debe ser atractivo, completo y contener tantas palabras clave como sea posible dentro de límites razonables. Algunos motores de búsqueda, incluido Google®, prestan mucha atención a la cantidad de sitios web que se vinculan a su sitio y determinan la importancia y la clasificación de su sitio. Estos enlaces externos se denominan <i>backlinks.</i> 
-        
-        .col-8.col-lg-3
-          figure
-            img(src='@/assets/curso/temas/tema5/img5.svg', alt='Imágen decorativa')
+    .row.justify-content-center.align-items-center.mb-5
+      .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
+        .row.justify-content-center.align-items-center.mb-5
+          .col-lg-8
+            p.mb-lg-0.mt-lg-5 El contenido de la página (el texto que se muestra en las páginas web) debe ser atractivo, completo y contener tantas palabras clave como sea posible dentro de límites razonables. Algunos motores de búsqueda, incluido Google®, prestan mucha atención a la cantidad de sitios web que se vinculan a su sitio y determinan la importancia y la clasificación de su sitio. Estos enlaces externos se denominan <i>backlinks.</i>
+
+          .col-8.col-lg-4
+            figure.mb-0
+              img(src='@/assets/curso/temas/tema5/img5.svg', alt='Imágen decorativa').img-tarjeta
+
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         p A lo anterior se le conoce como SEO, pues traduce "optimización de motores de búsqueda" y en el <i>marketing</i> esta estrategia es esencial para que las empresas ganen exposición y visibilidad en el mundo digital, lo que generará en más clientes potenciales, clientes redituables y mayor facturación, es decir, ganancias; y es que, se ha demostrado que los primeros resultados encontrados en Google incrementarán (y significativamente) las oportunidades de ser encontrada la marca; después de todo, el 90% de las personas que buscan en Google simplemente hacen clic en los resultados que aparecen en la primera página del motor de búsqueda.
 
         p Aquí hay algunos conceptos y técnicas a considerar en el SEO:
 
       .col-10.col-lg-6
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
@@ -211,7 +213,7 @@
             h4.text-center.mt-5 Optimización SEO
             p.text-center Técnicas destinadas a mejorar la posición de palabras clave o contenido.
 
-    p.mb-5 Por otro lado, hay dos elementos principales que definen la posición de una página: 
+    p.mb-5(data-aos="fade-left") Por otro lado, hay dos elementos principales que definen la posición de una página: 
 
     .row.justify-content-center.align-items-center.mb-5
       TabsC.color-primario
@@ -235,19 +237,19 @@
 
 
     separador
-    #t_5_2.titulo-segundo.color-acento-contenido
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 <i>Search Engine Marketing</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
-        figure
+        figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema5/img27.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
           p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés search engine <i>marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>on line</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
 
-        p El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
+        p(data-aos="fade-left") El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
 
 
     .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
@@ -255,13 +257,13 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p.mb-4 Para saber qué sitios mostrar, los motores de búsqueda utilizan algoritmos que apuntan a los sitios que  mejor responden a una solicitud en particular. Por ejemplo, los algoritmos de Google se basan principalmente en la relevancia (contenido web) y permisos (enlaces de otros sitios).
+        p.mb-4(data-aos="fade-right") Para saber qué sitios mostrar, los motores de búsqueda utilizan algoritmos que apuntan a los sitios que  mejor responden a una solicitud en particular. Por ejemplo, los algoritmos de Google se basan principalmente en la relevancia (contenido web) y permisos (enlaces de otros sitios).
 
-        .cajon.color-azul1.p-4.mb-3
+        .cajon.color-azul1.p-4.mb-3(data-aos="fade-right")
           p.mb-0 Por lo general, se muestran en las columnas superior y  derecha. A diferencia de las listas orgánicas, los anunciantes deben pagar  por cada clic. Para comprar anuncios de motores de búsqueda y obtener tráfico, debe buscar soluciones de publicidad de motores de búsqueda como Google Ads. Este sistema también se conoce como PPC (pago por clic) o CPC (coste por clic).
     
       .col-10.col-lg-6
-        figure
+        figure(data-aos="flip-down")
           img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imágen decorativa')
 
 
