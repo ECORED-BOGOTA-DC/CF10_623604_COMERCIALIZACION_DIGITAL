@@ -10,10 +10,10 @@
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-6
-          .cajon.color-azul1.p-4.mb-3
-            p.mb-0 Una campaña digital es una herramienta de gran importancia dentro del marketing digital ya que tiene como fin impactar a una audiencia con un mensaje o propuesta de valor, generando una acción que apunte al logro de los objetivos de la compañía: posicionamiento de marca, ganar más seguidores, obtener más tráfico al sitio web, aumentar las suscripciones a boletines, obtener contactos, fortalecer la imagen, aumentar ventas, entre otras.
+          .cajon.color-azul1.p-4.mb-3(data-aos="flip-down")
+            p.mb-0 Una campaña digital es una herramienta de gran importancia dentro del <i>marketing</i> digital ya que tiene como fin impactar a una audiencia con un mensaje o propuesta de valor, generando una acción que apunte al logro de los objetivos de la compañía: posicionamiento de marca, ganar más seguidores, obtener más tráfico al sitio web, aumentar las suscripciones a boletines, obtener contactos, fortalecer la imagen, aumentar ventas, entre otras.
 
-          p Con las campañas de <i>marketing</i> se busca conseguir éxito a través de estudios previos con respecto al tipo de público en el cual hay un interés importante. Así pues, no solo se trata de diseñar un anuncio publicitario, sino de definir el objetivo final partiendo de análisis y estrategias que apunten al mismo. A modo de ejemplo, se podría mencionar la temporada decembrina donde se investigan las líneas de compra de años pasados, para nuevamente aplicarlas en la actualidad y obtener resultados parecidos o mucho mejores. La clave está en hacer que el usuario se identifique con el anuncio publicitario que se le muestra y para ello son necesarias las estrategias de marketing para generar un mayor impacto.
+          p(data-aos="fade-right") Con las campañas de <i>marketing</i> se busca conseguir éxito a través de estudios previos con respecto al tipo de público en el cual hay un interés importante. Así pues, no solo se trata de diseñar un anuncio publicitario, sino de definir el objetivo final partiendo de análisis y estrategias que apunten al mismo. A modo de ejemplo, se podría mencionar la temporada decembrina donde se investigan las líneas de compra de años pasados, para nuevamente aplicarlas en la actualidad y obtener resultados parecidos o mucho mejores. La clave está en hacer que el usuario se identifique con el anuncio publicitario que se le muestra y para ello son necesarias las estrategias de <i>marketing</i> para generar un mayor impacto.
 
         .col-10.col-lg-6
           figure
@@ -21,7 +21,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Una de las ventajas importantes de estas campañas, es su componente de inmediatez ya que permiten generar una interacción con la audiencia y medir el impacto de esta de manera más rápida que con el marketing tradicional; por ello, esta herramienta es de gran aporte a las empresas para que lleven sus proyectos de una manera más eficiente. 
+      p(data-aos="fade-right") Una de las ventajas importantes de estas campañas, es su componente de inmediatez ya que permiten generar una interacción con la audiencia y medir el impacto de esta de manera más rápida que con el <i>marketing</i> tradicional; por ello, esta herramienta es de gran aporte a las empresas para que lleven sus proyectos de una manera más eficiente. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       figure
@@ -30,23 +30,23 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        .cajon.color-primario.p-4.mb-4
+        .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
           p.mb-0 Otro de los beneficios de las campañas digitales es que puede abarcar diferentes medios, según sea el caso y tipo de audiencia, para conectar con el público; ejemplo de ello, es el <i>email marketing</i>, las estrategias SEO y SEM, la publicidad en las redes sociales entre otros. La eficacia en el uso del canal dependerá de la planificación y la estrategia desarrollada con anterioridad. 
 
-        p Además, lo interesante de esta herramienta es que permite cambiar o corregir las estrategias que no estén dando resultado y potenciar las que sí.  Las campañas de <i>marketing</i> pueden mostrar a las empresas comprometidas con el público dando beneficios o simplificando procesos. Toda campaña debe adaptarse a los cambios, si la intención es vender más. 
+        p(data-aos="fade-right") Además, lo interesante de esta herramienta es que permite cambiar o corregir las estrategias que no estén dando resultado y potenciar las que sí.  Las campañas de <i>marketing</i> pueden mostrar a las empresas comprometidas con el público dando beneficios o simplificando procesos. Toda campaña debe adaptarse a los cambios, si la intención es vender más. 
 
       .col-10.col-lg-6
         figure
           img(src='@/assets/curso/temas/tema1/img2.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      h4 Observe a continuación varios ejemplos:
+      h4(data-aos="fade-left") Observe a continuación varios ejemplos:
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta--container.row
         .col-md.tarjeta.tarjeta-azul1.p-5
           .row.justify-content-center.mb-4
-            p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de marketing de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de marketing enfocada en este sector. Envío más de 180 botellas a personalidades e influencers del país para que mostraran sus casos de éxito y sus historias de optimismo.
+            p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de <i>marketing</i> de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de <i>marketing</i> enfocada en este sector. Envío más de 180 botellas a personalidades e influencers del país para que mostraran sus casos de éxito y sus historias de optimismo.
             .col-10.col-lg-12
               figure
                 img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imágen decorativa').img3-tm1
@@ -80,11 +80,11 @@
           img(src='@/assets/curso/temas/tema1/img6.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p <b>Las emociones siempre triunfan.</b> Quizás esa es la razón de que este video de Knorr haya obtenido tantas reproducciones en 2016. En principio parece orientada a captar a los #[b #[i foodie millennials.]]
+        p(data-aos="fade-left") <b>Las emociones siempre triunfan.</b> Quizás esa es la razón de que este video de Knorr haya obtenido tantas reproducciones en 2016. En principio parece orientada a captar a los #[b #[i foodie millennials.]]
 
-        p Cada vez las redes sociales y el mundo blog evidencian que la cocina puede llegar a ser muy trend. La campaña fue creada por <b>MullenLowe.</b>
+        p(data-aos="fade-left") Cada vez las redes sociales y el mundo blog evidencian que la cocina puede llegar a ser muy trend. La campaña fue creada por <b>MullenLowe.</b>
 
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
@@ -131,22 +131,22 @@
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema1/img9.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p ¡Observe como una campaña de medios sociales con corazón! La Fundación Make AWish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el hashtag <i>#ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
+          p(data-aos="fade-left") ¡Observe como una campaña de medios sociales con corazón! La Fundación Make AWish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el hashtag <i>#ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
 
     .row.justify-content-center.align-items-center.mb-5
-      h4 <i>#ShareYourEars</i> Las orejas benéficas de Disney
+      h4(data-aos="fade-left") <i>#ShareYourEars</i> Las orejas benéficas de Disney
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        figure
+        figure(data-aos="flip-left")
           img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      h4 Claves de éxito de <i>#ShareYourEars</i>
+      h4(data-aos="fade-left") Claves de éxito de <i>#ShareYourEars</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -159,64 +159,64 @@
       .col-lg-6
         .tarjeta-1.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Éxito en Facebook.          
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Donó 2 millones de dólares.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Compromiso con la audiencia.
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               p.mb-0 Aumento del <i>engagement.</i>
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Uso de la herramienta TINT.  
 
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | #ShareYourEars tuvo un éxito bestial en Facebook.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Tras el éxito de la campaña y Disney Parks donó 2 millones de dólares a Make-A-Wish®, el doble de lo que había prometido.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Fomentaron el compromiso de la audiencia.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Aumentaron el engagement con su sitio web a través porque los usuarios querían ver el contenido que ellos mismos habían creado.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Se valieron de la herramienta TINT para captar los comentarios sociales.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | El compromiso de la marca creció en 28%.
 
     .row.justify-content-center.align-items-center.mb-5
-      h4 Chipotle: <i>behind the scenes en Instagram</i>
+      h4(data-aos="fade-left") Chipotle: <i>behind the scenes en Instagram</i>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Chipotle se abre a sus fans y los lleva a ese terreno misterioso y seductor que ocurre en el <i>backstage</i> de las marcas. Ha decidido jugar con los ingredientes de los burritos y mostrarse tal cual en Intagram. Aguacate, cilantro, maíz, jalapeños… cualquier excusa es buena para mostrar a sus fans cómo preparan sus burritos.
+        p(data-aos="fade-right") Chipotle se abre a sus fans y los lleva a ese terreno misterioso y seductor que ocurre en el <i>backstage</i> de las marcas. Ha decidido jugar con los ingredientes de los burritos y mostrarse tal cual en Intagram. Aguacate, cilantro, maíz, jalapeños… cualquier excusa es buena para mostrar a sus fans cómo preparan sus burritos.
 
-        h5.my-4 Claves del éxito de Chipotle
+        h5.my-4(data-aos="fade-right") Claves del éxito de Chipotle
 
         .tarjeta-2.p-4
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Son fotos sencillas, sin trucos ni efectos.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Denotan transparencia, en un sector donde esta es fundamental.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Es divertido, por eso ha tenido una acogida tan buena.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Refuerza el mensaje de la marca de que es una compañía transparente que trabaja con ingredientes integrales.
 
@@ -225,7 +225,7 @@
           img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      .bg-tarjeta1.p-4
+      .bg-tarjeta1.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center Ads en web
@@ -233,7 +233,7 @@
           .col-9
             p Integra contenido en el sitio web sin causar alguna interrupción en la navegación.
 
-      .bg-tarjeta2.p-4
+      .bg-tarjeta2.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center Display
@@ -241,7 +241,7 @@
           .col-9
             p Este tipo de campaña se trata de un anuncio en las páginas de destino y regularmente se muestran como banners combinando imágenes con texto.
 
-      .bg-tarjeta3.p-4
+      .bg-tarjeta3.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center SEM
@@ -249,7 +249,7 @@
           .col-9
             p Es de las más usadas actualmente ya que consta de anuncios en buscadores como Google con el único fin de posicionar el negocio en los primeros resultados de búsqueda.
 
-      .bg-tarjeta4.p-4
+      .bg-tarjeta4.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center E-mail
@@ -257,7 +257,7 @@
           .col-9
             p Esta es una estrategia de comunicación rápida mediante envíos de correos electrónicos para atraer clientes al negocio.
 
-      .bg-tarjeta5.p-4
+      .bg-tarjeta5.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center Retargeting
@@ -265,7 +265,7 @@
           .col-9
             p Es para aquellos que no se convierten en la primera visita y continúa atrayendo prospectos al negocio. Con esta opción se pueden impactar varias veces a distintos usuarios.
 
-      .bg-tarjeta6.p-4
+      .bg-tarjeta6.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-2
             h5.text-center.text-right2 Ads en redes sociales y móviles
@@ -273,7 +273,7 @@
           .col-9
             p La mayoría de las personas se encuentra en sus móviles y es importante impactarlos en redes sociales y que estén adaptados para estos formatos.
 
-      .bg-tarjeta7.p-4
+      .bg-tarjeta7.p-4(data-aos="fade-left")
         .row.justify-content-center.align-items-center
           .col-3
             h5.text-center Vídeo
@@ -282,7 +282,7 @@
             p Son excelente opción para atraer a clientes por medio de clics y es de los más aceptados entre los usuarios, no está de más recordar que debe ser relevante para el cliente potencial.
 
     .row.justify-content-center.align-items-center.mb-5
-      p Para que cualquier campaña de mercadeo on line funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo on line que funcionan de manera práctica para lograr ventas a través de estas plataformas.
+      p(data-aos="fade-right") Para que cualquier campaña de mercadeo on line funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo on line que funcionan de manera práctica para lograr ventas a través de estas plataformas.
 
     .row.justify-content-center.align-items-center.mb-5
       TabsC.color-primario
@@ -346,7 +346,7 @@
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      p Adicional a lo anterior, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas on line para redes sociales. 
+      p(data-aos="fade-right") Adicional a lo anterior, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas on line para redes sociales. 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--amarilla.p-5
@@ -406,7 +406,7 @@
             .col-md-6.mb-4.mb-md-0
               h5 Colabora con creadores a través de las historias de Instagram
 
-              p Las historias de Instagram son una gran herramienta de marketing para colaborar con creadores de contenido o influencers. 
+              p Las historias de Instagram son una gran herramienta de <i>marketing</i> para colaborar con creadores de contenido o influencers. 
 
               p Las historias son imágenes o videos publicados en una cuenta de Instagram que solo están disponibles para la audiencia durante 24 horas. Una vez transcurrido ese tiempo, desaparecen para siempre.
 
@@ -467,7 +467,7 @@
 
     separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 1.2 Embudo de ventas
 
 
@@ -477,9 +477,9 @@
           img(src='@/assets/curso/temas/tema1/img25.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p El embudo de ventas es una herramienta que representa las etapas por las cuales pasa un cliente potencial hasta realizar una compra de un producto o servicio; van desde el primer contacto con la marca, hasta el cierre de la venta. Con el embudo, se puede comprender la etapa en la que se encuentra el cliente para así poder generar estrategias que ayuden a cerrar la venta y que vayan acordes a los clientes potenciales de la compañía. 
+        p(data-aos="fade-left") El embudo de ventas es una herramienta que representa las etapas por las cuales pasa un cliente potencial hasta realizar una compra de un producto o servicio; van desde el primer contacto con la marca, hasta el cierre de la venta. Con el embudo, se puede comprender la etapa en la que se encuentra el cliente para así poder generar estrategias que ayuden a cerrar la venta y que vayan acordes a los clientes potenciales de la compañía. 
 
-        p Sus ventajas son el monitoreo constante del proceso de ventas y el comportamiento de los usuarios a través de las campañas, permite optimizar al máximo el contenido y las estrategias, ayuda a identificar clientes potenciales y a ofrecerles la propuesta de valor de la marca; y, finalmente, el embudo de ventas, contribuye a aumentar la productividad ya que proceso de ventas puede ser mucho más organizado y optimizado.
+        p(data-aos="fade-left") Sus ventajas son el monitoreo constante del proceso de ventas y el comportamiento de los usuarios a través de las campañas, permite optimizar al máximo el contenido y las estrategias, ayuda a identificar clientes potenciales y a ofrecerles la propuesta de valor de la marca; y, finalmente, el embudo de ventas, contribuye a aumentar la productividad ya que proceso de ventas puede ser mucho más organizado y optimizado.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -494,7 +494,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-5
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
           h5 Figura 1
           span <i>Etapas de un embudo de ventas</i>
         
@@ -504,7 +504,7 @@
             p.mb-0 <b>Fuente:</b> Espacio digital. https://www.espaciodigital.com.co/blog/embudo-marketing -digital-como-elaborarlo-exitosamente/#Que_es_un_embudo_de_ventas
 
     .row.justify-content-center.align-items-center.mb-5
-      p Normalmente los embudos de ventas se dividen en tres etapas, a saber:
+      p(data-aos="fade-right") Normalmente los embudos de ventas se dividen en tres etapas, a saber:
 
     .row.justify-content-center.align-items-center.mb-5
       AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
@@ -571,40 +571,40 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Teniendo estas etapas claras, entonces miremos las acciones que se podrían implementar en cada una de ellas:
+      p(data-aos="fade-right") Teniendo estas etapas claras, entonces miremos las acciones que se podrían implementar en cada una de ellas:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .row.justify-content-center.align-items-center
           .col-8.col-lg-4.mb-3
-            figure
+            figure(data-aos="fade-down-right")
               img(src='@/assets/curso/temas/tema1/img31.svg', alt='Imágen decorativa')
 
           .col-8.col-lg-4.mb-3
-            figure
+            figure(data-aos="fade-down")
               img(src='@/assets/curso/temas/tema1/img32.svg', alt='Imágen decorativa')
 
           .col-8.col-lg-4.mb-3
-            figure
+            figure(data-aos="fade-down-left")
               img(src='@/assets/curso/temas/tema1/img33.svg', alt='Imágen decorativa')
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema1/img34.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización teniendo en cuenta los <i>buyer</i> persona; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
+          p(data-aos="fade-left") Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización teniendo en cuenta los <i>buyer</i> persona; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
 
     .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
       h4.mt-3.text-right Técnicas de fijación de objetivos 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Toda empresa requiere tener claros sus objetivos de mercadeo para alcanzar mayor nivel de ventas, rentabilidad y posicionamiento de marca. Los objetivos son resultados concretos que se desean lograr en un plazo fijo y que incluyen recursos de personal, dinero y otras herramientas según sea la disponibilidad de la compañía. Plantearlos es de gran importancia ya que deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo; todo ello con la intención de lograr una meta mayor que vaya enfocada al crecimiento del negocio. 
+        p(data-aos="fade-right") Toda empresa requiere tener claros sus objetivos de mercadeo para alcanzar mayor nivel de ventas, rentabilidad y posicionamiento de marca. Los objetivos son resultados concretos que se desean lograr en un plazo fijo y que incluyen recursos de personal, dinero y otras herramientas según sea la disponibilidad de la compañía. Plantearlos es de gran importancia ya que deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo; todo ello con la intención de lograr una meta mayor que vaya enfocada al crecimiento del negocio. 
 
-        p Así, pues, los pasos para definir los objetivos son:
+        p(data-aos="fade-right") Así, pues, los pasos para definir los objetivos son:
       
       .col-10.col-lg-6
         figure
@@ -613,7 +613,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
@@ -630,7 +630,7 @@
 
     separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 1.3 Segmentos de audiencias
 
     .row.justify-content-center.align-items-center.mb-5
@@ -639,13 +639,13 @@
           img(src='@/assets/curso/temas/tema1/img36.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p Hoy día generar negocios en cualquier lugar del mundo es fácil si se cuenta con los medios digitales para hacerlo y si resuelven dos retos importantes: el primero es identificar al público objetivo de la marca, y el segundo es hacerles llegar el mensaje adecuado según lo que desea ofrecer la compañía. Cuanto más se identifiquen los deseos y necesidades de los clientes, más sencillo será diseñar campañas de mercadeo enfocadas en cada uno de ellos.
+        p(data-aos="fade-left") Hoy día generar negocios en cualquier lugar del mundo es fácil si se cuenta con los medios digitales para hacerlo y si resuelven dos retos importantes: el primero es identificar al público objetivo de la marca, y el segundo es hacerles llegar el mensaje adecuado según lo que desea ofrecer la compañía. Cuanto más se identifiquen los deseos y necesidades de los clientes, más sencillo será diseñar campañas de mercadeo enfocadas en cada uno de ellos.
 
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4(data-aos="flip-down")
           p.mb-0 Para lograr lo anterior, se debe hacer uso de la segmentación de audiencias, que es el proceso por el cual se identifican los clientes relevantes teniendo en cuenta factores demográficos, sus intereses, gustos personales y su intención de compra. Pueden resultar varios segmentos de audiencias, sin embargo, entre más específico sea este proceso, mucho mejor para no desperdiciar campañas de mercadeo <i>online</i> que pueden tornarse irrelevantes o insuficientes. 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Con la segmentación se busca analizar de manera más profunda a los clientes, para determinar lo que realmente requieren y así poder personalizar el contenido que se les ofrece de una manera más eficaz y logrando mayor cantidad de ventas. Cuanto más definido se tenga el público, más efectiva podrá ser la estrategia de ventas; sin embargo, dada la posibilidad de resultar con varios segmentos a la vez, existen diferentes formas de segmentar a la audiencia:
+      p(data-aos="fade-right") Con la segmentación se busca analizar de manera más profunda a los clientes, para determinar lo que realmente requieren y así poder personalizar el contenido que se les ofrece de una manera más eficaz y logrando mayor cantidad de ventas. Cuanto más definido se tenga el público, más efectiva podrá ser la estrategia de ventas; sin embargo, dada la posibilidad de resultar con varios segmentos a la vez, existen diferentes formas de segmentar a la audiencia:
 
     .tarjeta.tarjeta--azul.bg-slyder.mb-5
       SlyderA(tipo="b").p-5
@@ -738,35 +738,35 @@
           img(src='@/assets/curso/temas/tema1/img46.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        .cajon.color-azul1.p-4
+        .cajon.color-azul1.p-4(data-aos="flip-down")
           p.mb-0 Los canales digitales sin las diferentes plataformas en las cuales se comparten los mensajes al cliente para incitar su consumo. Una buena estrategia de mercadeo hace uso de varios canales para generar tráfico, ya que cada uno de ellos tiene diferentes usuarios y clientes potenciales. En relación con este tema se habla también del <i>inbound marketing</i> qué son las técnicas que permiten atraer a clientes de una manera no invasiva, ofreciéndole contenido útil y de valor. 
 
     .row.justify-content-center.align-items-center.mb-5
-      p Algunos canales que permiten entonces aplicar la estrategia del inbound marketing son:
+      p(data-aos="fade-right") Algunos canales que permiten entonces aplicar la estrategia del inbound <i>marketing</i> son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
-        .tarjeta-conectada1.p-4
+        .tarjeta-conectada1.p-4(data-aos="fade-up-right")
           h5 Blog
           p Realizar contenido de blog, como artículos especializados, videos, comunicados, infografías, e-books, entre otros, son de suma importancia para la estrategia de comunicación de todas las marcas, ya que ayudan a promocionar o vender más fácil.
 
-        .tarjeta-conectada2.p-4
+        .tarjeta-conectada2.p-4(data-aos="fade-up-right")
           h5 Redes sociales
           p Es una excelente opción cuando se trata de contenido de marca y de relevancia para el usuario, pues ayudan a crear una comunidad. 
 
-        .tarjeta-conectada3.p-4
+        .tarjeta-conectada3.p-4(data-aos="fade-up-right")
           h5 Mensajes de texto
           p A través de los mensajes de texto puedes ayudarle a tu consumidor a recordar fechas o asuntos importantes como pago de su factura, una cita, una nueva promoción etc.
 
-        .tarjeta-conectada4.p-4
+        .tarjeta-conectada4.p-4(data-aos="fade-up-right")
           h5 E-mail <i>marketing</i>
           p Puede estar más enfocado a la promoción de nuevos productos. Pueden ser campañas informativas o de educación, utilizando videos o gráficas llamativas para que el mail logre su objetivo: atraer, retener y fidelizar. 
 
-        .tarjeta-conectada5.p-4
+        .tarjeta-conectada5.p-4(data-aos="fade-up-right")
           h5 Formularios
           p Son efectivos para conocer más a tus clientes potenciales y recolectar información valiosa. Esto facilita sus datos a cambio de la información de valor que le ofrezca la marca. 
 
-        .tarjeta-conectada6.p-4
+        .tarjeta-conectada6.p-4(data-aos="fade-up-right")
           h5 Notificaciones <i>web push</i>
           p Son mensajes emergentes a los que el cliente se suscribe si quiere obtener información de primera mano una vez esté disponible en la página web de una marca. 
 

@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
 
         .col-lg-6
-          p(data-aos="fade-left") La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del inbound marketing que ha tomado una gran importancia ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
+          p(data-aos="fade-left") La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del <i>inbound marketing</i> que ha tomado una gran importancia ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
 
           .cajon.color-azul1.p-4(data-aos="flip-down")
             p.mb-0 Los contenidos digitales son una estrategia muy buena cuando se usan de manera correcta con fines comerciales, pues ayudan a que los clientes se conecten de manera emocional y racional con la marca, viendo en estos pilares de confianza, inspiración y empatía que contribuyen a posicionar su imagen en el mercado y en los motores de búsqueda.
@@ -499,7 +499,7 @@
         p(data-aos="fade-left") Como se vio anteriormente, el embudo de ventas lleva a conocer la etapa en la que se encuentra el cliente en el proceso de mercadeo hasta lograr la compra. En este numeral se amplía la información correspondiente al contenido que se le debe ofrecer al público objetivo, teniendo clara la etapa en la que se encuentra. 
 
         .cajon.color-primario.p-4(data-aos="flip-down")
-          p.mb-0 A cada fase del embudo se le aplican diferentes formatos que buscan satisfacer las necesidades de los clientes en ese momento del proceso; cuando se acierta con dicho contenido, los resultados del inbound marketing fluyen y los usuarios quedan satisfechos. 
+          p.mb-0 A cada fase del embudo se le aplican diferentes formatos que buscan satisfacer las necesidades de los clientes en ese momento del proceso; cuando se acierta con dicho contenido, los resultados del <i>inbound marketing</i> fluyen y los usuarios quedan satisfechos. 
 
       .col-10.col-lg-6
         figure
@@ -557,7 +557,7 @@
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center
-        p.mb-5(data-aos="fade-right") Ahora bien, para la organización del calendario de publicaciones es importante tener en cuenta algunas acciones, pues el desarrollo de contenido es todo un desafío en la vida de los profesionales del marketing y se vuelve más complejo a medida que se agregan más canales. Por lo que a continuación se presenta una guía básica para crear un calendario de este tipo:
+        p.mb-5(data-aos="fade-right") Ahora bien, para la organización del calendario de publicaciones es importante tener en cuenta algunas acciones, pues el desarrollo de contenido es todo un desafío en la vida de los profesionales del <i>marketing</i> y se vuelve más complejo a medida que se agregan más canales. Por lo que a continuación se presenta una guía básica para crear un calendario de este tipo:
 
 
         .col-6.col-lg-4

@@ -12,19 +12,19 @@
         .tarjeta-azul3.p-4
           .row.justify-content-center.align-items-center
             .col-6.col-lg-2
-              figure
+              figure(data-aos="fade-right")
                 img(src='@/assets/curso/temas/tema2/img1.svg', alt='Imágen decorativa')
             
             .col-lg-10
-              p Se consideran sistemas de medición empleados para cuantificar y evaluar aspectos de un negocio, por ejemplo, tendencias, comportamientos y resultados. Con ellas, se puede medir y evaluar el desempeño de cualquier acción y mostrar si las estrategias de marketing están contribuyendo o no a los resultados de ventas de los productos o servicios de una empresa.
+              p(data-aos="fade-left") Se consideran sistemas de medición empleados para cuantificar y evaluar aspectos de un negocio, por ejemplo, tendencias, comportamientos y resultados. Con ellas, se puede medir y evaluar el desempeño de cualquier acción y mostrar si las estrategias de <i>marketing</i> están contribuyendo o no a los resultados de ventas de los productos o servicios de una empresa.
 
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.1 Generalidades de las métricas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Todo lo que se puede medir, se puede mejorar y gestionar, con esta frase, en el escenario empresarial y los inversores, comités de dirección o el departamento de finanzas hablan un solo lenguaje y es el de los beneficios, los márgenes y el precio de las acciones, por lo que a ellos realmente les interesa es ¿cómo un incremento en la satisfacción del cliente aumenta anualmente las utilidades de la empresa? De esta forma, la dirección de la organización puede medir la actividad de <i>marketing.</i>
+        p(data-aos="fade-left") Todo lo que se puede medir, se puede mejorar y gestionar, con esta frase, en el escenario empresarial y los inversores, comités de dirección o el departamento de finanzas hablan un solo lenguaje y es el de los beneficios, los márgenes y el precio de las acciones, por lo que a ellos realmente les interesa es ¿cómo un incremento en la satisfacción del cliente aumenta anualmente las utilidades de la empresa? De esta forma, la dirección de la organización puede medir la actividad de <i>marketing.</i>
 
       .col-10.col-lg-6
         figure
@@ -48,19 +48,19 @@
       .col-lg-6
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Intentar gestionar activos intangibles, como la marca, la cual permitirá desarrollar relaciones duraderas entre cliente-empresa.     
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Segmentar de forma adecuada, de modo que se pueda ofrecer productos y servicios mejor adaptados a las necesidades del cliente.
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Introducir en el mercado productos y servicios innovadores para los clientes de segmentos objetivo. 
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Producir productos y servicios de alta calidad a coste ajustado. 
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Movilizar habilidades y motivaciones que tengan por objetivo la mejora continua de los procesos en los que trabajan y aplicar la tecnología de forma efectiva y responsable. 
 
@@ -72,16 +72,16 @@
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema2/img4.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p Hoy las empresas están compitiendo en entornos complejos y, por tanto, es vital que tengan una exacta comprensión de sus objetivos y el método más adecuado para alcanzarlos, es aquí donde el cuadro de mando toma relevancia, pues traduce la estrategia y misión de la compañía en medidas de acción desde cuatro perspectivas: los clientes, la formación y el crecimiento, las finanzas y los procesos internos, que proporciona la estructura necesaria para un sistema de gestión y medición estratégica. 
+          p(data-aos="fade-left") Hoy las empresas están compitiendo en entornos complejos y, por tanto, es vital que tengan una exacta comprensión de sus objetivos y el método más adecuado para alcanzarlos, es aquí donde el cuadro de mando toma relevancia, pues traduce la estrategia y misión de la compañía en medidas de acción desde cuatro perspectivas: los clientes, la formación y el crecimiento, las finanzas y los procesos internos, que proporciona la estructura necesaria para un sistema de gestión y medición estratégica. 
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-10
-          .titulo-sexto.color-acento-contenido.mb-5
+          .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
             h5 Figura 2
             span <i>¿Qué es un cuadro de mando?</i>
 
@@ -91,11 +91,11 @@
               p.mb-0 <b>Nota.</b> Tomado de Kaplan y Norton (2002).
 
     .row.justify-content-center.align-items-center.mb-5
-      p Entonces, el cuadro de mando es un sistema de información, para la toma de decisiones de la dirección, que presenta indicadores que pueden servir como señales de alerta, en el que intervienen los objetivos corporativos, perspectiva, indicadores, metas, mapas y proyectos estratégicos, explicados a continuación: 
+      p(data-aos="fade-right") Entonces, el cuadro de mando es un sistema de información, para la toma de decisiones de la dirección, que presenta indicadores que pueden servir como señales de alerta, en el que intervienen los objetivos corporativos, perspectiva, indicadores, metas, mapas y proyectos estratégicos, explicados a continuación: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
@@ -111,10 +111,10 @@
                     i.fas.fa-link
 
     .row.justify-content-center.align-items-center.mb-5
-      p Se puede ejemplificar en la siguiente imagen cómo se realiza la implementación del cuadro de mando integral en una empresa: 
+      p(data-aos="fade-right") Se puede ejemplificar en la siguiente imagen cómo se realiza la implementación del cuadro de mando integral en una empresa: 
 
     .row.justify-content-center.align-items-center.mb-5
-      .titulo-sexto.color-acento-contenido.mb-5
+      .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
         h5 Figura 3
         span <i>Cuadro de Mando Integral</i>
 
@@ -122,13 +122,13 @@
         img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')
 
     .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right ¿Cómo es el cuadro de mando del marketing (CMMK)?
+      h4.mt-3.text-right ¿Cómo es el cuadro de mando del <i>marketing</i> (CMMK)?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p La adaptación del <i>Balanced Scorecard</i> o BSC al <I>Marketing Scorecard</i> o CMM se basa en un cambio de enfoque y una definición predefinida de nuevas áreas de actuación más acordes con las sensibilidades del marketing, pues el objetivo de un cuadro de mando de marketing (CMMK) es: ayudar a definir, comunicar y controlar la estrategia de marketing de la empresa. Al diseñar un cuadro de mando de marketing o CMM, primero debe definir diferentes perspectivas relacionadas con su departamento de marketing. En este caso, las principales áreas de CMM giran en torno a las 4P: marketing o marketing mix (producto, precio, promoción y distribución).
+        p(data-aos="fade-left") La adaptación del <i>Balanced Scorecard</i> o BSC al <I>Marketing Scorecard</i> o CMM se basa en un cambio de enfoque y una definición predefinida de nuevas áreas de actuación más acordes con las sensibilidades del <i>marketing</i>, pues el objetivo de un cuadro de mando de <i>marketing</i> (CMMK) es: ayudar a definir, comunicar y controlar la estrategia de <i>marketing</i> de la empresa. Al diseñar un cuadro de mando de <i>marketing</i> o CMM, primero debe definir diferentes perspectivas relacionadas con su departamento de <i>marketing</i>. En este caso, las principales áreas de CMM giran en torno a las 4P: <i>marketing</i> o <i>marketing</i> mix (producto, precio, promoción y distribución).
 
-        p A continuación, se podrán encontrar los elementos del cuadro de mando del <i>marketing</i> (CMMK):
+        p(data-aos="fade-left") A continuación, se podrán encontrar los elementos del cuadro de mando del <i>marketing</i> (CMMK):
 
       .col-10.col-lg-6
         figure
@@ -182,12 +182,12 @@
                 img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      p El propio plan de marketing aporta una metodología que ayuda a elegir métricas y permite el diseño de un cuadro de mando que tenga tanto corto como mediano y largo plazo, así como el definir el responsable, de esta forma, el corazón del marketing es la diferenciación, pues si todas las empresas utilizan las mismas métricas, fracasarán. En resumen, no existe una fórmula mágica, pero estos criterios pueden orientarlo en la dirección correcta: 
+      p(data-aos="fade-left") El propio plan de <i>marketing</i> aporta una metodología que ayuda a elegir métricas y permite el diseño de un cuadro de mando que tenga tanto corto como mediano y largo plazo, así como el definir el responsable, de esta forma, el corazón del <i>marketing</i> es la diferenciación, pues si todas las empresas utilizan las mismas métricas, fracasarán. En resumen, no existe una fórmula mágica, pero estos criterios pueden orientarlo en la dirección correcta: 
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-10
-          .titulo-sexto.color-acento-contenido.mb-5
+          .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
             h5 Figura 4
             span <i>Cuadro de mando de marketing</i>
 
@@ -198,20 +198,20 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Ahora bien, los cuadros de mando pueden tener muchas formas y tamaños, sin embargo, para un cuadro de mando de marketing perfecto siempre contendrá los siguientes elementos:
+        p(data-aos="fade-right") Ahora bien, los cuadros de mando pueden tener muchas formas y tamaños, sin embargo, para un cuadro de mando de <i>marketing</i> perfecto siempre contendrá los siguientes elementos:
 
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Indicadores clave de rendimiento (KPI) desglosado por objetivo principal.      
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Una meta u objetivo para cada KPI.     
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Indicadores adelantados.      
-            li 
+            li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Rendimiento, desglosado por semana (o mes/trimestre, u otros).
 
@@ -225,33 +225,33 @@
             img(src='@/assets/curso/temas/tema2/img15.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p Hay tres objetivos generales para tener en cuenta al implementar un tablero de marketing con miras a realizar un seguimiento. Se trata de: atraer visitantes al sitio web, convertir a esos visitantes en clientes potenciales y convertirlos en clientes. Ante este escenario, los tres KPI más apropiados para medir el progreso hacia estos objetivos podrían incluir visitas, clientes potenciales y clientes generados durante un período de tiempo específico, es importante, aunque opcional, que, al tablero de mando, se le agregue información como: el contexto e historia a los datos, para ello, incorporando los siguientes elementos:
+        p(data-aos="fade-left") Hay tres objetivos generales para tener en cuenta al implementar un tablero de <i>marketing</i> con miras a realizar un seguimiento. Se trata de: atraer visitantes al sitio web, convertir a esos visitantes en clientes potenciales y convertirlos en clientes. Ante este escenario, los tres KPI más apropiados para medir el progreso hacia estos objetivos podrían incluir visitas, clientes potenciales y clientes generados durante un período de tiempo específico, es importante, aunque opcional, que, al tablero de mando, se le agregue información como: el contexto e historia a los datos, para ello, incorporando los siguientes elementos:
 
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Porcentaje avanzado hacia la meta.     
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Porcentaje de cambio frente al período anterior.    
-            li 
+            li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Observaciones sobre qué funciona y cuáles no.
 
     .row.justify-content-center.align-items-center.mb-5
-      p El contexto adicional puede ser valioso, pero hay que asegurarse de que el tablero sea fácil de mantener y comprender, de lo contrario, corre el riesgo de que la herramienta sea demasiado pesada para mantenerse al día con el paso del tiempo.
+      p(data-aos="fade-right") El contexto adicional puede ser valioso, pero hay que asegurarse de que el tablero sea fácil de mantener y comprender, de lo contrario, corre el riesgo de que la herramienta sea demasiado pesada para mantenerse al día con el paso del tiempo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3 Ejemplo de Cuadro de Mando de Marketing
+                  h3 Ejemplo de Cuadro de Mando de <i>marketing</i>
                   p Con el fin de tener mayor conocimiento sobre el cuadro de mando de <i>marketing</i> se invita a ver el siguiente documento. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/ejemplo_de _cuadro_de_mando_de_marketing.pdf')" target="_blank")
@@ -260,19 +260,19 @@
 
 
     separador
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.2 Análisis de la conversión
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p Antes de entrar en materia, debemos saber que es la conversión, pues esté significa más que lograr tener visitantes en un sitio web o a una red social, no obstante, es cambiar la forma en la una persona interactúa con la empresa, por ejemplo: convertirlo en un cliente, suscriptor, seguidor o comprador, también puede significar una acción que realice un usuario como diligenciar un formulario, programar una cita, una llamada, una descarga, etc. 
+        p(data-aos="fade-left") Antes de entrar en materia, debemos saber que es la conversión, pues esté significa más que lograr tener visitantes en un sitio web o a una red social, no obstante, es cambiar la forma en la una persona interactúa con la empresa, por ejemplo: convertirlo en un cliente, suscriptor, seguidor o comprador, también puede significar una acción que realice un usuario como diligenciar un formulario, programar una cita, una llamada, una descarga, etc. 
 
       .col-10.col-lg-6
         figure
           img(src='@/assets/curso/temas/tema2/img16.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      .tarjeta-verde.p-5
+      .tarjeta-verde.p-5(data-aos="flip-down")
         .row.justify-content-center.align-items-center
           .col-lg-8
             h5 Ejemplo
@@ -290,11 +290,11 @@
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema2/img18.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p De modo que es fundamental que las conversiones estén en función de los objetivos de campaña, ya que se tiene la necesidad de medir detalladamente la campaña de manera que se pueda ver el retorno del gasto en clics, así como información sobre anuncios, palabras clave, rendimiento, entre otros datos, que ayudarán a tomar decisiones y que optimizarán de manera más rentable las acciones de marketing.
+          p(data-aos="fade-left") De modo que es fundamental que las conversiones estén en función de los objetivos de campaña, ya que se tiene la necesidad de medir detalladamente la campaña de manera que se pueda ver el retorno del gasto en clics, así como información sobre anuncios, palabras clave, rendimiento, entre otros datos, que ayudarán a tomar decisiones y que optimizarán de manera más rentable las acciones de <i>marketing</i>.
 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8
@@ -307,13 +307,13 @@
           img(src='@/assets/curso/temas/tema2/img19.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p Existen diferentes tipos de conversiones dependiendo de los objetivos y monetización que se tenga como una acción SEM, una estrategia de redes sociales, email <i>marketing</i>, generación de leads. La forma de conocer y analizar las conversiones es encontrar una tasa de conversión o tasa de conversión. Esto se puede aplicar a sitios web y plataformas, o, por ejemplo, a páginas y botones.
+        p(data-aos="fade-left") Existen diferentes tipos de conversiones dependiendo de los objetivos y monetización que se tenga como una acción SEM, una estrategia de redes sociales, email <i>marketing</i>, generación de leads. La forma de conocer y analizar las conversiones es encontrar una tasa de conversión o tasa de conversión. Esto se puede aplicar a sitios web y plataformas, o, por ejemplo, a páginas y botones.
 
-        p El cálculo de la tasa de conversión se realiza mediante la siguiente fórmula: 
+        p(data-aos="fade-left") El cálculo de la tasa de conversión se realiza mediante la siguiente fórmula: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-a.color-acento-botones.p-4.p-md-4.mb-5 
+        .bloque-texto-a.color-acento-botones.p-4.p-md-4.mb-5(data-aos="flip-down")
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
               figure
@@ -325,7 +325,7 @@
                 p Lo más viable es aumentar la tasa de conversión de un 0,5 a un 1 por 100 que duplica el tráfico del sitio web. 
 
     .row.justify-content-center.align-items-center.mb-5
-      P A continuación, se verá la importancia de los landing page para la conversión: 
+      P(data-aos="fade-right") A continuación, se verá la importancia de los landing page para la conversión: 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--amarilla.p-5
@@ -535,14 +535,14 @@
             img(src='@/assets/curso/temas/tema2/img32.png', alt='Imágen decorativa')
       
       .col-lg-6
-        p Cuando se busca el secreto de una campaña de <i>marketing</i> exitosa, el secreto a menudo no está en una creatividad increíble o en grandes presupuestos, sino en unas buenas estrategias de medición y su ejecución. Sin embargo, una vez que se ingresa al mundo de los datos, corre el riesgo de perderse en la sobrecarga de información y no saber cómo practicar la métrica, por eso la solución es construir un <i>dashboard.</i>
+        p(data-aos="fade-right") Cuando se busca el secreto de una campaña de <i>marketing</i> exitosa, el secreto a menudo no está en una creatividad increíble o en grandes presupuestos, sino en unas buenas estrategias de medición y su ejecución. Sin embargo, una vez que se ingresa al mundo de los datos, corre el riesgo de perderse en la sobrecarga de información y no saber cómo practicar la métrica, por eso la solución es construir un <i>dashboard.</i>
 
-        .cajon.color-azul1.p-4
+        .cajon.color-azul1.p-4(data-aos="flip-down")
           p.mb-0 El tablero de instrumentos o panel de control es como una pantalla en la cabina de un avión (aunque debería ser un poco más simple), es una herramienta muy poderosa para extraer información de sus datos y centralizar los KPI que necesita para saber qué está sucediendo realmente en el negocio. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
@@ -557,14 +557,14 @@
                     i.fas.fa-link
 
     separador
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.3 Herramientas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p La posibilidad de realizar analítica web está hoy al alcance de todos. Existen múltiples herramientas de medición, muchas de ellas gratuitas, predominando Google Analytics, Woopra, Piwik, Google Webmaster Tools (analítica y herramientas de corrección), etc., para sitios web y las propias de cada red social si mantenemos presencia en estos medios. Aun así, también se dispone de diversas herramientas de pago que poseen mayor sofisticación. 
+        p(data-aos="fade-left") La posibilidad de realizar analítica web está hoy al alcance de todos. Existen múltiples herramientas de medición, muchas de ellas gratuitas, predominando Google Analytics, Woopra, Piwik, Google Webmaster Tools (analítica y herramientas de corrección), etc., para sitios web y las propias de cada red social si mantenemos presencia en estos medios. Aun así, también se dispone de diversas herramientas de pago que poseen mayor sofisticación. 
 
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4(data-aos="flip-down")
           p.mb-0 En cualquier caso, dos herramientas indispensables para monitorizar la actividad de nuestros usuarios en webs, blogs, gratuitas y que recomendamos es Google Analytics, pues es una plataforma que obtiene datos y los compila en informes, a nivel de redes sociales cada una posee su propia plataforma de análisis de datos, lo importante es aprender a manejarlas y entender cómo transformar esos datos en <i>insights</i> para mejorar nuestros procesos de <i>marketing</i>. 
 
 
@@ -574,20 +574,20 @@
 
     
     separador
-    #t_2_4.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
        h2 2.4 Analítica social media
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
         .col-6.col-lg-1.mb-4
-          figure
+          figure(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema2/img34.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p El análisis de redes sociales es una herramienta fundamental que permite tomar mejores decisiones en base a la información que te brindan los datos recolectados de los usuarios que visitan el sitio web deja un rastro de uso y experiencia, y a partir de estas, corregir errores y predecir mejoras. Esto asegurará que los esfuerzos de <i>marketing</i> sean exitosos.
+          p(data-aos="fade-left") El análisis de redes sociales es una herramienta fundamental que permite tomar mejores decisiones en base a la información que te brindan los datos recolectados de los usuarios que visitan el sitio web deja un rastro de uso y experiencia, y a partir de estas, corregir errores y predecir mejoras. Esto asegurará que los esfuerzos de <i>marketing</i> sean exitosos.
 
     .row.justify-content-center.align-items-center.mb-5
-      p La analítica aporta información cuantitativa como cualitativa, dependiendo de la capacidad de interpretación, entonces ¿qué información se puede conseguir?
+      p(data-aos="fade-right") La analítica aporta información cuantitativa como cualitativa, dependiendo de la capacidad de interpretación, entonces ¿qué información se puede conseguir?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-5
@@ -597,16 +597,16 @@
       .col-lg-6
         .tarjeta-2.p-4.mb-3
           ul.lista-ul--color.fa-ul2
-            li 
+            li(data-aos="fade-left") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Evaluar el sitio web en cuanto a contenido, diseño, usabilidad, persuasión y posicionamiento en buscadores.
-            li 
+            li(data-aos="fade-left") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Aumentar la satisfacción de los usuarios identificando su comportamiento, navegación, etc., e introduciendo mejoras. 
-            li 
+            li(data-aos="fade-left")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Mejorar el retorno de la inversión ROI aumentando el impacto y efectividad de nuestras acciones para conocer mejor a los clientes y usuarios.
-            li 
+            li(data-aos="fade-left")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Ampliar la capacidad de crecimiento en el sector, al incrementar la información sobre los productos y las empresas competidoras.
 
