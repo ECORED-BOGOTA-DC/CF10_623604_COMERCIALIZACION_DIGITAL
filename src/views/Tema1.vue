@@ -46,7 +46,7 @@
       .tarjeta--container.row
         .col-md.tarjeta.tarjeta-azul1.p-5
           .row.justify-content-center.mb-4
-            p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de <i>marketing</i> de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de <i>marketing</i> enfocada en este sector. Envío más de 180 botellas a personalidades e influencers del país para que mostraran sus casos de éxito y sus historias de optimismo.
+            p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de <i>marketing</i> de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de <i>marketing</i> enfocada en este sector. Envío más de 180 botellas a personalidades e <i>influencers</i> del país para que mostraran sus casos de éxito y sus historias de optimismo.
             .col-10.col-lg-12
               figure
                 img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imágen decorativa').img3-tm1
@@ -188,7 +188,7 @@
               | Fomentaron el compromiso de la audiencia.
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | Aumentaron el engagement con su sitio web a través porque los usuarios querían ver el contenido que ellos mismos habían creado.
+              p.mb-0 Aumentaron el <i>engagement</i> con su sitio web a través porque los usuarios querían ver el contenido que ellos mismos habían creado.
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Se valieron de la herramienta TINT para captar los comentarios sociales.
@@ -224,65 +224,79 @@
         figure
           img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imágen decorativa')
 
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta1.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 Ads en web
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 Integra contenido en el sitio web sin causar alguna interrupción en la navegación.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta2.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 Display
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 Este tipo de campaña se trata de un anuncio en las páginas de destino y regularmente se muestran como banners combinando imágenes con texto.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta3.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 SEM
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 Es de las más usadas actualmente ya que consta de anuncios en buscadores como Google con el único fin de posicionar el negocio en los primeros resultados de búsqueda.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta4.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 E-mail
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 Esta es una estrategia de comunicación rápida mediante envíos de correos electrónicos para atraer clientes al negocio.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta5.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 Retargeting
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 Es para aquellos que no se convierten en la primera visita y continúa atrayendo prospectos al negocio. Con esta opción se pueden impactar varias veces a distintos usuarios.
+
+    .row.justify-content-center.align-items-center.mb-3
+      .col-4.col-lg-3
+        .bg-tarjeta6.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 Ads en redes sociales y móviles
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-lg-2 La mayoría de las personas se encuentra en sus móviles y es importante impactarlos en redes sociales y que estén adaptados para estos formatos.
+
     .row.justify-content-center.align-items-center.mb-5
-      .bg-tarjeta1.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center Ads en web
-          
-          .col-9
-            p Integra contenido en el sitio web sin causar alguna interrupción en la navegación.
+      .col-4.col-lg-3
+        .bg-tarjeta7.p-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            h5.text-center.mt-lg-2 Vídeo
+      .col-8.col-lg-9    
+        .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
+          .row.justify-content-center.align-items-center
+            p.mt-3.mt-lg-2 Son excelente opción para atraer a clientes por medio de clics y es de los más aceptados entre los usuarios, no está de más recordar que debe ser relevante para el cliente potencial.
 
-      .bg-tarjeta2.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center Display
-          
-          .col-9
-            p Este tipo de campaña se trata de un anuncio en las páginas de destino y regularmente se muestran como banners combinando imágenes con texto.
-
-      .bg-tarjeta3.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center SEM
-          
-          .col-9
-            p Es de las más usadas actualmente ya que consta de anuncios en buscadores como Google con el único fin de posicionar el negocio en los primeros resultados de búsqueda.
-
-      .bg-tarjeta4.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center E-mail
-          
-          .col-9
-            p Esta es una estrategia de comunicación rápida mediante envíos de correos electrónicos para atraer clientes al negocio.
-
-      .bg-tarjeta5.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center Retargeting
-          
-          .col-9
-            p Es para aquellos que no se convierten en la primera visita y continúa atrayendo prospectos al negocio. Con esta opción se pueden impactar varias veces a distintos usuarios.
-
-      .bg-tarjeta6.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-2
-            h5.text-center.text-right2 Ads en redes sociales y móviles
-          .col-1
-          .col-9
-            p La mayoría de las personas se encuentra en sus móviles y es importante impactarlos en redes sociales y que estén adaptados para estos formatos.
-
-      .bg-tarjeta7.p-4(data-aos="fade-left")
-        .row.justify-content-center.align-items-center
-          .col-3
-            h5.text-center Vídeo
-          
-          .col-9
-            p Son excelente opción para atraer a clientes por medio de clics y es de los más aceptados entre los usuarios, no está de más recordar que debe ser relevante para el cliente potencial.
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Para que cualquier campaña de mercadeo on line funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo on line que funcionan de manera práctica para lograr ventas a través de estas plataformas.
+      p(data-aos="fade-right") Para que cualquier campaña de mercadeo <i>on line</i> funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo <i>on line</i> que funcionan de manera práctica para lograr ventas a través de estas plataformas.
 
     .row.justify-content-center.align-items-center.mb-5
       TabsC.color-primario
@@ -346,7 +360,7 @@
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Adicional a lo anterior, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas on line para redes sociales. 
+      p(data-aos="fade-right") Adicional a lo anterior, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas <i>on line</i> para redes sociales. 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--amarilla.p-5
@@ -406,7 +420,7 @@
             .col-md-6.mb-4.mb-md-0
               h5 Colabora con creadores a través de las historias de Instagram
 
-              p Las historias de Instagram son una gran herramienta de <i>marketing</i> para colaborar con creadores de contenido o influencers. 
+              p Las historias de Instagram son una gran herramienta de <i>marketing</i> para colaborar con creadores de contenido o <i>influencers</i>. 
 
               p Las historias son imágenes o videos publicados en una cuenta de Instagram que solo están disponibles para la audiencia durante 24 horas. Una vez transcurrido ese tiempo, desaparecen para siempre.
 
@@ -448,7 +462,7 @@
               h4.mb-5 Algunos tips
               h5 1. Atrae a los visitantes de tu tienda usando retargeting
 
-              p El retargeting es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita tu tienda on line varias veces sin comprar nada. Usando anuncios de retargeting puedes mostrarle los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
+              p El retargeting es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita tu tienda <i>on line</i> varias veces sin comprar nada. Usando anuncios de retargeting puedes mostrarle los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
 
             .col-md-6
               figure
@@ -518,37 +532,46 @@
 
         .row(titulo="Cuatro  herramientas para alcanzar a tus clientes potenciales")
 
-          .bg-tarjeta8.p-5.mb-3
-            .row.justify-content-center.align-items-center
-              .col-2
-                h5.text-center Google
-              .col-1
-              .col-8
-                p Es el buscador por excelencia donde todas las personas acuden en búsqueda de respuestas. Si se desea visibilización de la marca, es necesario tener presencia en el buscador a través de la página web de la marca de manera orgánica (SEO) o publicidad pagada (Google Ads).
+          .row.justify-content-center.align-items-center.mb-5
+            .col-md-4.col-lg-3
+              .bg-tarjeta8.py-5
+                .row.justify-content-center.align-items-center
+                  h5.text-center.mt-lg-2 Google
+            .col-md-8.col-lg-9    
+              .bg-tarjeta8-1.p-2.p-lg-4
+                .row.justify-content-center.align-items-center
+                  p.mt-3 Es el buscador por excelencia donde todas las personas acuden en búsqueda de respuestas. Si se desea visibilización de la marca, es necesario tener presencia en el buscador a través de la página web de la marca de manera orgánica (SEO) o publicidad pagada (Google Ads).
 
-          .bg-tarjeta9.p-5.mb-3
-            .row.justify-content-center.align-items-center
-              .col-2
-                h5.text-center YouTube
-              .col-1
-              .col-8
-                p Es una plataforma que funciona a través de videos que logran atraer a clientes potenciales. Es el segundo motor de búsqueda más grande del mundo. Como toda plataforma, requiere de investigación previa para brindar el contenido adecuado a la audiencia adecuada.
+          .row.justify-content-center.align-items-center.mb-5
+            .col-md-4.col-lg-3
+              .bg-tarjeta9.py-5
+                .row.justify-content-center.align-items-center
+                  h5.text-center.mt-lg-2 YouTube
+            .col-md-8.col-lg-9    
+              .bg-tarjeta8-1.p-2.p-lg-4
+                .row.justify-content-center.align-items-center
+                  p.mt-3 Es una plataforma que funciona a través de videos que logran atraer a clientes potenciales. Es el segundo motor de búsqueda más grande del mundo. Como toda plataforma, requiere de investigación previa para brindar el contenido adecuado a la audiencia adecuada.
 
-          .bg-tarjeta10.p-5.mb-3
-            .row.justify-content-center.align-items-center
-              .col-2
-                h5.text-center Grupos de discusión
-              .col-1
-              .col-8
-                p Si se desea llegar a un público que confíe en lo que haces, se puede considerar la opción de crear un grupo de discusión en Facebook donde se realicen preguntas frente a una situación determinada (que obviamente tenga relación con la empresa o los productos o servicios que ofrece) y las personas puedan brindar su opinión mostrando su experiencia con la marca. Estos usuarios ayudarán a que nuevos se unan y conozcan bajo el modelo de recomendaciones, la compañía.
+          .row.justify-content-center.align-items-center.mb-5
+            .col-md-4.col-lg-3
+              .bg-tarjeta10.py-5
+                .row.justify-content-center.align-items-center
+                  h5.text-center.mt-lg-2 Grupos de discusión
+            .col-md-8.col-lg-9    
+              .bg-tarjeta8-1.p-2.p-lg-4
+                .row.justify-content-center.align-items-center
+                  p.mt-3 Si se desea llegar a un público que confíe en lo que haces, se puede considerar la opción de crear un grupo de discusión en Facebook donde se realicen preguntas frente a una situación determinada (que obviamente tenga relación con la empresa o los productos o servicios que ofrece) y las personas puedan brindar su opinión mostrando su experiencia con la marca. Estos usuarios ayudarán a que nuevos se unan y conozcan bajo el modelo de recomendaciones, la compañía.
 
-          .bg-tarjeta11.p-5.mb-3
-            .row.justify-content-center.align-items-center
-              .col-2
-                h5.text-center Influencers
-              .col-1
-              .col-8
-                p Son personas que ya llevan tiempo en el mercado y cuentan con clientes fieles a partir de la comunidad que han construido. Esta opción es viable ya que facilita el poder llegar a una audiencia ya constituida que empezar desde cero. 
+          .row.justify-content-center.align-items-center.mb-5
+            .col-md-4.col-lg-3
+              .bg-tarjeta11.py-5
+                .row.justify-content-center.align-items-center
+                  h5.text-center.mt-lg-2 <i>influencers</i>
+            .col-md-8.col-lg-9  
+              .bg-tarjeta8-1.p-2.p-lg-4
+                .row.justify-content-center.align-items-center
+                  p.mt-3 Son personas que ya llevan tiempo en el mercado y cuentan con clientes fieles a partir de la comunidad que han construido. Esta opción es viable ya que facilita el poder llegar a una audiencia ya constituida que empezar desde cero.
+
 
         .row(titulo="MOFU o prospecto")
           .col-md-6.mb-4.mb-md-0
@@ -742,7 +765,7 @@
           p.mb-0 Los canales digitales sin las diferentes plataformas en las cuales se comparten los mensajes al cliente para incitar su consumo. Una buena estrategia de mercadeo hace uso de varios canales para generar tráfico, ya que cada uno de ellos tiene diferentes usuarios y clientes potenciales. En relación con este tema se habla también del <i>inbound marketing</i> qué son las técnicas que permiten atraer a clientes de una manera no invasiva, ofreciéndole contenido útil y de valor. 
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Algunos canales que permiten entonces aplicar la estrategia del inbound <i>marketing</i> son:
+      p(data-aos="fade-right") Algunos canales que permiten entonces aplicar la estrategia del <i>inbound marketing</i> son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7

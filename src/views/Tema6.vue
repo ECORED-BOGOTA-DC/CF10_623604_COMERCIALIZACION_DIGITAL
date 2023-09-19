@@ -55,7 +55,7 @@
         p El principio básico del <i>marketing</i> es disponer de las herramientas necesarias para informar a los consumidores de la existencia de productos destinados a satisfacer sus necesidades específicas. Y es aquí donde los canales digitales juegan un papel activo como herramienta que posibilita la comunicación directa entre las marcas corporativas y el público en general.
 
         .cajon.color-primario.p-4(data-aos="fade-left")
-          p.mb-0 Es un canal que sirve para prestar servicios, comunicar o vender a través de computadoras, tabletas o teléfonos móviles, en otras palabras, los canales digitales ayudan a lograr el conocido "omnicanal" o "acceso del cliente en cualquier momento y lugar". Hay dos tipos de canales, uno es tu empresa (sitio web de la empresa, tu tienda online B2B o B2C o app comercial) y la otra es externa (marketplace o tienda de terceros). 
+          p.mb-0 Es un canal que sirve para prestar servicios, comunicar o vender a través de computadoras, tabletas o teléfonos móviles, en otras palabras, los canales digitales ayudan a lograr el conocido "omnicanal" o "acceso del cliente en cualquier momento y lugar". Hay dos tipos de canales, uno es tu empresa (sitio web de la empresa, tu tienda online B2B o B2C o app comercial) y la otra es externa (<i>marketplace</i> o tienda de terceros). 
 
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

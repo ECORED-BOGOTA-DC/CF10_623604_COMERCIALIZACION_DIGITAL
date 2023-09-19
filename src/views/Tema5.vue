@@ -247,7 +247,7 @@
 
       .col-lg-6
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés search engine <i>marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>on line</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
+          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés <i>search engine marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>on line</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
 
         p(data-aos="fade-left") El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
 

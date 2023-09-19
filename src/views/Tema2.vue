@@ -121,7 +121,7 @@
       figure
         img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')
 
-    .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
+    .row.bg-titulo7.align-items-center.mb-5(data-aos="fade-right")
       h4.mt-3.text-right ¿Cómo es el cuadro de mando del <i>marketing</i> (CMMK)?
 
     .row.justify-content-center.align-items-center.mb-5
@@ -325,14 +325,14 @@
                 p Lo más viable es aumentar la tasa de conversión de un 0,5 a un 1 por 100 que duplica el tráfico del sitio web. 
 
     .row.justify-content-center.align-items-center.mb-5
-      P(data-aos="fade-right") A continuación, se verá la importancia de los landing page para la conversión: 
+      P(data-aos="fade-right") A continuación, se verá la importancia de los <i>landing page</i> para la conversión: 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--amarilla.p-5
         SlyderA(tipo="b")
           .row.justify-content-center
             .col-md-5.mb-4.mb-md-0
-              h4 Importancia de las <i>landing</i> page
+              h4 Importancia de las <i>landing page</i>
               p Rentabilizar al máximo las inversiones, las empresas desarrollan páginas de aterrizaje o <i>landing pages</i> creadas específicamente para conseguir leads o ventas. 
 
             .col-md-7
@@ -549,8 +549,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3 Dashboard
-                  p Con el fin de tener mayor conocimiento sobre los dashboard y sus tipos se invita a ver el siguiente documento. 
+                  h3 <i>dashboard</i>
+                  p Con el fin de tener mayor conocimiento sobre los <i>dashboard</i> y sus tipos se invita a ver el siguiente documento. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/dashboard.docx')" target="_blank")
                     span Ingresar 

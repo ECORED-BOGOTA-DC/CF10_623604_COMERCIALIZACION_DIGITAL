@@ -527,7 +527,7 @@
               | Definición del tipo de contenido que se manejará en cada red social o plataforma.
             li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | Hora de publicación, título, formato y copy de los contenidos.
+              p.mb-0 Hora de publicación, título, formato y <i>copy</i> de los contenidos.
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Establecimiento del objetivo y tipo de campaña.

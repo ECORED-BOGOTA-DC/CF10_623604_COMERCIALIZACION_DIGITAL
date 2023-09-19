@@ -61,7 +61,7 @@
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
-        p(data-aos="fade-right") Para determinar las respuestas emocionales y neuronales y conocer realmente lo que siente el turista con respecto a un servicio, destino o producto, el <i>neuromarketing</i> se basa en diferentes técnicas como, por ejemplo, biosensores, resonancias magnéticas, medición del ritmo cardíaco, electromiografía, eyetracking, y medición de respuestas galvánicas. Se invita a revisar el anexo para diferenciar cada una de ellas.
+        p(data-aos="fade-right") Para determinar las respuestas emocionales y neuronales y conocer realmente lo que siente el turista con respecto a un servicio, destino o producto, el <i>neuromarketing</i> se basa en diferentes técnicas como, por ejemplo, biosensores, resonancias magnéticas, medición del ritmo cardíaco, electromiografía, <i>eyetracking</i>, y medición de respuestas galvánicas. Se invita a revisar el anexo para diferenciar cada una de ellas.
 
       .row.justify-content-center.align-items-center.mb-5
         TabsC.color-primario
@@ -475,7 +475,7 @@
         .col-lg-6
           p(data-aos="fade-left") Todas las tecnologías que se usan hoy día para realizar análisis de <i>neuromarketing</i> fueron aplicadas desde años atrás con la intención de conocer el comportamiento del público con respecto a una problemática x. Es así como en los años 60, el investigador y psicólogo Herbert Krugman, comenzó con la utilización del pupilómetro en fines comerciales para indagar acerca del interés del ser humano con respecto a lo que veían en televisión. Durante esos años, también se iniciaron experimentos para conocer las reacciones emocionales del público, a través del <i>Galvanic Skin Response</i> (GSR).
 
-          p(data-aos="fade-left") Para la década de 1970 aparece el Eye Tracking, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro encontrando información importante en los datos que se arrojaban.
+          p(data-aos="fade-left") Para la década de 1970 aparece el <i>Eye Tracking</i>, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro encontrando información importante en los datos que se arrojaban.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -494,7 +494,7 @@
           img(src='@/assets/curso/temas/tema3/img39.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p(data-aos="fade-left") En este punto también es importante hablar de las generaciones y de su incursión en la tecnología. Los millennials y su posterior generación, la Z, tienen siempre al alcance sus compras a través de un clic. Están familiarizados con la tecnología y también con el desapego, ya que bienes materiales como una casa, un carro, un tv, los hacen menos libres para saltar de una marca a otra según corresponda la tendencia y donde la tecnología los lleve. Viven también en una economía que les impulsa y les permite viajar y junto a ese gusto, también se hacen presentes artefactos que han cambiado su manera de comprar y acceder a los destinos, como, por ejemplo; tablets, portátiles, cámaras de última generación, etc. 
+        p(data-aos="fade-left") En este punto también es importante hablar de las generaciones y de su incursión en la tecnología. Los <i>millennials</i> y su posterior generación, la Z, tienen siempre al alcance sus compras a través de un clic. Están familiarizados con la tecnología y también con el desapego, ya que bienes materiales como una casa, un carro, un tv, los hacen menos libres para saltar de una marca a otra según corresponda la tendencia y donde la tecnología los lleve. Viven también en una economía que les impulsa y les permite viajar y junto a ese gusto, también se hacen presentes artefactos que han cambiado su manera de comprar y acceder a los destinos, como, por ejemplo; tablets, portátiles, cámaras de última generación, etc. 
 
         .cajon.color-azul1.p-4.mb-3(data-aos="flip-down")
           p.mb-0 Lo anterior es importante, ya que les deja un gran reto a las compañías de turismo y de todos los campos, para conocer los gustos, pensamientos, emociones, de generaciones tan cambiantes y tecnológicas como las de hoy día.      
