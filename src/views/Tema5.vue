@@ -104,7 +104,7 @@
           img(src='@/assets/curso/temas/tema5/img6.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+      SlyderF.mb-5(columnas="col-md-6 col-xl-4")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/img7.svg', alt='Imágen decorativa')
           .tarjeta.tarjeta--gris.p-4
@@ -277,8 +277,10 @@
 </template>
 
 <script>
+import SlyderF from '@/components/SlyderF.vue'
 export default {
-  name: 'Tema3',
+  name: 'Tema5',
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),
