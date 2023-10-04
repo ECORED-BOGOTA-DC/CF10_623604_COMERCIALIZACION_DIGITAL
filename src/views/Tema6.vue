@@ -112,14 +112,15 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-            h5 Figura 4
+            h5 Figura 5
             span Canales digitales
 
           figure
-            img(src='@/assets/curso/temas/tema6/img6.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema6/img6.svg', alt='Muestra la convergencia de los canales digitales relacionados en la parte inferior')
             figcaption.mt-3 Nota. Tomada de The Converged Media Imperative: How Brands Must Combine Paid, Owner & Earned Media, Altimeter Group (2012).
 
-    p.mb-5(data-aos="fade-right") Un claro ejemplo de ello es un comentario positivo sobre una marca en las redes sociales. Estos mensajes no solo crean una imagen positiva para la empresa, sino que también son más creíbles y convierten a los consumidores en embajadores de la marca, pero, ¿cómo llegar a este hecho? 
+    p.mb-5(data-aos="fade-right") A continuación, se explica cada una de las circunferencias que conforman el anterior gráfico: 
+ 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8

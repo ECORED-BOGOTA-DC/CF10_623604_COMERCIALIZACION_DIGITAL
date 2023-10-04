@@ -49,7 +49,7 @@
             p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de <i>marketing</i> de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de <i>marketing</i> enfocada en este sector. Envío más de 180 botellas a personalidades e <i>influencers</i> del país para que mostraran sus casos de éxito y sus historias de optimismo.
             .col-10.col-lg-12
               figure
-                img(src='@/assets/curso/temas/tema1/img3.svg', alt='Imágen decorativa').img3-tm1
+                img(src='@/assets/curso/temas/tema1/img3.svg', alt='La imagen muestra una linea de botellas deCoca-Cola en la etiquete de la primera botella tiene un texto en ingles que dice "En 2018, el número de turistas que visitaron Rumanía creció un 6,3%"').img3-tm1
           
         
         .col-md.tarjeta.tarjeta-azul2.p-5
@@ -62,7 +62,7 @@
 
             .col-10.col-lg-12
               figure
-                img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imágen decorativa')
+                img(src='@/assets/curso/temas/tema1/img4.svg', alt='Muestra 6 vasos reutilizables de Starbucks, de diferentes tamaños y diseños de navidad.')
              
 
     .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
@@ -72,7 +72,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           figure
-            img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema1/img5.svg', alt='Muestras las 6 Claves de la estrategia Starbucks relacionadas en la parte inferior')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -143,7 +143,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema1/img10.svg', alt='Muestra publicidad de Disneyland Resort con el  Hashtag #comparte tus oídos<br> Comparte tus orejas de Mickey mouse y transfórmate en vivo<br>Adicional muestra a una niña con su mamá en una atracción, la describe como Andrea, 11 años, Trastorno genetico.<br>Adicional la imagen tiene la siguiente información')
 
     .row.justify-content-center.align-items-center.mb-5
       h4(data-aos="fade-left") Claves de éxito de <i>#ShareYourEars</i>
@@ -151,7 +151,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema1/img11.svg', alt='Muestra logo que representa el programa de Disney #ShareYourEars')
 
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imágen decorativa')
@@ -222,7 +222,13 @@
 
       .col-10.col-lg-6
         figure
-          img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema1/img13.svg', alt='Muestra imagen de una publicación de instagram de Chipotle Mexican Grill, con unos aguacates')
+
+    separador
+    #t_1_1.titulo-segundo.color-acento-contenido
+       h2 1.1. Tipos de campañas digitales.
+
+    p.mb-5(data-aos="fade-right") Existen diferentes opciones de campañas digitales que pueden ser útiles en la estrategia digital. Aquí algunas de ellas:
 
     .row.justify-content-center.align-items-center.mb-3
       .col-4.col-lg-3
@@ -513,7 +519,7 @@
           span <i>Etapas de un embudo de ventas</i>
         
         figure
-          img(src='@/assets/curso/temas/tema1/img27.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema1/img27.svg', alt='Muestra gráfico de embudo donde muestra las 3 etapas del marketing digital, relacionado en la parte inferior de la imagen')
           figcaption 
             p.mb-0 <b>Fuente:</b> Espacio digital. https://www.espaciodigital.com.co/blog/embudo-marketing -digital-como-elaborarlo-exitosamente/#Que_es_un_embudo_de_ventas
 

@@ -264,7 +264,7 @@
     
       .col-10.col-lg-6
         figure(data-aos="flip-down")
-          img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imagen muestra búsqueda en Google')
 
 
 

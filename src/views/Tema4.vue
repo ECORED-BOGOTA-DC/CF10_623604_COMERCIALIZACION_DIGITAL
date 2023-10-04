@@ -268,7 +268,6 @@
 
             p Es totalmente gratuita, no está vinculada al correo electrónico por lo que nunca te va a saturar el correo y además su forma de trabajo y navegación, específicamente en el móvil, es excepcional. Feedly es una excelente herramienta para contenidos digitales, por cuánto te permite suscribirte a cuantas fuentes de información digital quieras. Esto significa que es una herramienta para la curación de contenidos ideal si estás trabajando las redes sociales y para extraer ideas de nuevos contenidos digitales si estás gestionando un blog.
 
-            p Es totalmente gratuita, no está vinculada al correo electrónico por lo que nunca te va a saturar el correo y además su forma de trabajo y navegación, específicamente en el móvil, es excepcional.
         
           .col-md-6
             figure
@@ -607,7 +606,7 @@
                   p Con el fin de tener mayor conocimiento sobre el cronograma de publicaciones por canal se invita a descargar el siguiente documento.
 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/plantilla_de_ejemplo_para_realizar_publicaciones_en_instagram..xlsx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/plantilla_de_ejemplo_para_realizar_publicaciones_en_instagram.xlsx')" target="_blank")
                     span Descargar 
                     i.fas.fa-file-download           
 

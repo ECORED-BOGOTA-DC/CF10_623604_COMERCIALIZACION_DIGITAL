@@ -41,6 +41,9 @@
           img(src='@/assets/curso/temas/tema2/titulo4.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
+
+      p.mb-5(data-aos="fade-left") La correcta selección y desarrollo de métricas permitirá: 
+
       .col-lg-6.mb-3
         figure
           img(src='@/assets/curso/temas/tema2/img3.png', alt='Imágen decorativa')
@@ -86,7 +89,7 @@
             span <i>¿Qué es un cuadro de mando?</i>
 
           figure
-            img(src='@/assets/curso/temas/tema2/img5.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema2/img5.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imgen')
             figcaption.mt-3
               p.mb-0 <b>Nota.</b> Tomado de Kaplan y Norton (2002).
 
@@ -119,7 +122,7 @@
         span <i>Cuadro de Mando Integral</i>
 
       figure
-        img(src='@/assets/curso/temas/tema2/img6.svg', alt='Imágen decorativa')
+        img(src='@/assets/curso/temas/tema2/img6.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imagen')
 
     .row.bg-titulo7.align-items-center.mb-5(data-aos="fade-right")
       h4.mt-3.text-right ¿Cómo es el cuadro de mando del <i>marketing</i> (CMMK)?
@@ -192,7 +195,7 @@
             span <i>Cuadro de mando de marketing</i>
 
           figure
-            img(src='@/assets/curso/temas/tema2/img13.svg', alt='Imágen decorativa')
+            img(src='@/assets/curso/temas/tema2/img13.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imagen')
             figcaption.mt-3
               p.mb-0 <b>Nota.</b> Tomado de Kaplan y Norton (2002).
 
@@ -421,106 +424,106 @@
 
     .row.justify-content-center.align-items-center.mb-5
       TabsC.color-primario
-        .py-3.py-md-4(titulo="Campañas")
+        .py-3.py-md-4(titulo="Indicadores de marca")
           .row
             .col-md-5.mb-4.mb-md-0
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | El conocimiento de la marca se puede medir a través de herramientas de redes sociales o investigación de la industria. Debido a la naturaleza de su retraso, su utilidad es limitada.
+                  p.mb-0 El conocimiento de la marca se puede medir a través de herramientas de redes sociales o investigación de la industria. Debido a la naturaleza de su retraso, su utilidad es limitada.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Los indicadores de mención en los medios deben adaptarse a los diferentes medios que su empresa rastrea.
+                  p.mb-0 Los indicadores de mención en los medios deben adaptarse a los diferentes medios que su empresa rastrea.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Las métricas de autosuficiencia incluyen bases de datos de clientes,  suscriptores de listas de correo, seguidores de redes sociales y visitas regulares al sitio web.
+                  p.mb-0 Las métricas de autosuficiencia incluyen bases de datos de clientes,  suscriptores de listas de correo, seguidores de redes sociales y visitas regulares al sitio web.
           
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img27.svg', alt='Imágen decorativa')
 
-        .py-3.py-md-4(titulo="Campañas")
+        .py-3.py-md-4(titulo="Indicadores de clientes potenciales")
           .row
             .col-md-5.mb-4.mb-md-0
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Total clientes potenciales y costo por cliente potencial (CPL) para comprender la cantidad y el costo de los primeros clientes potenciales.
+                  p.mb-0 Total clientes potenciales y costo por cliente potencial (CPL) para comprender la cantidad y el costo de los primeros clientes potenciales.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Clientes potenciales aptos para <i>marketing</i> (MQL) o Proporción de clientes potenciales  a MQL.
+                  p.mb-0 Clientes potenciales aptos para <i>marketing</i> (MQL) o Proporción de clientes potenciales  a MQL.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Relación de lectura calificada de ventas (SQL) o MQL a SQL.
+                  p.mb-0 Relación de lectura calificada de ventas (SQL) o MQL a SQL.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Ingresos por cliente potencial de <i>marketing</i> elegible (MQL).
+                  p.mb-0 Ingresos por cliente potencial de <i>marketing</i> elegible (MQL).
           
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img28.svg', alt='Imágen decorativa')
 
-        .py-3.py-md-4(titulo="Campañas")
+        .py-3.py-md-4(titulo="Indicadores ventas y finanzas")
           .row
             .col-md-5.mb-4.mb-md-0
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Acuerdos cerrados  y  relación de SQL a acuerdos cerrados  si el <i>marketing</i> y las ventas se superponen en la organización.
+                  p.mb-0 Acuerdos cerrados  y  relación de SQL a acuerdos cerrados  si el <i>marketing</i> y las ventas se superponen en la organización.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Costo de Adquisición de Clientes (COCA),  obviamente COCA será mucho más alto que CPL.
+                  p.mb-0 Costo de Adquisición de Clientes (COCA),  obviamente COCA será mucho más alto que CPL.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Ingresos por acuerdo cerrado.
+                  p.mb-0 Ingresos por acuerdo cerrado.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | El valor de por vida del cliente (CLV)  ayuda a calcular el ROI ajustado; se puede alinear con la lealtad.
+                  p.mb-0 El valor de por vida del cliente (CLV)  ayuda a calcular el ROI ajustado; se puede alinear con la lealtad.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | El crecimiento de las ventas , es mucho mejor cuando se atribuye a un determinado tipo de método de <i>marketing</i> y se rastrea mediante indicadores de ROI por canal de <i>marketing</i>.
+                  p.mb-0 El crecimiento de las ventas , es mucho mejor cuando se atribuye a un determinado tipo de método de <i>marketing</i> y se rastrea mediante indicadores de ROI por canal de <i>marketing</i>.
 
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img29.svg', alt='Imágen decorativa')
 
-        .py-3.py-md-4(titulo="Campañas")
+        .py-3.py-md-4(titulo="Indicadores de lealtad")
           .row
             .col-md-5.mb-4.mb-md-0
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Índices de encuestas de satisfacción del cliente  y su versión más ligera  Puntaje de promotor neto   (NPS) que se correlaciona con el crecimiento de los ingresos.
+                  p.mb-0 Índices de encuestas de satisfacción del cliente  y su versión más ligera  Puntaje de promotor neto   (NPS) que se correlaciona con el crecimiento de los ingresos.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Referencias, reseñas  y cualquier cosa cuantificable que pueda considerarse como una recomendación positiva del producto.
+                  p.mb-0 Referencias, reseñas  y cualquier cosa cuantificable que pueda considerarse como una recomendación positiva del producto.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Visitantes que regresan  (para un sitio web) y  tasa de apertura, tasa de  clics  para la lista de correo.
+                  p.mb-0 Visitantes que regresan  (para un sitio web) y  tasa de apertura, tasa de  clics  para la lista de correo.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | La retención de clientes  es fácil de medir cuando su empresa utiliza el modelo de suscripción; de lo contrario, este indicador se retrasará mucho en el tiempo.
+                  p.mb-0 La retención de clientes  es fácil de medir cuando su empresa utiliza el modelo de suscripción; de lo contrario, este indicador se retrasará mucho en el tiempo.
           
             .col-md-7
               figure
                 img(src='@/assets/curso/temas/tema2/img30.svg', alt='Imágen decorativa')
 
-        .py-3.py-md-4(titulo="Campañas")
+        .py-3.py-md-4(titulo="Indicadores del sitio web")
           .row
             .col-md-5.mb-4.mb-md-0
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Visitantes.
+                  p.mb-0 Visitantes.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0 <i>Leads.</i>
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Tasa de rebote ajustada.
+                  p.mb-0 Tasa de rebote ajustada.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Entre otras que ofrece Google Analytics.
+                  p.mb-0 Entre otras que ofrece Google Analytics.
           
             .col-md-7
               figure
