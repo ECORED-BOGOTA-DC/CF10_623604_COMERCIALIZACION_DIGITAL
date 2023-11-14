@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema6/img1.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p(data-aos="fade-left") Un presupuesto de <i>marketing</i> representa todo el dinero que una empresa está dispuesta a gastar en proyectos relacionados con el <i>marketing</i>, por lo general, un trimestre o un año. El presupuesto de <i>marketing</i> puede incluir costos de publicidad digital, contenido web patrocinado, nuevos vendedores, registros de dominios de blogs e incluso software de automatización de <i>marketing</i>.
+          p(data-aos="fade-left") Un presupuesto de <i>marketing</i> representa todo el dinero que una empresa está dispuesta a gastar en proyectos relacionados con el <i>marketing</i>, por lo general, un trimestre o un año. El presupuesto de <i>marketing</i> puede incluir costos de publicidad digital, contenido web patrocinado, nuevos vendedores, registros de dominios de blogs e incluso <i>software</i> de automatización de <i>marketing</i>.
 
           p(data-aos="fade-left") Al crear un presupuesto de <i>marketing</i>, hay algunas cosas que debe considerar al planificar los gastos:
 
@@ -24,7 +24,7 @@
           ul.lista-ul--color.fa-ul2
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              p.mb-0 <b><i>Software:</i></b> para medios digitales, es posible que necesite software para crear campañas de <i>marketing</i> y administrar sus procesos diarios.
+              p.mb-0 <b><i>Software:</i></b> para medios digitales, es posible que necesite <i>software</i> para crear campañas de <i>marketing</i> y administrar sus procesos diarios.
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               p.mb-0 <b>Trabajador independiente:</b> si tiene una campaña temporal o desea probar una nueva estrategia de <i>marketing</i>, es posible que deba contratar a un trabajador independiente a corto plazo antes de contratar a un empleado de tiempo completo.
@@ -55,7 +55,7 @@
         p El principio básico del <i>marketing</i> es disponer de las herramientas necesarias para informar a los consumidores de la existencia de productos destinados a satisfacer sus necesidades específicas. Y es aquí donde los canales digitales juegan un papel activo como herramienta que posibilita la comunicación directa entre las marcas corporativas y el público en general.
 
         .cajon.color-primario.p-4(data-aos="fade-left")
-          p.mb-0 Es un canal que sirve para prestar servicios, comunicar o vender a través de computadoras, tabletas o teléfonos móviles, en otras palabras, los canales digitales ayudan a lograr el conocido "omnicanal" o "acceso del cliente en cualquier momento y lugar". Hay dos tipos de canales, uno es tu empresa (sitio web de la empresa, tu tienda online B2B o B2C o app comercial) y la otra es externa (<i>marketplace</i> o tienda de terceros). 
+          p.mb-0 Es un canal que sirve para prestar servicios, comunicar o vender a través de computadoras, tabletas o teléfonos móviles, en otras palabras, los canales digitales ayudan a lograr el conocido "omnicanal" o "acceso del cliente en cualquier momento y lugar". Hay dos tipos de canales, uno es tu empresa (sitio web de la empresa, tu tienda <i>online</i> B2B o B2C o <i>app</i> comercial) y la otra es externa (<i>marketplace</i> o tienda de terceros). 
 
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -124,7 +124,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        ImagenInfograficaB.color-primario(data-aos="flip-down")
+        ImagenInfograficaB.color-primario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema6/img7.svg', alt='Imágen decorativa')

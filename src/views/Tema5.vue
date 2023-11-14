@@ -69,7 +69,7 @@
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-       h2 5.1 <i>Search Engine Optimization</i>
+       h2 5.1 Search Engine Optimization
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -95,7 +95,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="fade-right")
-        p A lo anterior se le conoce como SEO, pues traduce "optimización de motores de búsqueda" y en el <i>marketing</i> esta estrategia es esencial para que las empresas ganen exposición y visibilidad en el mundo digital, lo que generará en más clientes potenciales, clientes redituables y mayor facturación, es decir, ganancias; y es que, se ha demostrado que los primeros resultados encontrados en Google incrementarán (y significativamente) las oportunidades de ser encontrada la marca; después de todo, el 90% de las personas que buscan en Google simplemente hacen clic en los resultados que aparecen en la primera página del motor de búsqueda.
+        p A lo anterior se le conoce como SEO, pues traduce "optimización de motores de búsqueda" y en el <i>marketing</i> esta estrategia es esencial para que las empresas ganen exposición y visibilidad en el mundo digital, lo que generará en más clientes potenciales, clientes redituables y mayor facturación, es decir, ganancias; y es que, se ha demostrado que los primeros resultados encontrados en Google incrementarán (y significativamente) las oportunidades de ser encontrada la marca; después de todo, el 90 % de las personas que buscan en Google simplemente hacen clic en los resultados que aparecen en la primera página del motor de búsqueda.
 
         p Aquí hay algunos conceptos y técnicas a considerar en el SEO:
 
@@ -156,7 +156,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/img15.svg', alt='Imágen decorativa')
           .tarjeta.tarjeta--gris.p-4
-            h4.text-center.mt-5 <i>Guest Blogging</i>
+            h4.text-center.mt-5 Guest Blogging
             p.text-center Autores invitados en un blog. Da valor y relevancia si los redactores son personas importantes del sector.
 
         .tarjeta-avatar
@@ -198,7 +198,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/img22.svg', alt='Imágen decorativa')
           .tarjeta.tarjeta--gris.p-4
-            h4.text-cente.mt-5 Experto en SEO
+            h4.text-center.mt-5 Experto en SEO
             p.text-center Profesional que ha centrado su carrera y experiencia en desarrollar para clientes estrategias SEO.
 
         .tarjeta-avatar
@@ -238,7 +238,7 @@
 
     separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.2 <i>Search Engine Marketing</i>
+      h2 5.2 Search Engine Marketing
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -247,7 +247,7 @@
 
       .col-lg-6
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés <i>search engine marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>on line</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
+          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés <i>search engine marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>online</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
 
         p(data-aos="fade-left") El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
 

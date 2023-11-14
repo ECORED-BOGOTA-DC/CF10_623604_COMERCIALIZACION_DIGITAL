@@ -129,7 +129,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-left") La adaptación del <i>Balanced Scorecard</i> o BSC al <I>Marketing Scorecard</i> o CMM se basa en un cambio de enfoque y una definición predefinida de nuevas áreas de actuación más acordes con las sensibilidades del <i>marketing</i>, pues el objetivo de un cuadro de mando de <i>marketing</i> (CMMK) es: ayudar a definir, comunicar y controlar la estrategia de <i>marketing</i> de la empresa. Al diseñar un cuadro de mando de <i>marketing</i> o CMM, primero debe definir diferentes perspectivas relacionadas con su departamento de <i>marketing</i>. En este caso, las principales áreas de CMM giran en torno a las 4P: <i>marketing</i> o <i>marketing</i> mix (producto, precio, promoción y distribución).
+        p(data-aos="fade-left") La adaptación del Balanced Scorecard o BSC al Marketing Scorecard o CMM se basa en un cambio de enfoque y una definición predefinida de nuevas áreas de actuación más acordes con las sensibilidades del <i>marketing</i>, pues el objetivo de un cuadro de mando de <i>marketing</i> (CMMK) es: ayudar a definir, comunicar y controlar la estrategia de <i>marketing</i> de la empresa. Al diseñar un cuadro de mando de <i>marketing</i> o CMM, primero debe definir diferentes perspectivas relacionadas con su departamento de <i>marketing</i>. En este caso, las principales áreas de CMM giran en torno a las 4P: <i>marketing</i> o <i>marketing mix</i> (producto, precio, promoción y distribución).
 
         p(data-aos="fade-left") A continuación, se podrán encontrar los elementos del cuadro de mando del <i>marketing</i> (CMMK):
 
@@ -142,7 +142,7 @@
         .tarjeta.tarjeta-taps.p-4(titulo="Productos/servicios")
           .row.justify-content-center
             .col-lg-7
-              p Indicadores relacionados con portafolios de productos y servicios como: unidades vendidas, sin vender, en stock, fuera de stock.
+              p Indicadores relacionados con portafolios de productos y servicios como: unidades vendidas, sin vender, en <i>stock</i>, fuera de <i>stock</i>.
 
             .col-10.col-lg-5
               figure
@@ -280,7 +280,7 @@
           .col-lg-8
             h5 Ejemplo
 
-            p Eres un guía turístico y has creado una campaña en <i>Adwords</i> para captar turistas interesado en contratar tus servicios de guía en un recorrido de tres días por La Guajira, para ello has creado una <i>landing</i> con un formulario de contacto en el que ofreces un descuento en el último día en el hospedaje.
+            p Eres un guía turístico y has creado una campaña en Adwords para captar turistas interesado en contratar tus servicios de guía en un recorrido de tres días por La Guajira, para ello has creado una <i>landing</i> con un formulario de contacto en el que ofreces un descuento en el último día en el hospedaje.
 
             p Por tanto, cada vez que algún turista interesado diligencie el formulario de contacto, se registra una conversión, ya que se trata de un cliente potencial para ti. En el sitio web también se encuentra la opción que te contacten por WhatsApp. 
 
@@ -310,7 +310,7 @@
           img(src='@/assets/curso/temas/tema2/img19.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p(data-aos="fade-left") Existen diferentes tipos de conversiones dependiendo de los objetivos y monetización que se tenga como una acción SEM, una estrategia de redes sociales, email <i>marketing</i>, generación de leads. La forma de conocer y analizar las conversiones es encontrar una tasa de conversión o tasa de conversión. Esto se puede aplicar a sitios web y plataformas, o, por ejemplo, a páginas y botones.
+        p(data-aos="fade-left") Existen diferentes tipos de conversiones dependiendo de los objetivos y monetización que se tenga como una acción SEM, una estrategia de redes sociales, <i>email marketing</i>, generación de <i>leads</i>. La forma de conocer y analizar las conversiones es encontrar una tasa de conversión o tasa de conversión. Esto se puede aplicar a sitios web y plataformas, o, por ejemplo, a páginas y botones.
 
         p(data-aos="fade-left") El cálculo de la tasa de conversión se realiza mediante la siguiente fórmula: 
 
@@ -336,7 +336,7 @@
           .row.justify-content-center
             .col-md-5.mb-4.mb-md-0
               h4 Importancia de las <i>landing page</i>
-              p Rentabilizar al máximo las inversiones, las empresas desarrollan páginas de aterrizaje o <i>landing pages</i> creadas específicamente para conseguir leads o ventas. 
+              p Rentabilizar al máximo las inversiones, las empresas desarrollan páginas de aterrizaje o <i>landing pages</i> creadas específicamente para conseguir <i>leads</i> o ventas. 
 
             .col-md-7
               figure
@@ -552,7 +552,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3 <i>dashboard</i>
+                  h3 <i>Dashboard</i>
                   p Con el fin de tener mayor conocimiento sobre los <i>dashboard</i> y sus tipos se invita a ver el siguiente documento. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/dashboard.docx')" target="_blank")

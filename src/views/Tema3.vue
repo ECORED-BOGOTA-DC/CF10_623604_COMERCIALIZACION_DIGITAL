@@ -209,7 +209,7 @@
           .row.justify-content-center
             .col-md-5.mb-4.mb-md-0
               h4 Urgencia
-              p Siguiendo el mismo principio de la escasez, la urgencia lleva a la persona a actuar por impulso. ¿Funciona? El <i>Black Friday</i> prueba que sí.
+              p Siguiendo el mismo principio de la escasez, la urgencia lleva a la persona a actuar por impulso. ¿Funciona? El Black Friday prueba que sí.
 
             .col-md-7
               figure
@@ -323,7 +323,7 @@
 
       .col-lg-6.mb-3
         .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-          p.mb-0 Es el que se basa en cómo percibimos nuestro alrededor con los ojos. Está demostrado que una imagen llega siempre de forma muchísimo más rápida al cerebro, con lo cual, la eficacia del mensaje que se quiere transmitir, también está más garantizada. Según estudios el cerebro retiene el 80% de lo que ve, 20% de lo que lee y 10% de lo que escucha.
+          p.mb-0 Es el que se basa en cómo percibimos nuestro alrededor con los ojos. Está demostrado que una imagen llega siempre de forma muchísimo más rápida al cerebro, con lo cual, la eficacia del mensaje que se quiere transmitir, también está más garantizada. Según estudios el cerebro retiene el 80 % de lo que ve, 20 % de lo que lee y 10 % de lo que escucha.
 
         p(data-aos="fade-left") También hay varias técnicas que se utilizan para hacer que el consumidor perciba algo mucho más interesante, cómo terminar los precios en 0,99, haciendo que nuestro cerebro perciba que ese precio es más bajo que otro. De igual manera, las palabras “gratis”, “rebajas”, “ocasión”, “oferta”, son otras técnicas de venta para llamar la atención de nuestros consumidores.
 
@@ -371,7 +371,7 @@
         .cajon.color-azul1.p-4.mb-3(data-aos="flip-down")
           p En 2006 se llevó a cabo un estudio en la sección de vinos de una tienda, donde se exhibían botellas de vino francés y alemán, de sabor y precio similar.
 
-          p.mb-0 En los días de la semana en que se tocaba música de acordeón francés, el 77% del vino vendido era francés, mientras que en los días de música alemana, el 73% del vino vendido era alemán. Lo más curioso de este experimento es que el 95% de la gente que había comprado vino no se había percatado del tipo de música ambiental.
+          p.mb-0 En los días de la semana en que se tocaba música de acordeón francés, el 77 % del vino vendido era francés, mientras que en los días de música alemana, el 73 % del vino vendido era alemán. Lo más curioso de este experimento es que el 95 % de la gente que había comprado vino no se había percatado del tipo de música ambiental.
 
       .col-10.col-lg-6
         figure
@@ -473,9 +473,9 @@
             img(src='@/assets/curso/temas/tema3/img37.svg', alt='Imágen decorativa')
 
         .col-lg-6
-          p(data-aos="fade-left") Todas las tecnologías que se usan hoy día para realizar análisis de <i>neuromarketing</i> fueron aplicadas desde años atrás con la intención de conocer el comportamiento del público con respecto a una problemática x. Es así como en los años 60, el investigador y psicólogo Herbert Krugman, comenzó con la utilización del pupilómetro en fines comerciales para indagar acerca del interés del ser humano con respecto a lo que veían en televisión. Durante esos años, también se iniciaron experimentos para conocer las reacciones emocionales del público, a través del <i>Galvanic Skin Response</i> (GSR).
+          p(data-aos="fade-left") Todas las tecnologías que se usan hoy día para realizar análisis de <i>neuromarketing</i> fueron aplicadas desde años atrás con la intención de conocer el comportamiento del público con respecto a una problemática x. Es así como en los años 60, el investigador y psicólogo Herbert Krugman, comenzó con la utilización del pupilómetro en fines comerciales para indagar acerca del interés del ser humano con respecto a lo que veían en televisión. Durante esos años, también se iniciaron experimentos para conocer las reacciones emocionales del público, a través del Galvanic Skin Response (GSR).
 
-          p(data-aos="fade-left") Para la década de 1970 aparece el <i>Eye Tracking</i>, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro encontrando información importante en los datos que se arrojaban.
+          p(data-aos="fade-left") Para la década de 1970 aparece el <i>eye tracking</i>, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro encontrando información importante en los datos que se arrojaban.
 
 
     .row.justify-content-center.align-items-center.mb-5

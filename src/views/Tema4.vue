@@ -31,7 +31,7 @@
 
             h5 Beneficios de la planeación 
 
-            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyers</i> persona como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
+            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyer persona</i> como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
         
           .col-md-6
             figure
@@ -41,7 +41,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Desarrollar
 
-            p Ya que tenemos asentadas las bases para el plan de contenidos entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor a tu <i>buyer</i> persona. 
+            p Ya que tenemos asentadas las bases para el plan de contenidos entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor a tu <i>buyer persona</i>. 
 
             h5 Elementos durante el desarrollo 
 
@@ -212,7 +212,7 @@
 
       .col-lg-6
         .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-          p.mb-0 Existen muchas herramientas para crear contenidos digitales que simplifican el trabajo, lo vuelven mucho más rápido y optimizan las publicaciones. Hacer uso de ellas es importante ya que el crear contenido implica encontrar las palabras clave (<i>keywords</i>) que representen al post; saber redactar títulos llamativos que generen curiosidad al público; y finalmente diseñar un mensaje claro que le sepa llegar al público objetivo.
+          p.mb-0 Existen muchas herramientas para crear contenidos digitales que simplifican el trabajo, lo vuelven mucho más rápido y optimizan las publicaciones. Hacer uso de ellas es importante ya que el crear contenido implica encontrar las palabras clave (<i>keywords</i>) que representen al <i>post</i>; saber redactar títulos llamativos que generen curiosidad al público; y finalmente diseñar un mensaje claro que le sepa llegar al público objetivo.
 
         p(data-aos="fade-left") A continuación, se indican algunas herramientas y aplicaciones para el diseño de contenido digital:
 
@@ -383,10 +383,10 @@
                   p.mb-0.texto-negro Artículos de blogs.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Ebooks.
+                  p.mb-0.texto-negro <i>Ebooks</i>.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Whitepapers.
+                  p.mb-0.texto-negro <i>Whitepapers</i>.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Reseñas.
@@ -416,7 +416,7 @@
                   p.mb-0.texto-negro Fotografías.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Banners.
+                  p.mb-0.texto-negro <i>Banners</i>.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Ilustraciones.
@@ -446,7 +446,7 @@
                   p.mb-0.texto-negro Canciones.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Podcast.
+                  p.mb-0.texto-negro <i>Podcast</i>.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Entrevistas.
@@ -455,7 +455,7 @@
                   p.mb-0.texto-negro Audiolibros.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Soundtracks.
+                  p.mb-0.texto-negro <i>Soundtracks</i>.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Notas de voz.
@@ -476,13 +476,13 @@
                   p.mb-0.texto-negro Transmisiones en vivo.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Sketches humorísticos. 
+                  p.mb-0.texto-negro <i>Sketches</i> humorísticos. 
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Tutoriales.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0.texto-negro Reviews de productos.
+                  p.mb-0.texto-negro <i>Reviews</i> de productos.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-0.texto-negro Videos musicales. 
@@ -576,9 +576,9 @@
               p Es muy común que una marca utilice distintos canales para llegar a su audiencia, ya sea redes sociales -como Instagram, LinkedIn, Facebook- el blog de su sitio web, algún canal de YouTube e incluso las campañas de <i>mailing</i>, ¿por qué no? De esta manera, evitarás el desorden y siempre encontrarás lo que buscas.
             
             .row.p-4(titulo="Identifica el tipo de contenido")              
-              p Una vez que ya decidiste los canales que utilizarás en tu estrategia de contenidos, es muy importante destacar cuál es el formato de cada una de las publicaciones. Puedes identificar si se tratará de algún post de blog, un e-book u otro <i>lead magnet</i>. O en el caso de redes sociales como Instagram, determinar si es un post común, una historia o un carrusel. 
+              p Una vez que ya decidiste los canales que utilizarás en tu estrategia de contenidos, es muy importante destacar cuál es el formato de cada una de las publicaciones. Puedes identificar si se tratará de algún <i>post</i> de blog, un e-book u otro <i>lead magnet</i>. O en el caso de redes sociales como Instagram, determinar si es un <i>post</i> común, una historia o un carrusel. 
 
-              p Con esto podrás observar que tan variada es la oferta de contenidos que brindas a tus posibles leads y también sirve para testear qué tipo de contenido es el que mejor rendimiento tiene.
+              p Con esto podrás observar que tan variada es la oferta de contenidos que brindas a tus posibles <i>leads</i> y también sirve para testear qué tipo de contenido es el que mejor rendimiento tiene.
             
             .row.p-4(titulo="Determina la temática del contenido")              
               p En este punto es importante determinar bajo qué pilar se va a desarrollar un contenido específico. Digamos que uno de tus pilares es “actualidad”, por lo tanto bajo este pilar se debe informar y mantener actualizada a la audiencia respecto a tu rubro.

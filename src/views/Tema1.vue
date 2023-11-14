@@ -234,7 +234,7 @@
       .col-4.col-lg-3
         .bg-tarjeta1.p-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            h5.text-center.mt-lg-2 Ads en web
+            h5.text-center.mt-lg-2 <i>Ads</i> en web
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
@@ -244,11 +244,11 @@
       .col-4.col-lg-3
         .bg-tarjeta2.p-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            h5.text-center.mt-lg-2 Display
+            h5.text-center.mt-lg-2 <i>Display</i>
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            p.mt-lg-2 Este tipo de campaña se trata de un anuncio en las páginas de destino y regularmente se muestran como banners combinando imágenes con texto.
+            p.mt-lg-2 Este tipo de campaña se trata de un anuncio en las páginas de destino y regularmente se muestran como <i>banners</i> combinando imágenes con texto.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-4.col-lg-3
@@ -264,7 +264,7 @@
       .col-4.col-lg-3
         .bg-tarjeta4.p-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            h5.text-center.mt-lg-2 E-mail
+            h5.text-center.mt-lg-2 <i>E-mail</i>
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
@@ -274,7 +274,7 @@
       .col-4.col-lg-3
         .bg-tarjeta5.p-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            h5.text-center.mt-lg-2 Retargeting
+            h5.text-center.mt-lg-2 <i>Retargeting</i>
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
@@ -284,7 +284,7 @@
       .col-4.col-lg-3
         .bg-tarjeta6.p-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            h5.text-center.mt-lg-2 Ads en redes sociales y móviles
+            h5.text-center.mt-lg-2 <i>Ads</i> en redes sociales y móviles
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
@@ -366,14 +366,14 @@
                 img(src='@/assets/curso/temas/tema1/img17.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Adicional a lo anterior, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas <i>on line</i> para redes sociales. 
+      p(data-aos="fade-right") Como complemento a lo anteriormente expuesto, se invita a consultar el anexo para aprender sobre otras estrategias que se pueden incluir en las campañas <i>online</i> para redes sociales. 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta.tarjeta--amarilla.p-5
         SlyderA(tipo="b")
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4 Estrategia de video para potenciar tu marca
+              h4 Estrategia de video para potenciar una marca
               p A los consumidores les encanta. No solo dan la posibilidad de conocer más a fondo un producto o un servicio: también ofrecen un <b>ROI (retorno de la inversión) mayor</b> y aumentan el tráfico orgánico que recibe una web.
 
               p Plataformas como Instagram o Tik Tok son las reinas del juego con el surgimiento de los videos en formato breve. Tik Tok ha conquistado a la generación Z con sus videos de hasta 30 o 60 segundos e Instagram ha adaptado su red con los reels de hasta un minuto.
@@ -384,7 +384,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              p Aquí tienes algunas ideas de contenido que suelen funcionar bien
+              p A continuación algunas ideas de contenido que suelen funcionar bien
 
               ul.lista-ul--color.fa-ul2
                 li 
@@ -424,7 +424,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h5 Colabora con creadores a través de las historias de Instagram
+              h5 Colaboraciones con creadores a través de las historias de Instagram
 
               p Las historias de Instagram son una gran herramienta de <i>marketing</i> para colaborar con creadores de contenido o <i>influencers</i>. 
 
@@ -436,18 +436,18 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h5 Algunas ideas de contenido con creadores que harán las delicias de tus clientes
+              h5 Algunas ideas de contenido con creadores
 
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Comparte un teaser sobre un producto antes de su lanzamiento.
+                  | Compartir un <i>teaser</i> sobre un producto antes de su lanzamiento.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Haz un directo y da a conocer un nuevo producto junto con un creador que ya lo haya probado. 
+                  | Hacer un directo y da a conocer un nuevo producto junto con un creador que ya lo haya probado. 
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Crea un sorteo con un microinfluencer y llega a mayor audiencia.
+                  | Crear un sorteo con un microinfluencer y llega a mayor audiencia.
 
             .col-md-6
               figure
@@ -457,7 +457,7 @@
             .col-md-6.mb-4.mb-md-0
               h5 Anuncios: mayor inversión y en más plataformas 
 
-              p En redes sociales la competencia es altísima: todo el mundo quiere darse a conocer. Por eso, si no personalizas tus anuncios, las posibilidades de que pierdas consumidores aumentan considerablemente.
+              p En redes sociales la competencia es altísima: todo el mundo quiere darse a conocer. Por eso, si no se personalizan los anuncios, las posibilidades de perder consumidores aumentan considerablemente.
 
             .col-md-6
               figure
@@ -465,10 +465,10 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.mb-5 Algunos tips
-              h5 1. Atrae a los visitantes de tu tienda usando retargeting
+              h4.mb-5 Algunos <i>tips</i>
+              h5 1. Atraer a los visitantes de una tienda usando <i>retargeting</i>
 
-              p El retargeting es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita tu tienda <i>on line</i> varias veces sin comprar nada. Usando anuncios de retargeting puedes mostrarle los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
+              p El retargeting es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita una tienda <i>online</i> varias veces sin comprar nada. Usando anuncios de <i>retargeting</i> se le pueden mostrar los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
 
             .col-md-6
               figure
@@ -476,10 +476,10 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.mb-5 Algunos tips
-              h5 2. Aprovecha la segmentación de usuarios por ubicación
+              h4.mb-5 Algunos <i>tips</i>
+              h5 2. Aprovechar la segmentación de usuarios por ubicación
 
-              p La mayoría de las plataformas de redes sociales te dejan segmentar tu audiencia en función de su ubicación. Esto es justo lo que necesitas para ofrecer los mensajes más relevantes y en el momento adecuado a tus seguidores.
+              p La mayoría de las plataformas de redes sociales permiten segmentar la audiencia en función de su ubicación. Esto es justo lo que se necesita para ofrecer los mensajes más relevantes y en el momento adecuado a los seguidores.
 
             .col-md-6
               figure
@@ -530,13 +530,13 @@
       AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
         .row(titulo="Tofu o atracción")
           .col-md-6.mb-4.mb-md-0
-            p Es la parte de arriba del embudo. es la captación de clientes o leads. El objetivo de esta etapa es obtener los datos de los usuarios que están buscando solucionar alguna de sus necesidades, pero aún no conocen los productos o servicios de la marca. 
+            p Es la parte de arriba del embudo. es la captación de clientes o <i>leads</i>. El objetivo de esta etapa es obtener los datos de los usuarios que están buscando solucionar alguna de sus necesidades, pero aún no conocen los productos o servicios de la marca. 
         
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img28.svg', alt='Imágen decorativa')
 
-        .row(titulo="Cuatro  herramientas para alcanzar a tus clientes potenciales")
+        .row(titulo="Cuatro  herramientas para alcanzar a los clientes potenciales")
 
           .row.justify-content-center.align-items-center.mb-5
             .col-md-4.col-lg-3
@@ -572,7 +572,7 @@
             .col-md-4.col-lg-3
               .bg-tarjeta11.py-5
                 .row.justify-content-center.align-items-center
-                  h5.text-center.mt-lg-2 <i>influencers</i>
+                  h5.text-center.mt-lg-2 <i>Influencers</i>
             .col-md-8.col-lg-9  
               .bg-tarjeta8-1.p-2.p-lg-4
                 .row.justify-content-center.align-items-center
@@ -583,7 +583,7 @@
           .col-md-6.mb-4.mb-md-0
             p Es la parte del medio del embudo. Esta etapa es la más importante ya que el usuario ya conoce las bondades de la compañía, pero también tiene a su alcance otras que ofrecen productos o servicios similares. En este punto, el cliente potencial está interesado y comenzará a indagar más acerca de la marca y es allí donde se le debe convencer de la compra.
 
-            p Es importante educar para enseñarles a resolver su problema a través de los productos o servicios de la compañía; también se les debe atrapar para que te sigan, se suscriban a tu <i>newsletter</i> o activen las notificaciones de tu perfil en caso de que no deseen comprar aún; y, finalmente, poner en práctica otras estrategias como los <i>webinar</i>, las consultorías gratuitas o el <i>e-mail marketing</i> para demostrarles las razones por las cuales deberían elegir todo lo que ofrece la marca. 
+            p Es importante educar para enseñarles a resolver su problema a través de los productos o servicios de la compañía; también se les debe atrapar para que sigan la marca, se suscriban a un <i>newsletter</i> o activen las notificaciones del perfil de la marca en caso de que no deseen comprar aún; y, finalmente, poner en práctica otras estrategias como los <i>webinars</i>, las consultorías gratuitas o el <i>e-mail marketing</i> para demostrarles las razones por las cuales deberían elegir todo lo que ofrece la marca. 
 
         
           .col-md-6
@@ -712,7 +712,7 @@
 
               .row(x="82%" y="13%" tooltip="" numero="+")
                 h5 Ingresos
-                p De este ítem se puede aprovechar todo. Habrá clientes que tengan mayor capacidad adquisitiva por lo cual podrán acceder a productos o servicios mucho más premium; mientras que habrá otros con una menor capacidad a los cuales se les podrá ofrecer descuentos o promociones
+                p De este ítem se puede aprovechar todo. Habrá clientes que tengan mayor capacidad adquisitiva por lo cual podrán acceder a productos o servicios mucho más <i>premium</i>; mientras que habrá otros con una menor capacidad a los cuales se les podrá ofrecer descuentos o promociones
 
 
         .row.justify-content-center
@@ -777,7 +777,7 @@
       .col-lg-7
         .tarjeta-conectada1.p-4(data-aos="fade-up-right")
           h5 Blog
-          p Realizar contenido de blog, como artículos especializados, videos, comunicados, infografías, e-books, entre otros, son de suma importancia para la estrategia de comunicación de todas las marcas, ya que ayudan a promocionar o vender más fácil.
+          p Realizar contenido de blog, como artículos especializados, videos, comunicados, infografías, <i>e-books</i>, entre otros, son de suma importancia para la estrategia de comunicación de todas las marcas, ya que ayudan a promocionar o vender más fácil.
 
         .tarjeta-conectada2.p-4(data-aos="fade-up-right")
           h5 Redes sociales
@@ -788,8 +788,8 @@
           p A través de los mensajes de texto puedes ayudarle a tu consumidor a recordar fechas o asuntos importantes como pago de su factura, una cita, una nueva promoción etc.
 
         .tarjeta-conectada4.p-4(data-aos="fade-up-right")
-          h5 E-mail <i>marketing</i>
-          p Puede estar más enfocado a la promoción de nuevos productos. Pueden ser campañas informativas o de educación, utilizando videos o gráficas llamativas para que el mail logre su objetivo: atraer, retener y fidelizar. 
+          h5 <i>E-mail</i> <i>marketing</i>
+          p Puede estar más enfocado a la promoción de nuevos productos. Pueden ser campañas informativas o de educación, utilizando videos o gráficas llamativas para que el <i>mail</i> logre su objetivo: atraer, retener y fidelizar. 
 
         .tarjeta-conectada5.p-4(data-aos="fade-up-right")
           h5 Formularios
@@ -833,7 +833,7 @@
           .col-md-6.mb-4.mb-md-0
             h5 Identifica si un contenido es publicitario
 
-            p En las redes sociales hay que señalar que el contenido que estamos publicando es promocional. Se deben usar hashtags; mencionar la información en la imagen del concurso o utilizar los espacios habilitados para ello.
+            p En las redes sociales hay que señalar que el contenido que estamos publicando es promocional. Se deben usar <i>hashtags</i>; mencionar la información en la imagen del concurso o utilizar los espacios habilitados para ello.
         
           .col-md-6
             figure
