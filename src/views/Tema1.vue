@@ -49,7 +49,7 @@
             p.mb-5 Se considera que la campaña fue exitosa por la creatividad que puso el equipo de <i>marketing</i> de la misma. Una investigación de mercado concluyó que Rumania es uno de los países más infelices del mundo, por eso, Coca-Cola decidió dar un giro a esto y hacer una campaña de <i>marketing</i> enfocada en este sector. Envío más de 180 botellas a personalidades e <i>influencers</i> del país para que mostraran sus casos de éxito y sus historias de optimismo.
             .col-10.col-lg-12
               figure
-                img(src='@/assets/curso/temas/tema1/img3.svg', alt='La imagen muestra una linea de botellas deCoca-Cola en la etiquete de la primera botella tiene un texto en ingles que dice "En 2018, el número de turistas que visitaron Rumanía creció un 6,3%"').img3-tm1
+                img(src='@/assets/curso/temas/tema1/img3.svg', alt='La imagen muestra una linea de botellas de Coca-Cola en la etiquete de la primera botella tiene un texto en ingles que dice "En 2018, el número de turistas que visitaron Rumanía creció un 6,3 %"').img3-tm1
           
         
         .col-md.tarjeta.tarjeta-azul2.p-5
@@ -62,7 +62,7 @@
 
             .col-10.col-lg-12
               figure
-                img(src='@/assets/curso/temas/tema1/img4.svg', alt='Muestra 6 vasos reutilizables de Starbucks, de diferentes tamaños y diseños de navidad.')
+                img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen que muestra 6 vasos reutilizables de Starbucks, de diferentes tamaños y diseños de navidad.')
              
 
     .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
@@ -72,7 +72,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
           figure
-            img(src='@/assets/curso/temas/tema1/img5.svg', alt='Muestras las 6 Claves de la estrategia Starbucks relacionadas en la parte inferior')
+            img(src='@/assets/curso/temas/tema1/img5.svg', alt='Imagen que muestra las 6 Claves de la estrategia Starbucks, relacionadas en la parte inferior.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -82,7 +82,7 @@
       .col-lg-6
         p(data-aos="fade-left") <b>Las emociones siempre triunfan.</b> Quizás esa es la razón de que este video de Knorr haya obtenido tantas reproducciones en 2016. En principio parece orientada a captar a los #[b #[i foodie millennials.]]
 
-        p(data-aos="fade-left") Cada vez las redes sociales y el mundo blog evidencian que la cocina puede llegar a ser muy trend. La campaña fue creada por <b>MullenLowe.</b>
+        p(data-aos="fade-left") Cada vez las redes sociales y el mundo blog evidencian que la cocina puede llegar a ser muy <i>trend</i>. La campaña fue creada por <b>MullenLowe.</b>
 
         .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
@@ -110,7 +110,7 @@
 
           .tarjeta.color-acento-botones--borde.p-4(x="20%" y="60%" numero="")
             .h5.mb-2 Éxito anterior
-            p Esta campaña descansa en el éxito del video <i>The Flavour of Home</i> que Knorr lanzó en 2015 y que tiene más de 3 millones de vistas en YouTube.
+            p Esta campaña descansa en el éxito del video The Flavour of Home que Knorr lanzó en 2015 y que tiene más de 3 millones de vistas en YouTube.
 
           .tarjeta.color-primario--borde.p-4(x="38%" y="19%" numero="")
             .h5.mb-2 Viral
@@ -126,7 +126,7 @@
 
           .tarjeta.color-verde--borde.p-4(x="55%" y="87%" numero="")
             .h5.mb-2 As bajo la manga
-            p  La directora de la película es Tatia Pilieva, de Pulse Films, quien ganó el León de Oro en Cannes en 2014 con su película <i>First Kiss.</i>
+            p  La directora de la película es Tatia Pilieva, de Pulse Films, quien ganó el León de Oro en Cannes en 2014 con su película First Kiss.
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center
@@ -135,7 +135,7 @@
             img(src='@/assets/curso/temas/tema1/img9.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p(data-aos="fade-left") ¡Observe como una campaña de medios sociales con corazón! La Fundación Make AWish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el hashtag <i>#ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
+          p(data-aos="fade-left") ¡Observe como una campaña de medios sociales con corazón! La Fundación Make AWish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el <i>hashtag #ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
 
     .row.justify-content-center.align-items-center.mb-5
       h4(data-aos="fade-left") <i>#ShareYourEars</i> Las orejas benéficas de Disney
@@ -143,7 +143,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         figure(data-aos="flip-left")
-          img(src='@/assets/curso/temas/tema1/img10.svg', alt='Muestra publicidad de Disneyland Resort con el  Hashtag #comparte tus oídos<br> Comparte tus orejas de Mickey mouse y transfórmate en vivo<br>Adicional muestra a una niña con su mamá en una atracción, la describe como Andrea, 11 años, Trastorno genetico.<br>Adicional la imagen tiene la siguiente información')
+          img(src='@/assets/curso/temas/tema1/img10.svg', alt='Imagen que muestra publicidad de Disneyland Resort con el  Hashtag #comparte tus oídos Comparte tus orejas de Mickey mouse y transfórmate en vivo Adicional muestra a una niña con su mamá en una atracción, la describe como Andrea, 11 años, Trastorno genético.')
 
     .row.justify-content-center.align-items-center.mb-5
       h4(data-aos="fade-left") Claves de éxito de <i>#ShareYourEars</i>
@@ -151,10 +151,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img11.svg', alt='Muestra logo que representa el programa de Disney #ShareYourEars')
+          img(src='@/assets/curso/temas/tema1/img11.svg', alt='Imagen que muestra logo que representa el programa de Disney #ShareYourEars')
 
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imágen decorativa')
+          img(src='@/assets/curso/temas/tema1/img12.svg', alt='Imagen con una persona con las orejas de Mickey, haciendo alusión a la publicidad de Disneyland.')
         
       .col-lg-6
         .tarjeta-1.p-4.mb-3
@@ -194,7 +194,7 @@
               | Se valieron de la herramienta TINT para captar los comentarios sociales.
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | El compromiso de la marca creció en 28%.
+              | El compromiso de la marca creció en 28 %.
 
     .row.justify-content-center.align-items-center.mb-5
       h4(data-aos="fade-left") Chipotle: <i>behind the scenes en Instagram</i>
@@ -222,11 +222,11 @@
 
       .col-10.col-lg-6
         figure
-          img(src='@/assets/curso/temas/tema1/img13.svg', alt='Muestra imagen de una publicación de instagram de Chipotle Mexican Grill, con unos aguacates')
+          img(src='@/assets/curso/temas/tema1/img13.svg', alt='Imagen que muestra una publicación de Instagram de Chipotle Mexican Grill, con unos aguacates.')
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-       h2 1.1. Tipos de campañas digitales.
+       h2 1.1 Tipos de campañas digitales
 
     p.mb-5(data-aos="fade-right") Existen diferentes opciones de campañas digitales que pueden ser útiles en la estrategia digital. Aquí algunas de ellas:
 
@@ -302,7 +302,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Para que cualquier campaña de mercadeo <i>on line</i> funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo <i>on line</i> que funcionan de manera práctica para lograr ventas a través de estas plataformas.
+      p(data-aos="fade-right") Para que cualquier campaña de mercadeo <i>online</i> funcione, se deben tener claros los objetivos y una vez culminado el proceso se deben realizar análisis a los resultados obtenidos con la intención de mejorar en nuevas estrategias. Ahora, teniendo en cuenta que las redes sociales son efectivas, rápidas y gratuitas en su mayoría, se verán varias campañas de mercadeo <i>online</i> que funcionan de manera práctica para lograr ventas a través de estas plataformas.
 
     .row.justify-content-center.align-items-center.mb-5
       TabsC.color-primario
@@ -376,7 +376,7 @@
               h4 Estrategia de video para potenciar una marca
               p A los consumidores les encanta. No solo dan la posibilidad de conocer más a fondo un producto o un servicio: también ofrecen un <b>ROI (retorno de la inversión) mayor</b> y aumentan el tráfico orgánico que recibe una web.
 
-              p Plataformas como Instagram o Tik Tok son las reinas del juego con el surgimiento de los videos en formato breve. Tik Tok ha conquistado a la generación Z con sus videos de hasta 30 o 60 segundos e Instagram ha adaptado su red con los reels de hasta un minuto.
+              p Plataformas como Instagram o TikTock son las reinas del juego con el surgimiento de los videos en formato breve. TikTock ha conquistado a la generación Z con sus videos de hasta 30 o 60 segundos e Instagram ha adaptado su red con los reels de hasta un minuto.
 
             .col-md-6
               figure
@@ -384,7 +384,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              p A continuación algunas ideas de contenido que suelen funcionar bien
+              p A continuación algunas ideas de contenido que suelen funcionar bien:
 
               ul.lista-ul--color.fa-ul2
                 li 
@@ -410,7 +410,7 @@
                   | Antes y después.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Unboxing y pruebas de producto.
+                  p.mb-0 <i>Unboxing</i> y pruebas de producto.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   | Hecho a mano.
@@ -447,7 +447,7 @@
                   | Hacer un directo y da a conocer un nuevo producto junto con un creador que ya lo haya probado. 
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Crear un sorteo con un microinfluencer y llega a mayor audiencia.
+                  | Crear un sorteo con un <i>microinfluencer</i> y llega a mayor audiencia.
 
             .col-md-6
               figure
@@ -468,7 +468,7 @@
               h4.mb-5 Algunos <i>tips</i>
               h5 1. Atraer a los visitantes de una tienda usando <i>retargeting</i>
 
-              p El retargeting es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita una tienda <i>online</i> varias veces sin comprar nada. Usando anuncios de <i>retargeting</i> se le pueden mostrar los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
+              p El <i>retargeting</i> es un tipo de publicidad que permite a las marcas personalizar sus ofertas y anuncios haciendo que los visitantes reciban un contenido concreto según su comportamiento en la página web. Por ejemplo, digamos que un usuario visita una tienda <i>online</i> varias veces sin comprar nada. Usando anuncios de <i>retargeting</i> se le pueden mostrar los mismos productos que consultó en su momento e incluso ofrecerle un pequeño descuento con tiempo limitado para animarle a hacer una compra.
 
             .col-md-6
               figure
@@ -476,7 +476,7 @@
 
           .row.justify-content-center.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4.mb-5 Algunos <i>tips</i>
+              h4.mb-5
               h5 2. Aprovechar la segmentación de usuarios por ubicación
 
               p La mayoría de las plataformas de redes sociales permiten segmentar la audiencia en función de su ubicación. Esto es justo lo que se necesita para ofrecer los mensajes más relevantes y en el momento adecuado a los seguidores.
@@ -521,7 +521,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img27.svg', alt='Muestra gráfico de embudo donde muestra las 3 etapas del marketing digital, relacionado en la parte inferior de la imagen')
           figcaption 
-            p.mb-0 <b>Fuente:</b> Espacio digital. https://www.espaciodigital.com.co/blog/embudo-marketing -digital-como-elaborarlo-exitosamente/#Que_es_un_embudo_de_ventas
+            p.mb-0 <b>Fuente:</b> basado en Espacio digital (2020)
 
     .row.justify-content-center.align-items-center.mb-5
       p(data-aos="fade-right") Normalmente los embudos de ventas se dividen en tres etapas, a saber:
@@ -708,7 +708,7 @@
 
               .row(x="56%" y="13%" tooltip="" numero="+")
                 h5 Edad
-                p Tiene una relación directa con el mensaje y la manera de transmitirlo. A los jóvenes se les deberá de presentar algo más cool, mientras que, a los mayores, se les deberá brindar mayor utilidad y seguridad. 
+                p Tiene una relación directa con el mensaje y la manera de transmitirlo. A los jóvenes se les deberá de presentar algo más <i>cool</i>, mientras que, a los mayores, se les deberá brindar mayor utilidad y seguridad. 
 
               .row(x="82%" y="13%" tooltip="" numero="+")
                 h5 Ingresos
@@ -853,7 +853,7 @@
           .col-md-6.mb-4.mb-md-0
             h5 El usuario debe poder darse de baja
 
-            p Tus <i>e-mails</i> deben ofrecer la posibilidad de renunciar a las newsletters o cualquier tipo de comunicación por <i>e-mail.</i> De hecho este servicio de baja debe ser gratuito y estar disponible siempre. Es posible que algunas empresas piensen que si no ofrecen esta opción, sus usuarios seguirán con ellos. Incluso hay quienes no lo ponen nada fácil a la hora de encontrar esta posibilidad para no sufrir bajas, pero esta no es una buena estrategia.
+            p Tus <i>e-mails</i> deben ofrecer la posibilidad de renunciar a las <i>newsletters</i> o cualquier tipo de comunicación por <i>e-mail.</i> De hecho este servicio de baja debe ser gratuito y estar disponible siempre. Es posible que algunas empresas piensen que si no ofrecen esta opción, sus usuarios seguirán con ellos. Incluso hay quienes no lo ponen nada fácil a la hora de encontrar esta posibilidad para no sufrir bajas, pero esta no es una buena estrategia.
         
           .col-md-6
             figure

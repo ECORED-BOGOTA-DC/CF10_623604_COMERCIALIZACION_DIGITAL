@@ -32,7 +32,7 @@
           .py-3.py-md-4(titulo="Rastreo")
             .row
               .col-md-6.mb-4.mb-md-0
-                p Los motores de búsqueda mediante bots recorren las páginas a través de enlaces, por esta razón, es importante distribuir adecuadamente los enlaces al igual que lo haría otros usuarios que navegan por la web, o que los usuarios navegan de un enlace a otro y recopilan datos sobre estas páginas web que están disponibles en el servidor.
+                p Los motores de búsqueda mediante <i>bots</i> recorren las páginas a través de enlaces, por esta razón, es importante distribuir adecuadamente los enlaces al igual que lo haría otros usuarios que navegan por la web, o que los usuarios navegan de un enlace a otro y recopilan datos sobre estas páginas web que están disponibles en el servidor.
 
                 p El proceso de validación comienza con: 
 
@@ -42,13 +42,13 @@
                     | Lista de direcciones web de rastreos  y mapas de sitios proporcionados por los sitios web. 
                   li 
                     span.text-bold 2. 
-                    | Una vez se tiene acceso a los sitios web, los bots buscan enlaces a otras páginas para visitarla. 
+                    p.mb-0 Una vez se tiene acceso a los sitios web, los <i>bots</i> buscan enlaces a otras páginas para visitarla. 
                   li 
                     span.text-bold 3. 
-                    | Los bots se sienten particularmente atraídos por los sitios web nuevos y  los cambios en los sitios web existentes.
+                    p.mb-0 Los <i>bots</i> se sienten particularmente atraídos por los sitios web nuevos y  los cambios en los sitios web existentes.
 
                 .cajon.color-primario.p-4
-                  p.mb-0 Aquí es importante aclarar que el bot decide qué páginas visitar, con qué frecuencia y durante cuánto tiempo  rastrear el sitio, por lo tanto, necesita tiempos de carga óptimos y contenido actualizado. 
+                  p.mb-0 Aquí es importante aclarar que el <i>bot</i> decide qué páginas visitar, con qué frecuencia y durante cuánto tiempo  rastrear el sitio, por lo tanto, necesita tiempos de carga óptimos y contenido actualizado. 
 
               .col-md-6
                 figure
@@ -57,11 +57,11 @@
           .py-3.py-md-4(titulo="Indexación")
             .row
               .col-md-6.mb-4.mb-md-0
-                p Cuando un bot rastrea páginas web para recopilar la información requerida, esas páginas se indexan y organizan por contenido, permisos y  relevancia, de modo que, al hacer una pregunta en un motor de búsqueda, le es mucho más fácil mostrar los resultados que están más relacionados con la consulta. Inicialmente, los motores de búsqueda se basaban en la cantidad de veces que se repetía una palabra. 
+                p Cuando un <i>bot</i> rastrea páginas web para recopilar la información requerida, esas páginas se indexan y organizan por contenido, permisos y  relevancia, de modo que, al hacer una pregunta en un motor de búsqueda, le es mucho más fácil mostrar los resultados que están más relacionados con la consulta. Inicialmente, los motores de búsqueda se basaban en la cantidad de veces que se repetía una palabra. 
 
                 p La búsqueda revisa estos términos en el índice, para encontrar la página que aparecía en el texto y ubicar mejor las páginas más repetidas, así como imágenes, videos o animaciones, la fecha de publicación es parte de estos aspectos. Hoy le dan más importancia a la calidad de su contenido. 
 
-                p Una vez que la página ha pasado el rastreo y la indexación del bot, es el turno del algoritmo. Este es un proceso informático que determina qué sitios web se muestran antes y después de los resultados de búsqueda.
+                p Una vez que la página ha pasado el rastreo y la indexación del <i>bot</i>, es el turno del algoritmo. Este es un proceso informático que determina qué sitios web se muestran antes y después de los resultados de búsqueda.
 
               .col-md-6
                 figure
@@ -247,7 +247,7 @@
 
       .col-lg-6
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés <i>search engine marketing</i>, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>online</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
+          p.mb-0 SEM es la abreviatura que se le da al <i>marketing</i> de motores de búsqueda o en inglés Search Engine Marketing, generalmente, se trata de un conjunto de estrategias para potenciar los canales digitales corporativos en los buscadores e integrar la publicidad <i>online</i> con acciones de posicionamiento orgánico. Esta estrategia ayuda a aumentar el conocimiento de la marca y dirigir rápidamente audiencias calificadas (personas que cumplen con ciertas características) a su sitio web.
 
         p(data-aos="fade-left") El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
 
@@ -260,11 +260,11 @@
         p.mb-4(data-aos="fade-right") Para saber qué sitios mostrar, los motores de búsqueda utilizan algoritmos que apuntan a los sitios que  mejor responden a una solicitud en particular. Por ejemplo, los algoritmos de Google se basan principalmente en la relevancia (contenido web) y permisos (enlaces de otros sitios).
 
         .cajon.color-azul1.p-4.mb-3(data-aos="fade-right")
-          p.mb-0 Por lo general, se muestran en las columnas superior y  derecha. A diferencia de las listas orgánicas, los anunciantes deben pagar  por cada clic. Para comprar anuncios de motores de búsqueda y obtener tráfico, debe buscar soluciones de publicidad de motores de búsqueda como Google Ads. Este sistema también se conoce como PPC (pago por clic) o CPC (coste por clic).
+          p.mb-0 Por lo general, se muestran en las columnas superior y  derecha. A diferencia de las listas orgánicas, los anunciantes deben pagar  por cada clic. Para comprar anuncios de motores de búsqueda y obtener tráfico, debe buscar soluciones de publicidad de motores de búsqueda como Google Ads. Este sistema también se conoce como PPC (Pago Por Clic) o CPC (Coste Por Clic).
     
       .col-10.col-lg-6
         figure(data-aos="flip-down")
-          img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imagen muestra búsqueda en Google')
+          img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imagen que muestra una búsqueda en Google sobre tiendas de mascotas.')
 
 
 

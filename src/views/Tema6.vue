@@ -116,7 +116,7 @@
             span Canales digitales
 
           figure
-            img(src='@/assets/curso/temas/tema6/img6.svg', alt='Muestra la convergencia de los canales digitales relacionados en la parte inferior')
+            img(src='@/assets/curso/temas/tema6/img6.svg', alt='Figura que muestra la convergencia de los canales digitales, de la siguiente manera: Patrocinio de clientes - medios propios - contenido corporativo. Marcas que soliciten compartir - medios Ganados - orgánico. Cobertura de prensa - medios pagados - anuncios tradicionales.')
             figcaption.mt-3 Nota. Tomada de The Converged Media Imperative: How Brands Must Combine Paid, Owner & Earned Media, Altimeter Group (2012).
 
     p.mb-5(data-aos="fade-right") A continuación, se explica cada una de las circunferencias que conforman el anterior gráfico: 

@@ -41,7 +41,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Desarrollar
 
-            p Ya que tenemos asentadas las bases para el plan de contenidos entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor a tu <i>buyer persona</i>. 
+            p Ya que tenemos asentadas las bases para el plan de contenidos entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor al <i>buyer persona</i>. 
 
             h5 Elementos durante el desarrollo 
 
@@ -220,7 +220,7 @@
       SlyderE.tarjeta.tarjeta--azul.p-5(indicadores="centro")
         .row
           .col-md-6.mb-4.mb-md-0
-            h4 <i>Blog Topic Generator de Hubspot</i>
+            h4 Blog Topic Generator de Hubspot
 
             p Otra herramienta muy interesante para cuando nos falla la inspiración.
 
@@ -279,7 +279,7 @@
 
             p Permite convertir imágenes en obras de arte. Ofrece la edición de fotos, diseñar gráficos y realizar collage de fotos. Pone a disposición de los usuarios más de 600 plantillas de collage de diversos temas. Este catálogo permite crear fotografías para felicitaciones, aniversarios, tarjetas postales o portadas de revistas.
 
-            p FotoJet es una herramienta online completa de diseño gráfico, edición fotográfica y creación de collages. Sus prestaciones se asemejan mucho a lo que ofrecen las herramientas de escritorio más conocidas y utilizadas.
+            p FotoJet es una herramienta <i>online</i> completa de diseño gráfico, edición fotográfica y creación de collages. Sus prestaciones se asemejan mucho a lo que ofrecen las herramientas de escritorio más conocidas y utilizadas.
         
           .col-md-6
             figure
@@ -289,7 +289,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Landing Optimizer
 
-            p El <i>software</i> de generación de landing pages profesionales de MDirector se encarga de facilitarte la manera de construir tus landings. Una página de aterrizaje bien diseñada y con los objetivos bien fijados es la herramienta más eficaz para conseguir conversiones.
+            p El <i>software</i> de generación de <i>landing pages</i> profesionales de MDirector se encarga de facilitarte la manera de construir los <i>landings</i>. Una página de aterrizaje bien diseñada y con los objetivos bien fijados es la herramienta más eficaz para conseguir conversiones.
 
             p Con Landing Optimizer podrás crear en pocos minutos <i>landings</i> optimizadas para escritorio y móvil. Crea de forma sencilla páginas de captación sin necesidad de conocimientos técnicos ya que Landing Optimizer parte de un editor <i>drag&drop</i>.
 
@@ -302,7 +302,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Studio
 
-            p Es una aplicación móvil y red social diseñada para crear contenidos visuales atractivos. Es la herramienta más completa que he visto en el mercado en versión gratuita. A través de la misma podrás:
+            p Es una aplicación móvil y red social diseñada para crear contenidos visuales atractivos. Es la herramienta más completa que he visto en el mercado en versión gratuita. A través de la misma podrá:
 
             ul.lista-ul--color.fa-ul2
               li 
@@ -326,7 +326,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 InShot
 
-            p Es una aplicación para nuestro teléfono móvil, bien sea Android o iOS, con la que podremos recortar, editar, dar mejor definición o un nuevo estilo a nuestras fotos y vídeos.
+            p Es una aplicación para nuestro teléfono móvil, bien sea Android o iOS, con la que podremos recortar, editar, dar mejor definición o un nuevo estilo a nuestras fotos y videos.
 
             p Es una aplicación que se descarga de manera gratuita y a cambio tendremos que ver publicidad cuando la estemos utilizando. 
 
@@ -532,7 +532,7 @@
               | Establecimiento del objetivo y tipo de campaña.
             li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | Links con documentos o imágenes de referencia.
+              | <i>Links</i> con documentos o imágenes de referencia.
 
     p.mb-5(data-aos="fade-right") Algunos de los beneficios de contar con un calendario son:
 
@@ -568,7 +568,7 @@
             .row.p-4(titulo="Establece el formato del calendario de los contenidos")              
               p Como te indicamos previamente, la gracia de un calendario de contenidos consiste en unificar en un solo lugar la planificación de distintos contenidos en distintos canales. Existen algunas plataformas que te facilitan la vida y entregan un set de herramientas para crear un calendario. Algunos ejemplos son Asana, Trello y Monday.
 
-              p Si buscas una opción gratis, te recomendamos utilizar los documentos de Google Drive, ya sea si escoges formato presentación o desarrollar una planilla en una hoja de cálculo, debes considerar que allí debes contener la planificación completa de tu estrategia de contenidos.
+              p Si busca una opción gratis, te recomendamos utilizar los documentos de Google Drive, ya sea si escoges formato presentación o desarrollar una planilla en una hoja de cálculo, debes considerar que allí debes contener la planificación completa de tu estrategia de contenidos.
             
             .row.p-4(titulo="Identifica los canales")              
               p Supongamos que decides crear tu calendario en una planilla en una hoja de cálculo. Una de las primeras acciones que recomendamos hacer es segmentar la planificación por canal.
@@ -576,7 +576,7 @@
               p Es muy común que una marca utilice distintos canales para llegar a su audiencia, ya sea redes sociales -como Instagram, LinkedIn, Facebook- el blog de su sitio web, algún canal de YouTube e incluso las campañas de <i>mailing</i>, ¿por qué no? De esta manera, evitarás el desorden y siempre encontrarás lo que buscas.
             
             .row.p-4(titulo="Identifica el tipo de contenido")              
-              p Una vez que ya decidiste los canales que utilizarás en tu estrategia de contenidos, es muy importante destacar cuál es el formato de cada una de las publicaciones. Puedes identificar si se tratará de algún <i>post</i> de blog, un e-book u otro <i>lead magnet</i>. O en el caso de redes sociales como Instagram, determinar si es un <i>post</i> común, una historia o un carrusel. 
+              p Una vez que ya decidiste los canales que utilizarás en tu estrategia de contenidos, es muy importante destacar cuál es el formato de cada una de las publicaciones. Puedes identificar si se tratará de algún <i>post</i> de blog, un <i>e-book</i> u otro <i>lead magnet</i>. O en el caso de redes sociales como Instagram, determinar si es un <i>post</i> común, una historia o un carrusel. 
 
               p Con esto podrás observar que tan variada es la oferta de contenidos que brindas a tus posibles <i>leads</i> y también sirve para testear qué tipo de contenido es el que mejor rendimiento tiene.
             

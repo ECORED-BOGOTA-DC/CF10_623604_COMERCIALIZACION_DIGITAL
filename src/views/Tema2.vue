@@ -89,7 +89,7 @@
             span <i>¿Qué es un cuadro de mando?</i>
 
           figure
-            img(src='@/assets/curso/temas/tema2/img5.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imgen')
+            img(src='@/assets/curso/temas/tema2/img5.svg', alt='Figura que muestra un diagrama circular con 4 etapas del cuadro de mando con visión y estrategias, relacionados en la parte inferior de la imagen.')
             figcaption.mt-3
               p.mb-0 <b>Nota.</b> Tomado de Kaplan y Norton (2002).
 
@@ -122,16 +122,16 @@
         span <i>Cuadro de Mando Integral</i>
 
       figure
-        img(src='@/assets/curso/temas/tema2/img6.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imagen')
+        img(src='@/assets/curso/temas/tema2/img6.svg', alt='Figura que muestra Cuadro de Mando Integral, descrito en la parte inferior.')
 
     .row.bg-titulo7.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right ¿Cómo es el cuadro de mando del <i>marketing</i> (CMMK)?
+      h4.mt-3.text-right ¿Cómo es el Cuadro de Mando del <i>Marketing</i> (CMMK)?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p(data-aos="fade-left") La adaptación del Balanced Scorecard o BSC al Marketing Scorecard o CMM se basa en un cambio de enfoque y una definición predefinida de nuevas áreas de actuación más acordes con las sensibilidades del <i>marketing</i>, pues el objetivo de un cuadro de mando de <i>marketing</i> (CMMK) es: ayudar a definir, comunicar y controlar la estrategia de <i>marketing</i> de la empresa. Al diseñar un cuadro de mando de <i>marketing</i> o CMM, primero debe definir diferentes perspectivas relacionadas con su departamento de <i>marketing</i>. En este caso, las principales áreas de CMM giran en torno a las 4P: <i>marketing</i> o <i>marketing mix</i> (producto, precio, promoción y distribución).
 
-        p(data-aos="fade-left") A continuación, se podrán encontrar los elementos del cuadro de mando del <i>marketing</i> (CMMK):
+        p(data-aos="fade-left") A continuación, se podrán encontrar los elementos del Cuadro de Mando del <i>Marketing</i> (CMMK):
 
       .col-10.col-lg-6
         figure
@@ -254,7 +254,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3 Ejemplo de Cuadro de Mando de <i>marketing</i>
+                  h3 Ejemplo de Cuadro de Mando de <i>Marketing</i>
                   p Con el fin de tener mayor conocimiento sobre el cuadro de mando de <i>marketing</i> se invita a ver el siguiente documento. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/ejemplo_de _cuadro_de_mando_de_marketing.pdf')" target="_blank")
@@ -417,7 +417,7 @@
 
 
     .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Key Performance <i>Indicators</i>: KPI
+      h4.mt-3.text-right Key Performance Indicators: KPI
 
     .row.justify-content-center.align-items-center.mb-5
       p Aunque se ha tocado el tema en componentes anteriores, en este componente se hablará sobre los indicadores más relevantes en el <i>marketing</i> digital:
@@ -578,7 +578,7 @@
     
     separador
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-       h2 2.4 Analítica social media
+       h2 2.4 Analítica <i>social media</i>
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center

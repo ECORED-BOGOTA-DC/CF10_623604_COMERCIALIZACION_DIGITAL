@@ -92,7 +92,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Analítica Social Media',
+            titulo: 'Analítica <i>Social Media</i>',
             hash: 't_2_4',
           },
         ],
@@ -156,12 +156,12 @@ export default {
         subMenu: [
           {
             numero: '5.1',
-            titulo: '<i>Search Engine Optimization</i>',
+            titulo: 'Search Engine Optimization',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: '<i>Search Engine Marketing</i>',
+            titulo: 'Search Engine Marketing',
             hash: 't_5_2',
           },
         ],
@@ -237,28 +237,6 @@ export default {
   },
   complementario: [
     {
-      tema: 'Recursos, costos y presupuesto de los canales digitales.',
-      referencia:
-        'Merodio, J. (2010). <i>Marketing digital en redes sociales.</i>',
-      tipo: 'Libro',
-      link: 'https://openlibra.com/es/book/marketing-en-redes-sociales',
-    },
-    {
-      tema: '<i>Neuromarketing</i>  en el turismo',
-      referencia:
-        'Varios. (2013). <i>Estrategias de marketing digital para pymes.</i>',
-      tipo: 'Libro',
-      link: 'OpenLibra | Estrategias de marketing digital para pymes',
-    },
-    {
-      tema: 'Creación de contenido',
-      referencia:
-        'Pavan, B., Velasco, J., Jiménez, F., Marilín, G., y Acevedo, I. (2012). <i>Las mejores prácticas en redes sociales para empresas: guía y casos de éxito.</i>',
-      tipo: 'Libro',
-      link:
-        'OpenLibra | Las mejores prácticas en redes sociales para empresas: guía y casos de éxito',
-    },
-    {
       tema: 'Generalidades de las métricas',
       referencia:
         'Emprendedores DSC. (2022). <i>Mapa estratégico y sus cuatro perspectivas. Episodio 39 mapa estratégico para emprendedores.</i> [Pódcast]. Google Podcast.',
@@ -267,21 +245,21 @@ export default {
         'https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuaXZvb3guY29tL3BvZGNhc3QtZW1wcmVuZGVkb3Jlcy1kc2NfZmdfZjExMjE0MzY0X2ZpbHRyb18xLnhtbA/episode/aHR0cHM6Ly93d3cuaXZvb3guY29tLzgwMzQyOTY4?sa=X&ved=0CAgQuIEEahcKEwiw7snmuOT3AhUAAAAAHQAAAAAQQA',
     },
     {
-      tema: 'Cuadro de Mando del <i>Marketing</i> (CMMK)',
+      tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
         'Ealde Business School (2018). Cómo elaborar un Cuadro de Mando en Marketing Digital [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/TsyyHiOalD0',
     },
     {
-      tema: 'Cuadro de Mando del <i>Marketing</i> (CMMK)',
+      tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
-        'Cyberclick • <i>Marketing</i> Digital. (2020). <i>Métricas marketing digital: las más importantes explicadas.</i> [Video]. YouTube.',
+        'Cyberclick • Marketing Digital. (2020). <i>Métricas marketing digital: las más importantes explicadas.</i> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/R4ZMiTnBZuM',
     },
     {
-      tema: 'Cuadro de Mando del <i>Marketing</i> (CMMK)',
+      tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
         'El arte de ser empresario. (2018). <i>Indicadores de gestión ejemplos prácticos.</i> [Video]. YouTube.',
       tipo: 'Video',
@@ -295,7 +273,7 @@ export default {
       link: 'https://youtu.be/RGSN4S5jn4o',
     },
     {
-      tema: '<i>Search Engine Marketing</i>',
+      tema: 'Search Engine Marketing',
       referencia:
         'Club de la excelencia del servicio al cliente. (2017). <i>Increíble marketing sensorial - Pepsi.</i> [Video]. YouTube.',
       tipo: 'Video',
