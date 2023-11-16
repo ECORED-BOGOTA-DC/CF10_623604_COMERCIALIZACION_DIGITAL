@@ -327,7 +327,7 @@ export default {
         'concepto de <i>marketing</i> derivado del término entre empresas. Este es el nombre que se le da a una empresa que dirige sus servicios y productos a otras empresas, a diferencia del B2C y el negocio a consumidores donde la empresa trabaja directamente con el consumidor final.',
     },
     {
-      termino: '<i>Buyer</i> persona',
+      termino: '<i>Buyer persona</i>',
       significado:
         'personaje ficticio que se crea con las características del público objetivo. Un prototipo de cliente ideal con rasgos tanto físicos como de personalidad.',
     },
@@ -347,12 +347,18 @@ export default {
         'término usado para representar el proceso de atraer usuarios a tu base de contactos y hacerlos llegar hasta el fondo del embudo de ventas.',
     },
     {
-      termino: '<i>Marketing Qualified Leads</i> (MLQ)',
+      termino: 'Marketing Qualified Leads (MLQ)',
       significado:
         'nombre utilizado para los leads que se encuentran en un proceso avanzado de calificación por parte del equipo de <i>marketing.</i>',
     },
   ],
   referencias: [
+    {
+      referencia:
+        'Espacio digital. (2020). <i>¿Qué es un embudo de Marketing Digital y cómo elaborarlo exitosamente?</i>',
+      link:
+        'https://www.espaciodigital.com.co/blog/embudo-marketing-digital-como-elaborarlo-exitosamente/#Que_es_un_embudo_de_ventas',
+    },
     {
       referencia:
         'García, A. (2020). ¿Cómo crear contenido para cada red social? Innovando digital. ',

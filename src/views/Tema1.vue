@@ -441,13 +441,13 @@
               ul.lista-ul--color.fa-ul2
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Compartir un <i>teaser</i> sobre un producto antes de su lanzamiento.
+                  p.mn-0 Compartir un <i>teaser</i> sobre un producto antes de su lanzamiento.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   | Hacer un directo y da a conocer un nuevo producto junto con un creador que ya lo haya probado. 
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  | Crear un sorteo con un <i>microinfluencer</i> y llega a mayor audiencia.
+                  p.mb-0 Crear un sorteo con un <i>microinfluencer</i> y llega a mayor audiencia.
 
             .col-md-6
               figure
