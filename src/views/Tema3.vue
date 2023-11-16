@@ -42,22 +42,6 @@
         figure
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='Imágen decorativa')
 
-    .row.justify-content-center.align-items-center
-      .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3 <i>Neuromarketing</i> en el turismo
-                  p Con el fin de tener mayor conocimiento sobre el tema, se invita a ver el siguiente documento.
-
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/prueba.docx')" target="_blank")
-                    span Ingresar 
-                    i.fas.fa-link
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
@@ -448,8 +432,22 @@
         .tarjeta.tarjeta-verde2.p-4.mb-5(data-aos="flip-down")
           p Ahorra dinero, ya que ayuda a crear productos y campañas de publicidad que cubran más concretamente las necesidades reales de los clientes.
 
+
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Se invita a observar esas ventajas reflejadas en <a href="https://www.youtube.com/watch?v=iN3pKkuYqtM" target="_blank">  el siguiente video de Heineken: <i class="fab fa-youtube" style="color: #3D672F"></i> </a>
+      .col-lg-9
+        .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
+            .row.justify-content-around.align-items-center
+              .col-3.col-sm-2.col-lg-2
+                img(src='@/assets/curso/temas/tema1/img7.svg', alt='Imágen decorativa')
+              .col
+                .row.justify-content-between.align-items-center
+                  .col.mb-3.mb-sm-0
+                    h5 Se invita a observar esas ventajas reflejadas en el siguiente video de Heineken:
+                  .col-sm-auto
+                    a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=iN3pKkuYqtM" target="_blank")
+                      span Ver
+                      i.fas.fa-link 
+
 
     .row.justify-content-center.align-items-center.mb-5
       .bloque-texto-g.color-verde.p-3.p-sm-4.p-md-5(data-aos="flip-down")

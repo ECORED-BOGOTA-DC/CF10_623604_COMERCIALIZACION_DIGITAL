@@ -532,7 +532,7 @@
               | Establecimiento del objetivo y tipo de campaña.
             li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | <i>Links</i> con documentos o imágenes de referencia.
+              p.mb-0 <i>Links</i> con documentos o imágenes de referencia.
 
     p.mb-5(data-aos="fade-right") Algunos de los beneficios de contar con un calendario son:
 

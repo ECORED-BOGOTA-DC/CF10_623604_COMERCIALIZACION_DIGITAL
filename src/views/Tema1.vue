@@ -740,7 +740,7 @@
           .col-md-7.mb-4.mb-md-0
             h4 Segmentación con base en los intereses 
             
-            p Permite conocer lo que les importa y motiva a los clientes, facilitando el proceso de empatía y relacionamiento con ellos para crear conexiones más fuertes. Existen empresas que están enfocadas en realizar este tipo de investigaciones de mercado donde lo que usualmente se busca es conocer los intereses del cliente según lo que hacen en redes sociales, sus descripciones y sus enlaces; también se investiga el contenido que consumen y que suben en sus perfiles y la afinidad que tienen con las diferentes plataformas. Los anteriores datos sirven para crear campañas de mercadeo online mucho más exactas.
+            p Permite conocer lo que les importa y motiva a los clientes, facilitando el proceso de empatía y relacionamiento con ellos para crear conexiones más fuertes. Existen empresas que están enfocadas en realizar este tipo de investigaciones de mercado donde lo que usualmente se busca es conocer los intereses del cliente según lo que hacen en redes sociales, sus descripciones y sus enlaces; también se investiga el contenido que consumen y que suben en sus perfiles y la afinidad que tienen con las diferentes plataformas. Los anteriores datos sirven para crear campañas de mercadeo <i>online</i> mucho más exactas.
 
           .col-md-5
             figure

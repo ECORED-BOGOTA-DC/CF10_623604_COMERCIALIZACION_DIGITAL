@@ -287,7 +287,7 @@ export default {
       link: 'https://youtu.be/iN3pKkuYqtM',
     },
     {
-      tema: 'Cuadro de Mando del <i>Marketing</i> (CMMK)',
+      tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
         'Juan Merodio. (2018). <i>Video: 25 Herramientas esenciales para trabajar el marketing digital.</i> [Video]. YouTube.',
       tipo: 'Video',
@@ -301,7 +301,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=cpNbfZhNSOw',
     },
     {
-      tema: 'Cuadro de Mando del <i>Marketing</i> (CMMK)',
+      tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
         'Elabs Consulting - Agencia de Marketing Digital (2021). <i>Cómo hacer un presupuesto de marketing digital - Ejemplos Reales.</i> [Video]. YouTube.',
       tipo: 'Video',
@@ -329,7 +329,7 @@ export default {
     {
       termino: '<i>Buyer</i> persona',
       significado:
-        'personaje ficticio que se crea con las características del público objetivo. Un prototipo de cliente ideal con rasgos tanto físicos como de personalidad',
+        'personaje ficticio que se crea con las características del público objetivo. Un prototipo de cliente ideal con rasgos tanto físicos como de personalidad.',
     },
     {
       termino: '<i>Lead</i>',

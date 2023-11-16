@@ -185,19 +185,8 @@
                 img(src='@/assets/curso/temas/tema2/img12.svg', alt='Imágen decorativa')
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-left") El propio plan de <i>marketing</i> aporta una metodología que ayuda a elegir métricas y permite el diseño de un cuadro de mando que tenga tanto corto como mediano y largo plazo, así como el definir el responsable, de esta forma, el corazón del <i>marketing</i> es la diferenciación, pues si todas las empresas utilizan las mismas métricas, fracasarán. En resumen, no existe una fórmula mágica, pero estos criterios pueden orientarlo en la dirección correcta: 
+      p(data-aos="fade-left") El propio plan de <i>marketing</i> aporta una metodología que ayuda a elegir métricas y permite el diseño de un cuadro de mando que tenga tanto corto como mediano y largo plazo, así como el definir el responsable, de esta forma, el corazón del <i>marketing</i> es la diferenciación, pues si todas las empresas utilizan las mismas métricas, fracasarán. En resumen, no existe una fórmula mágica, pero estos criterios pueden orientarlo en la dirección correcta.
 
-    .bg1-tema1.mb-5
-      .row.justify-content-center.align-items-center
-        .col-lg-10
-          .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-            h5 Figura 4
-            span <i>Cuadro de mando de marketing</i>
-
-          figure
-            img(src='@/assets/curso/temas/tema2/img13.svg', alt='Muestra un Diagrama circular con 4 etapas del cuadro de mando relacionados en la parte inferior de la imagen')
-            figcaption.mt-3
-              p.mb-0 <b>Nota.</b> Tomado de Kaplan y Norton (2002).
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -255,7 +244,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3 Ejemplo de Cuadro de Mando de <i>Marketing</i>
-                  p Con el fin de tener mayor conocimiento sobre el cuadro de mando de <i>marketing</i> se invita a ver el siguiente documento. 
+                  p Con el fin de tener mayor conocimiento sobre el Cuadro de Mando de <i>Marketing</i> se invita a ver el siguiente documento. 
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/ejemplo_de _cuadro_de_mando_de_marketing.pdf')" target="_blank")
                     span Ingresar 

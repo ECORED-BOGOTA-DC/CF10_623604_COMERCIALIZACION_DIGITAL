@@ -112,7 +112,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-6
           .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade-right")
-            h5 Figura 5
+            h5 Figura 4
             span Canales digitales
 
           figure
