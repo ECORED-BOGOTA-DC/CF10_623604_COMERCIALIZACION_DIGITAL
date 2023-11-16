@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Didact Gothic" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Didact Gothic" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Didact Gothic" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Didact Gothic" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad did&amp;#225;ctica" />
+              <option name="title_text" value="actividades" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -70,7 +70,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Didact Gothic" />
+              <option name="font" value="Open Sans" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -80,7 +80,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1314,9 +1314,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Didact Gothic">
+    <font name="Open Sans">
       <files>
-        <file bold="false" italic="false" />
+        <file bold="true" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1328,7 +1328,16 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6UFJnIyi2MW" displaytext="Arrastrar y soltar" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.66QOgODky5V" displaytext=" ¿Cuál de las siguientes no es un tipo de campañas digitales de mercadeo?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6daLkurPwov" displaytext="¿Cuáles son las etapas del embudo de ventas?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6f5DBnbBsqG" displaytext="Toda empresa requiere tener claros sus objetivos de mercadeo para alcanzar mayor nivel de ventas, rentabilidad y posicionamiento de marca:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6UgrbQpi9dQ" displaytext="¿Cuáles son los canales que permiten entonces aplicar la estrategia del inbound marketing?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5WrZObCK5Kp" displaytext="¿Cuáles de las siguientes opciones NO es una forma correcta de desarrollar las métricas?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5uVkbwKUw9U" displaytext="¿Cuál de los siguientes indicadores sirve como señal de alerta que ayudan amantener la visión?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5fnW07MFpnQ" displaytext="¿Cuál de los siguientes elementos no está contemplado en el cuadro de mando de marketing?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6e6bUX6dOGY" displaytext="¿Qué es el análisis de conversión?" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6rheiyyqKPa" displaytext="Lo menos viable es disminuir la tasa de conversión de un 0,5 a un 1 por 100 que aumenta el tráfico del sitio web." expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6rARcEBgLh2" displaytext="Esta estrategia de marketing es esencial para que las empresas ganen exposición y visibilidad en el mundo digital, lo que genera más clientes potenciales, clientes y facturas comerciales. " expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
