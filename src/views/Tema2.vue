@@ -33,7 +33,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/111111111" title="Comunicación de marketing digital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/DtEonkgHxOg" title="Generalidad de las métricas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8
