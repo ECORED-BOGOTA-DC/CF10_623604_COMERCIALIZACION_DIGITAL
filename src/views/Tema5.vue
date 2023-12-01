@@ -34,7 +34,7 @@
               .col-md-6.mb-4.mb-md-0
                 p Los motores de búsqueda mediante <i>bots</i> recorren las páginas a través de enlaces, por esta razón, es importante distribuir adecuadamente los enlaces al igual que lo haría otros usuarios que navegan por la web, o que los usuarios navegan de un enlace a otro y recopilan datos sobre estas páginas web que están disponibles en el servidor.
 
-                p El proceso de validación comienza con: 
+                p El proceso de validación comienza con:
 
                 ol.lista-ol.mb-3
                   li 
@@ -42,10 +42,10 @@
                     | Lista de direcciones web de rastreos  y mapas de sitios proporcionados por los sitios web. 
                   li 
                     span.text-bold 2. 
-                    p.mb-0 Una vez se tiene acceso a los sitios web, los <i>bots</i> buscan enlaces a otras páginas para visitarla. 
+                    | Una vez se tiene acceso a los sitios web, los <i>bots</i> buscan enlaces a otras páginas para visitarla. 
                   li 
                     span.text-bold 3. 
-                    p.mb-0 Los <i>bots</i> se sienten particularmente atraídos por los sitios web nuevos y  los cambios en los sitios web existentes.
+                    | Los <i>bots</i> se sienten particularmente atraídos por los sitios web nuevos y  los cambios en los sitios web existentes.
 
                 .cajon.color-primario.p-4
                   p.mb-0 Aquí es importante aclarar que el <i>bot</i> decide qué páginas visitar, con qué frecuencia y durante cuánto tiempo  rastrear el sitio, por lo tanto, necesita tiempos de carga óptimos y contenido actualizado. 
