@@ -628,7 +628,7 @@
             img(src='@/assets/curso/temas/tema1/img34.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p(data-aos="fade-left") Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización, teniendo en cuenta los <i>buyer</i> persona; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
+          p(data-aos="fade-left") Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización, teniendo en cuenta los <i>buyer persona</i>; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
 
     .row.mb-5(data-aos="fade-right")
       .col-auto

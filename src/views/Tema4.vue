@@ -31,7 +31,7 @@
 
             h5 Beneficios de la planeación 
 
-            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyer</i> persona como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
+            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyer persona</i> como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
         
           .col-md-6
             figure
@@ -41,7 +41,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Desarrollar
 
-            p Ya que tenemos asentadas las bases para el plan de contenidos, entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor al <i>buyer</i> persona. 
+            p Ya que tenemos asentadas las bases para el plan de contenidos, entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor al <i>buyer persona</i>. 
 
             h5 Elementos durante el desarrollo 
 
