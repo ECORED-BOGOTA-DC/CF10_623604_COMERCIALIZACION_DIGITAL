@@ -147,7 +147,7 @@
 
           .row(x="78%" y="20%" tooltip="" numero="+")
             .col-lg-6
-              p Son el resultado de contenido de alta calidad bien elaborado, pero también reflejan su trabajo en su totalidad, estos canales suelen estar representados por consumidores, prospectos, oficinas o embajadores de marca que replican mensajes en redes sociales o medios independientes. El objetivo del canal ganado es lograr alcance y un mensaje positivo en la web y otros medios. Cuando las marcas pierden mucho control sobre ellas, estos mensajes representan una forma muy valiosa de ganar credibilidad y extender el alcance de tus contenidos con la ayuda de los consumidores reales de la marca. 
+              p Son el resultado de contenido de alta calidad, bien elaborado, pero también reflejan su trabajo en su totalidad, estos canales suelen estar representados por consumidores, prospectos, oficinas o embajadores de marca que replican mensajes en redes sociales o medios independientes. El objetivo del canal ganado es lograr alcance y un mensaje positivo en la web y otros medios. Cuando las marcas pierden mucho control sobre ellas, estos mensajes representan una forma muy valiosa de ganar credibilidad y extender el alcance de tus contenidos con la ayuda de los consumidores reales de la marca. 
 
             .col-6.col-lg-6
               figure

@@ -23,7 +23,7 @@
       .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
-            p.mb-lg-0.mt-lg-5 No es una herramienta exclusiva del turismo ya que se aplica en muchos otros campos, sin embargo, en la industria de los viajes se puede aplicar por ejemplo para conocer la opinión de un cliente antes de lanzar un nuevo producto turístico o una experiencia turística; también funciona para definir una estrategia de precios o para conocer el gusto del público con respecto a un diseño publicitario. 
+            p.mb-lg-0.mt-lg-5 No es una herramienta exclusiva del turismo, ya que se aplica en muchos otros campos, sin embargo, en la industria de los viajes se puede aplicar por ejemplo para conocer la opinión de un cliente antes de lanzar un nuevo producto turístico o una experiencia turística; también funciona para definir una estrategia de precios o para conocer el gusto del público con respecto a un diseño publicitario. 
 
           .col-8.col-lg-4
             figure.mb-0
@@ -31,7 +31,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-right") Normalmente existen otros métodos de investigación para conocer la percepción del turista, entre ellos están los grupos focales y las encuestas, sin embargo, estos métodos no son del todo confiables ya que las respuestas pueden estar alteradas por el propio turista a fin de “agradar” o “dar la respuesta correcta”. 
+        p(data-aos="fade-right") Normalmente, existen otros métodos de investigación para conocer la percepción del turista, entre ellos están los grupos focales y las encuestas, sin embargo, estos métodos no son del todo confiables, ya que las respuestas pueden estar alteradas por el propio turista a fin de “agradar” o “dar la respuesta correcta”. 
 
         p(data-aos="fade-right") En el cerebro, por el contrario, no hay mentiras, porque el inconsciente es quien finalmente domina los comportamientos; así pues, el <i>neuromarketing</i> busca identificar las áreas del cerebro que se activan con la toma de decisiones de los turistas, evidenciando impulsos en los músculos del rostro, frecuencia en los latidos cardíacos, sudor, lenguaje corporal, etc. 
 
@@ -69,7 +69,7 @@
 
                 p A través  de un casco (existen modelos <i>wearables</i> muy cómodos) con sensores se recogen leves corrientes eléctricas inducidas por la actividad cerebral.
 
-                p Así pues un usuario conectado a un sistema EEG, al percibir un estímulo, el sistema muestra en qué zona del cerebro se ha llevado la mayor parte de la actividad.
+                p Así pues, un usuario conectado a un sistema EEG, al percibir un estímulo, el sistema muestra en qué zona del cerebro se ha llevado la mayor parte de la actividad.
 
                 p Las técnicas de electroencefalografía (EEG) trabajan bajo modelos predefinidos de aprendizaje de las emociones, ofreciendo respuestas verdaderamente interesantes.
                 
@@ -297,8 +297,10 @@
     .row.justify-content-center.align-items-center.mb-5
       p(data-aos="fade-left") Para seguir ampliando el conocimiento sobre el tema, se exponen los diferentes tipos de <i>neuromarketing</i> que existen y algunos casos de éxito en cada una de las categorías. 
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right <i>Neuromarketing</i> visual
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 <i>Neuromarketing</i> visual
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-3
@@ -307,7 +309,7 @@
 
       .col-lg-6.mb-3
         .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-          p.mb-0 Es el que se basa en cómo percibimos nuestro alrededor con los ojos. Está demostrado que una imagen llega siempre de forma muchísimo más rápida al cerebro, con lo cual, la eficacia del mensaje que se quiere transmitir, también está más garantizada. Según estudios el cerebro retiene el 80 % de lo que ve, 20 % de lo que lee y 10 % de lo que escucha.
+          p.mb-0 Es el que se basa en cómo percibimos nuestro alrededor con los ojos. Está demostrado que una imagen llega siempre de forma muchísimo más rápida al cerebro, con lo cual, la eficacia del mensaje que se quiere transmitir, también está más garantizada. Según estudios, el cerebro retiene el 80 % de lo que ve, 20 % de lo que lee y 10 % de lo que escucha.
 
         p(data-aos="fade-left") También hay varias técnicas que se utilizan para hacer que el consumidor perciba algo mucho más interesante, cómo terminar los precios en 0,99, haciendo que nuestro cerebro perciba que ese precio es más bajo que otro. De igual manera, las palabras “gratis”, “rebajas”, “ocasión”, “oferta”, son otras técnicas de venta para llamar la atención de nuestros consumidores.
 
@@ -316,7 +318,7 @@
 
         p(data-aos="fade-left") El caso de éxito de Frito-Lay es uno de los más conocidos en el área del <i>neuromarketing</i>. Se trata de una compañía que ofrece snacks de todo tipo y muy reconocidos: Lay's, Fritos, Ruffles, Doritos, Cheetos… Según sus números, los hombres consumen muchos más snacks salados que las mujeres.
 
-        p(data-aos="fade-right") La compañía deseaba saber cuál era la razón por la que las mujeres no se decantaba por sus productos salados. Así pues, se apoyaron en las técnicas de <i>neuromarketing</i> para dar respuesta a esta cuestión.
+        p(data-aos="fade-right") La compañía deseaba saber cuál era la razón por la que las mujeres no se decantaban por sus productos salados. Así pues, se apoyaron en las técnicas de <i>neuromarketing</i> para dar respuesta a esta cuestión.
 
         p(data-aos="fade-left") Los resultados fueron muy sorprendentes y llamativos:
 
@@ -341,8 +343,10 @@
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | El sentimiento de culpa fue uno de los elementos más esclarecedores de este estudio.
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right <i>Neuromarketing</i> auditivo
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 <i>Neuromarketing</i> auditivo
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -361,8 +365,10 @@
         figure
           img(src='@/assets/curso/temas/tema3/img30.svg', alt='Imágen decorativa')
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right <i>Neuromarketing</i> kinestésico
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 <i>Neuromarketing</i> kinestésico
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-3
@@ -393,7 +399,7 @@
 
         p(data-aos="fade-left") La cadena de pastelerías estadounidense Cinnabon ha logrado un aumento importante de sus ventas al integrar una estrategia de <i>neuromarketing</i> olfativo.
 
-        p(data-aos="fade-right") El producto estrella de Cinnabon son los rollos de canela, estos son horneados en espacios cortos de tiempo para generar el olor a canela. Este hecho, más una disposición estratégica de sus tiendas ha sido un binomio de éxito.
+        p(data-aos="fade-right") El producto estrella de Cinnabon son los rollos de canela, estos son horneados en espacios cortos de tiempo para generar el olor a canela. Este hecho, más una disposición estratégica de sus tiendas, ha sido un binomio de éxito.
 
       .col-lg-6.mb-3
         figure
@@ -458,7 +464,7 @@
           p La marca de cervezas impulsó una campaña de uno de sus productos que tal vez sería difícil de vender en un inicio: una cerveza “cero” alcohol. Para ello, se basa en imágenes donde se muestra una figura de autoridad que conecta con la audiencia. 
           br
           br
-          p Se muestran en el video dos corredores de autos, padre e hijo, quienes compiten en diferentes escenas de manera sana, para establecer quien será el próximo conductor. Lo que busca este anuncio es generar un impacto para que los consumidores terminen con un mensaje claro “si el personaje bebe cerveza sin alcohol, por qué yo no”. De esta forma, utiliza el <i>neuromarketing</i> visual para su comunicación.
+          p Se muestran en el video dos corredores de autos, padre e hijo, quienes compiten en diferentes escenas de manera sana, para establecer quién será el próximo conductor. Lo que busca este anuncio es generar un impacto para que los consumidores terminen con un mensaje claro “si el personaje bebe cerveza sin alcohol, por qué yo no”. De esta forma, utiliza el <i>neuromarketing</i> visual para su comunicación.
 
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -473,7 +479,7 @@
         .col-lg-6
           p(data-aos="fade-left") Todas las tecnologías que se usan hoy día para realizar análisis de <i>neuromarketing</i> fueron aplicadas desde años atrás con la intención de conocer el comportamiento del público con respecto a una problemática x. Es así como en los años 60, el investigador y psicólogo Herbert Krugman, comenzó con la utilización del pupilómetro en fines comerciales para indagar acerca del interés del ser humano con respecto a lo que veían en televisión. Durante esos años, también se iniciaron experimentos para conocer las reacciones emocionales del público, a través del Galvanic Skin Response (GSR).
 
-          p(data-aos="fade-left") Para la década de 1970 aparece el <i>eye tracking</i>, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro encontrando información importante en los datos que se arrojaban.
+          p(data-aos="fade-left") Para la década de 1970 aparece el <i>eye tracking</i>, que brindó información de los usuarios al observar diferentes cosas como un empaque, un envase, una página web, entre otras. En esta época otros investigadores también comenzaron a analizar los dos hemisferios del cerebro, encontrando información importante en los datos que se arrojaban.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -492,7 +498,7 @@
           img(src='@/assets/curso/temas/tema3/img39.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p(data-aos="fade-left") En este punto también es importante hablar de las generaciones y de su incursión en la tecnología. Los <i>millennials</i> y su posterior generación, la Z, tienen siempre al alcance sus compras a través de un clic. Están familiarizados con la tecnología y también con el desapego, ya que bienes materiales como una casa, un carro, un tv, los hacen menos libres para saltar de una marca a otra según corresponda la tendencia y donde la tecnología los lleve. Viven también en una economía que les impulsa y les permite viajar y junto a ese gusto, también se hacen presentes artefactos que han cambiado su manera de comprar y acceder a los destinos, como, por ejemplo; <i>tablets</i>, portátiles, cámaras de última generación, etc. 
+        p(data-aos="fade-left") En este punto también es importante hablar de las generaciones y de su incursión en la tecnología. Los <i>millennials</i> y su posterior generación, la Z, tienen siempre al alcance sus compras a través de un clic. Están familiarizados con la tecnología y también con el desapego, ya que bienes materiales como una casa, un carro, un TV, los hacen menos libres para saltar de una marca a otra según corresponda la tendencia y donde la tecnología los lleve. Viven también en una economía que les impulsa y les permite viajar y junto a ese gusto, también se hacen presentes artefactos que han cambiado su manera de comprar y acceder a los destinos, como, por ejemplo; <i>tablets</i>, portátiles, cámaras de última generación, etc. 
 
         .cajon.color-azul1.p-4.mb-3(data-aos="flip-down")
           p.mb-0 Lo anterior es importante, ya que les deja un gran reto a las compañías de turismo y de todos los campos, para conocer los gustos, pensamientos, emociones, de generaciones tan cambiantes y tecnológicas como las de hoy día.      

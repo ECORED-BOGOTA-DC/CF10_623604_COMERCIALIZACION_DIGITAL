@@ -124,8 +124,10 @@
       figure
         img(src='@/assets/curso/temas/tema2/img6.svg', alt='Figura que muestra Cuadro de Mando Integral, descrito en la parte inferior.')
 
-    .row.bg-titulo7.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right ¿Cómo es el Cuadro de Mando del <i>Marketing</i> (CMMK)?
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 ¿Cómo es el Cuadro de Mando del <i>Marketing</i> (CMMK)?
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -226,7 +228,7 @@
               | Porcentaje avanzado hacia la meta.     
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | Porcentaje de cambio frente al período anterior.    
+              | Porcentaje de cambios frente al período anterior.    
             li(data-aos="fade-up") 
               i.fas.fa-dot-circle(style="color: #EB6F2D")
               | Observaciones sobre qué funciona y cuáles no.
@@ -269,7 +271,7 @@
           .col-lg-8
             h5 Ejemplo
 
-            p Eres un guía turístico y has creado una campaña en Adwords para captar turistas interesado en contratar tus servicios de guía en un recorrido de tres días por La Guajira, para ello has creado una <i>landing</i> con un formulario de contacto en el que ofreces un descuento en el último día en el hospedaje.
+            p Eres un guía turístico y has creado una campaña en Adwords para captar turistas interesados en contratar tus servicios de guía en un recorrido de tres días por La Guajira, para ello has creado una <i>landing</i> con un formulario de contacto en el que ofreces un descuento en el último día en el hospedaje.
 
             p Por tanto, cada vez que algún turista interesado diligencie el formulario de contacto, se registra una conversión, ya que se trata de un cliente potencial para ti. En el sitio web también se encuentra la opción que te contacten por WhatsApp. 
 
@@ -405,8 +407,10 @@
                 img(src='@/assets/curso/temas/tema2/img26.svg', alt='Imágen decorativa')
 
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Key Performance Indicators: KPI
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Key Performance Indicators: KPI
 
     .row.justify-content-center.align-items-center.mb-5
       p Aunque se ha tocado el tema en componentes anteriores, en este componente se hablará sobre los indicadores más relevantes en el <i>marketing</i> digital:
@@ -470,7 +474,7 @@
                   p.mb-0 El valor de por vida del cliente (CLV)  ayuda a calcular el ROI ajustado; se puede alinear con la lealtad.
                 li 
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
-                  p.mb-0 El crecimiento de las ventas , es mucho mejor cuando se atribuye a un determinado tipo de método de <i>marketing</i> y se rastrea mediante indicadores de ROI por canal de <i>marketing</i>.
+                  p.mb-0 El crecimiento de las ventas, es mucho mejor cuando se atribuye a un determinado tipo de método de <i>marketing</i> y se rastrea mediante indicadores de ROI por canal de <i>marketing</i>.
 
             .col-md-7
               figure
@@ -518,8 +522,10 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img31.svg', alt='Imágen decorativa')
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Los <i>dashboard</i> y sus tipos
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Los <i>dashboard</i> y sus tipos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6

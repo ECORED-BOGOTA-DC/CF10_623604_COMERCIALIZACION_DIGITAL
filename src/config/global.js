@@ -221,7 +221,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/623604_CF010_DU.zip',
+        download: 'downloads/623604_CF10_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -247,7 +247,7 @@ export default {
     {
       tema: 'Cuadro de Mando del Marketing (CMMK)',
       referencia:
-        'Ealde Business School (2018). Cómo elaborar un Cuadro de Mando en Marketing Digital [Video]. YouTube.',
+        'Ealde Business School (2018). <em>Cómo elaborar un Cuadro de Mando en Marketing Digital </em>[Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/TsyyHiOalD0',
     },
@@ -312,7 +312,7 @@ export default {
       referencia:
         'InboundCycle - Marketing y ventas inbound. (2022). <i>Medios propios, pagados y ganados: ¿qué son y cómo podemos capitalizarlos?</i>  [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/c/InboundCycle',
+      link: 'https://www.youtube.com/watch?v=cqaB0cb0ILw',
     },
   ],
   glosario: [
@@ -327,7 +327,7 @@ export default {
         'concepto de <i>marketing</i> derivado del término entre empresas. Este es el nombre que se le da a una empresa que dirige sus servicios y productos a otras empresas, a diferencia del B2C y el negocio a consumidores donde la empresa trabaja directamente con el consumidor final.',
     },
     {
-      termino: '<i>Buyer persona</i>',
+      termino: '<i>Buyer</i> persona',
       significado:
         'personaje ficticio que se crea con las características del público objetivo. Un prototipo de cliente ideal con rasgos tanto físicos como de personalidad.',
     },

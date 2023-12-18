@@ -14,7 +14,7 @@
             img(src='@/assets/curso/temas/tema4/img1.svg', alt='Imágen decorativa')
 
         .col-lg-6
-          p(data-aos="fade-left") La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del <i>inbound marketing</i> que ha tomado una gran importancia ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
+          p(data-aos="fade-left") La creación de contenidos es un término usado en el mercadeo digital para referirse a toda la información o entretenimiento que se le puede ofrecer al usuario, en forma de videos, artículos, audios, imágenes, que son distribuidos a través de los diferentes canales digitales para atraer a los clientes y conectarlos con lo que la marca ofrece. Todo lo anterior hace parte del <i>inbound marketing</i> que ha tomado una gran importancia, ya que busca impactar a los usuarios con contenido que les sea aportante, en vez de incomodarlos con información que ni siquiera solicitan. 
 
           .cajon.color-azul1.p-4(data-aos="flip-down")
             p.mb-0 Los contenidos digitales son una estrategia muy buena cuando se usan de manera correcta con fines comerciales, pues ayudan a que los clientes se conecten de manera emocional y racional con la marca, viendo en estos pilares de confianza, inspiración y empatía que contribuyen a posicionar su imagen en el mercado y en los motores de búsqueda.
@@ -31,7 +31,7 @@
 
             h5 Beneficios de la planeación 
 
-            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyer persona</i> como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
+            p Es necesario que elabores una serie de diferentes contenidos que están pensados tanto para todos los tipos de <i>buyer</i> persona como para las distintas etapas del recorrido, no solo para dar respuestas en el momento correcto, sino educarlos a través del proceso y así generar mejores ventas.
         
           .col-md-6
             figure
@@ -41,11 +41,11 @@
           .col-md-6.mb-4.mb-md-0
             h4 Desarrollar
 
-            p Ya que tenemos asentadas las bases para el plan de contenidos entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor al <i>buyer persona</i>. 
+            p Ya que tenemos asentadas las bases para el plan de contenidos, entonces podemos empezar con la producción. En esta etapa es donde puedes desplegar toda tu creatividad para presentar la información o mensaje de la manera que atraiga mejor al <i>buyer</i> persona. 
 
             h5 Elementos durante el desarrollo 
 
-            p En esta etapa, para asegurar un buen proceso y una organización, es bueno crear una tabla donde por fechas se asignen las tareas y el proceso que necesita atravesar un contenido desde el borrador hasta la versión revisada por el equipo y aprobada por los responsables.
+            p En esta etapa, para asegurar un buen proceso y una organización, es bueno crear una tabla donde por fechas se asignen las tareas y el proceso que necesita atravesar un contenido, desde el borrador hasta la versión revisada por el equipo y aprobada por los responsables.
         
           .col-md-6
             figure
@@ -68,10 +68,6 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h4 Analizar
-
-            p El trabajo no termina cuando los contenidos son publicados, el siguiente paso es analizar y medir los resultados generados en las distintas plataformas. Esto nos permite identificar en qué claves debemos trabajar más o corregir errores.
-
-            h5 Beneficios de la fase analizar 
 
             p El trabajo no termina cuando los contenidos son publicados, el siguiente paso es analizar y medir los resultados generados en las distintas plataformas. Esto nos permite identificar en qué claves debemos trabajar más o corregir errores.
         
@@ -157,7 +153,7 @@
             img(src='@/assets/curso/temas/tema4/img12.svg', alt='Imágen decorativa')
           .p-4  
             h4 Entretener
-            p No todo tiene que ser tan cuadrado y técnico recuerda que en estos tiempos muchas personas en internet buscando videos para divertirse y puedes apoyarte de los memes para continuar educando a tu público a través de ellos.
+            p No todo tiene que ser tan cuadrado y técnico, recuerda que en estos tiempos muchas personas en internet buscando videos para divertirse y puedes apoyarte de los memes para continuar educando a tu público a través de ellos.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
@@ -196,14 +192,16 @@
               | Jueves - Entretener: utiliza un meme o una imagen chistosa a la que le puedes agregar información así “Esta es la cara de tu novio cuando te ve con la ropa de…” (el nombre de la marca).
             li(data-aos="fade-up")
               i.fas.fa-dot-circle(style="color: #EB6F2D")
-              | Viernes - Una historia: aparece en un video o en fotos y cuenta porqué decidiste lanzar la marca y los desafíos antes de hacerlo. 
+              | Viernes - Una historia: aparece en un video o en fotos y cuenta por qué decidiste lanzar la marca y los desafíos antes de hacerlo. 
 
       .col-10.col-lg-5
         figure
           img(src='@/assets/curso/temas/tema4/img13.svg', alt='Imágen decorativa')
 
-    .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Aplicaciones para crear contenido digital
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Aplicaciones para crear contenido digital
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -212,7 +210,7 @@
 
       .col-lg-6
         .cajon.color-primario.p-4.mb-3(data-aos="flip-down")
-          p.mb-0 Existen muchas herramientas para crear contenidos digitales que simplifican el trabajo, lo vuelven mucho más rápido y optimizan las publicaciones. Hacer uso de ellas es importante ya que el crear contenido implica encontrar las palabras clave (<i>keywords</i>) que representen al <i>post</i>; saber redactar títulos llamativos que generen curiosidad al público; y finalmente diseñar un mensaje claro que le sepa llegar al público objetivo.
+          p.mb-0 Existen muchas herramientas para crear contenidos digitales que simplifican el trabajo, lo vuelven mucho más rápido y optimizan las publicaciones. Hacer uso de ellas es importante, ya que el crear contenido implica encontrar las palabras clave (<i>keywords</i>) que representen al <i>post</i>; saber redactar títulos llamativos que generen curiosidad al público; y finalmente diseñar un mensaje claro que le sepa llegar al público objetivo.
 
         p(data-aos="fade-left") A continuación, se indican algunas herramientas y aplicaciones para el diseño de contenido digital:
 
@@ -490,8 +488,10 @@
                   i.fas.fa-dot-circle(style="color: #EB6F2D")
                   p.mb-4.texto-negro Series y películas.
 
-    .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Contenido por fase del embudo ventas
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Contenido por fase del embudo ventas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -515,7 +515,7 @@
           img(src='@/assets/curso/temas/tema4/img36.svg', alt='Imágen decorativa')
 
       .col-lg-6
-        p(data-aos="fade-left") Un calendario de publicaciones para medios digitales es una herramienta que permite programar y gestionar el contenido alineado a la estrategia de mercadeo en los diferentes canales de la compañía. El diseño de esta herramienta es muy personal ya que se hace según el gusto de cada marca; sin embargo, su fin último es brindar uniformidad, orden y calidad a las publicaciones, para que estas fluyan correctamente durante cada mes; adicional a ello, permite realizar seguimiento a las mismas y efectuar mejoras según los resultados obtenidos. 
+        p(data-aos="fade-left") Un calendario de publicaciones para medios digitales es una herramienta que permite programar y gestionar el contenido alineado a la estrategia de mercadeo en los diferentes canales de la compañía. El diseño de esta herramienta es muy personal, ya que se hace según el gusto de cada marca; sin embargo, su fin último es brindar uniformidad, orden y calidad a las publicaciones, para que estas fluyan correctamente durante cada mes; adicional a ello, permite realizar seguimiento a las mismas y efectuar mejoras según los resultados obtenidos. 
 
         p(data-aos="fade-left") De manera general, se podría decir que los calendarios incluyen:
 

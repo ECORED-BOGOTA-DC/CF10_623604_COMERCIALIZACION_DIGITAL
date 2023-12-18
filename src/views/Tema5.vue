@@ -18,8 +18,10 @@
             .col-lg-10
               p.mb-0 Este es un conjunto de estrategias y técnicas de optimización creadas en una página web para su visualización orgánica en los motores de búsqueda de Internet como Google, Yahoo y YouTube. La aplicación adecuada de SEO puede mejorar significativamente el tráfico en toda la web y el conocimiento de la marca.
 
-    .row.bg-titulo3.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Características
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Características
 
     .bg1-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
@@ -252,19 +254,21 @@
         p(data-aos="fade-left") El SEM se conoce, comúnmente, como una colección de herramientas, técnicas y estrategias que ayudan a los motores de búsqueda a optimizar la visibilidad de su sitio web y páginas web. En definitiva, el objetivo es ser cada vez más visibles en los resultados de búsqueda de Google y otros sitios similares cuando los usuarios buscan palabras clave relacionadas con nuestra marca. En general, las páginas de búsqueda en Google y otros sitios web muestran dos tipos de resultados:
 
 
-    .row.bg-titulo6.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Resultados orgánicos o naturales
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Resultados orgánicos o naturales
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-5
         p.mb-4(data-aos="fade-right") Para saber qué sitios mostrar, los motores de búsqueda utilizan algoritmos que apuntan a los sitios que  mejor responden a una solicitud en particular. Por ejemplo, los algoritmos de Google se basan principalmente en la relevancia (contenido web) y permisos (enlaces de otros sitios).
 
         .cajon.color-azul1.p-4.mb-3(data-aos="fade-right")
           p.mb-0 Por lo general, se muestran en las columnas superior y  derecha. A diferencia de las listas orgánicas, los anunciantes deben pagar  por cada clic. Para comprar anuncios de motores de búsqueda y obtener tráfico, debe buscar soluciones de publicidad de motores de búsqueda como Google Ads. Este sistema también se conoce como PPC (Pago Por Clic) o CPC (Coste Por Clic).
     
-      .col-10.col-lg-6
+      .col-10.col-lg-7
         figure(data-aos="flip-down")
-          img(src='@/assets/curso/temas/tema5/img28.svg', alt='Imagen que muestra una búsqueda en Google sobre tiendas de mascotas.')
+          img(src='@/assets/curso/temas/tema5/img28.png', alt='Imagen que muestra una búsqueda en Google sobre tiendas de mascotas.')
 
 
 

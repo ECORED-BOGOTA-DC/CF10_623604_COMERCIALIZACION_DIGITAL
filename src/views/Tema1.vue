@@ -11,9 +11,9 @@
       .row.justify-content-center.align-items-center
         .col-lg-6
           .cajon.color-azul1.p-4.mb-3(data-aos="flip-down")
-            p.mb-0 Una campaña digital es una herramienta de gran importancia dentro del <i>marketing</i> digital ya que tiene como fin impactar a una audiencia con un mensaje o propuesta de valor, generando una acción que apunte al logro de los objetivos de la compañía: posicionamiento de marca, ganar más seguidores, obtener más tráfico al sitio web, aumentar las suscripciones a boletines, obtener contactos, fortalecer la imagen, aumentar ventas, entre otras.
+            p.mb-0 Una campaña digital es una herramienta de gran importancia dentro del <i>marketing</i> digital, ya que tiene como fin impactar a una audiencia con un mensaje o propuesta de valor, generando una acción que apunte al logro de los objetivos de la compañía: posicionamiento de marca, ganar más seguidores, obtener más tráfico al sitio web, aumentar las suscripciones a boletines, obtener contactos, fortalecer la imagen, aumentar ventas, entre otras.
 
-          p(data-aos="fade-right") Con las campañas de <i>marketing</i> se busca conseguir éxito a través de estudios previos con respecto al tipo de público en el cual hay un interés importante. Así pues, no solo se trata de diseñar un anuncio publicitario, sino de definir el objetivo final partiendo de análisis y estrategias que apunten al mismo. A modo de ejemplo, se podría mencionar la temporada decembrina donde se investigan las líneas de compra de años pasados, para nuevamente aplicarlas en la actualidad y obtener resultados parecidos o mucho mejores. La clave está en hacer que el usuario se identifique con el anuncio publicitario que se le muestra y para ello son necesarias las estrategias de <i>marketing</i> para generar un mayor impacto.
+          p(data-aos="fade-right") Con las campañas de <i>marketing</i> se busca conseguir éxito a través de estudios previos con respecto al tipo de público en el cual hay un interés importante. Así pues, no solo se trata de diseñar un anuncio publicitario, sino de definir el objetivo final partiendo de análisis y estrategias que apunten al mismo. A modo de ejemplo, se podría mencionar la temporada decembrina, donde se investigan las líneas de compra de años pasados, para nuevamente aplicarlas en la actualidad y obtener resultados parecidos o mucho mejores. La clave está en hacer que el usuario se identifique con el anuncio publicitario que se le muestra y para ello son necesarias las estrategias de <i>marketing</i> para generar un mayor impacto.
 
         .col-10.col-lg-6
           figure
@@ -21,7 +21,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      p(data-aos="fade-right") Una de las ventajas importantes de estas campañas, es su componente de inmediatez ya que permiten generar una interacción con la audiencia y medir el impacto de esta de manera más rápida que con el <i>marketing</i> tradicional; por ello, esta herramienta es de gran aporte a las empresas para que lleven sus proyectos de una manera más eficiente. 
+      p(data-aos="fade-right") Una de las ventajas importantes de estas campañas, es su componente de inmediatez, ya que permiten generar una interacción con la audiencia y medir el impacto de esta de manera más rápida que con el <i>marketing</i> tradicional; por ello, esta herramienta es de gran aporte a las empresas para que lleven sus proyectos de una manera más eficiente. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       figure
@@ -31,7 +31,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         .cajon.color-primario.p-4.mb-4(data-aos="flip-down")
-          p.mb-0 Otro de los beneficios de las campañas digitales es que puede abarcar diferentes medios, según sea el caso y tipo de audiencia, para conectar con el público; ejemplo de ello, es el <i>email marketing</i>, las estrategias SEO y SEM, la publicidad en las redes sociales entre otros. La eficacia en el uso del canal dependerá de la planificación y la estrategia desarrollada con anterioridad. 
+          p.mb-0 Otro de los beneficios de las campañas digitales es que puede abarcar diferentes medios, según sea el caso y tipo de audiencia, para conectar con el público; ejemplo de ello, es el <i>email marketing</i>, las estrategias SEO y SEM, la publicidad en las redes sociales, entre otros. La eficacia en el uso del canal dependerá de la planificación y la estrategia desarrollada con anterioridad. 
 
         p(data-aos="fade-right") Además, lo interesante de esta herramienta es que permite cambiar o corregir las estrategias que no estén dando resultado y potenciar las que sí.  Las campañas de <i>marketing</i> pueden mostrar a las empresas comprometidas con el público dando beneficios o simplificando procesos. Toda campaña debe adaptarse a los cambios, si la intención es vender más. 
 
@@ -65,8 +65,10 @@
                 img(src='@/assets/curso/temas/tema1/img4.svg', alt='Imagen que muestra 6 vasos reutilizables de Starbucks, de diferentes tamaños y diseños de navidad.')
              
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Claves de la estrategia Starbucks
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Claves de la estrategia Starbucks
 
     .bg2-tema1.mb-5
       .row.justify-content-center.align-items-center.mb-5
@@ -98,8 +100,10 @@
                     span Ver
                     i.fas.fa-link    
 
-    .row.bg-titulo2.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Las claves
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Las claves
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
@@ -135,7 +139,7 @@
             img(src='@/assets/curso/temas/tema1/img9.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p(data-aos="fade-left") ¡Observe como una campaña de medios sociales con corazón! La Fundación Make AWish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el <i>hashtag #ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
+          p(data-aos="fade-left") ¡Observe como una campaña de medios sociales con corazón! La Fundación Make A Wish y Disney Resorts se asociaron para invitar a su público a compartir imágenes con las orejas de Mickey Mouse en <b>Twitter</b> e <b>Instagram</b> con el <i>hashtag #ShareYourEars.</i> Cada post en estas redes sociales activaba una donación de US$5 a la Fundación Make-A-Wish de Walt Disney Parks and Resorts. El límite era de US$1 millón.
 
     .row.justify-content-center.align-items-center.mb-5
       h4(data-aos="fade-left") <i>#ShareYourEars</i> Las orejas benéficas de Disney
@@ -201,7 +205,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-right") Chipotle se abre a sus fans y los lleva a ese terreno misterioso y seductor que ocurre en el <i>backstage</i> de las marcas. Ha decidido jugar con los ingredientes de los burritos y mostrarse tal cual en Intagram. Aguacate, cilantro, maíz, jalapeños… cualquier excusa es buena para mostrar a sus fans cómo preparan sus burritos.
+        p(data-aos="fade-right") Chipotle se abre a sus fans y los lleva a ese terreno misterioso y seductor que ocurre en el <i>backstage</i> de las marcas. Ha decidido jugar con los ingredientes de los burritos y mostrarse tal cual en Instagram. Aguacate, cilantro, maíz, jalapeños… cualquier excusa es buena para mostrar a sus fans cómo preparan sus burritos.
 
         h5.my-4(data-aos="fade-right") Claves del éxito de Chipotle
 
@@ -258,7 +262,7 @@
       .col-8.col-lg-9    
         .bg-tarjeta1-1.p-2.p-lg-4(data-aos="fade-left")
           .row.justify-content-center.align-items-center
-            p.mt-lg-2 Es de las más usadas actualmente ya que consta de anuncios en buscadores como Google con el único fin de posicionar el negocio en los primeros resultados de búsqueda.
+            p.mt-lg-2 Es de las más usadas actualmente, ya que consta de anuncios en buscadores como Google con el único fin de posicionar el negocio en los primeros resultados de búsqueda.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-4.col-lg-3
@@ -376,7 +380,7 @@
               h4 Estrategia de video para potenciar una marca
               p A los consumidores les encanta. No solo dan la posibilidad de conocer más a fondo un producto o un servicio: también ofrecen un <b>ROI (retorno de la inversión) mayor</b> y aumentan el tráfico orgánico que recibe una web.
 
-              p Plataformas como Instagram o TikTock son las reinas del juego con el surgimiento de los videos en formato breve. TikTock ha conquistado a la generación Z con sus videos de hasta 30 o 60 segundos e Instagram ha adaptado su red con los reels de hasta un minuto.
+              p Plataformas como Instagram o TikTok son las reinas del juego con el surgimiento de los videos en formato breve. TikTok ha conquistado a la generación Z con sus videos de hasta 30 o 60 segundos e Instagram ha adaptado su red con los #[em reels] de hasta un minuto.
 
             .col-md-6
               figure
@@ -499,14 +503,14 @@
       .col-lg-6
         p(data-aos="fade-left") El embudo de ventas es una herramienta que representa las etapas por las cuales pasa un cliente potencial hasta realizar una compra de un producto o servicio; van desde el primer contacto con la marca, hasta el cierre de la venta. Con el embudo, se puede comprender la etapa en la que se encuentra el cliente para así poder generar estrategias que ayuden a cerrar la venta y que vayan acordes a los clientes potenciales de la compañía. 
 
-        p(data-aos="fade-left") Sus ventajas son el monitoreo constante del proceso de ventas y el comportamiento de los usuarios a través de las campañas, permite optimizar al máximo el contenido y las estrategias, ayuda a identificar clientes potenciales y a ofrecerles la propuesta de valor de la marca; y, finalmente, el embudo de ventas, contribuye a aumentar la productividad ya que proceso de ventas puede ser mucho más organizado y optimizado.
+        p(data-aos="fade-left") Sus ventajas son el monitoreo constante del proceso de ventas y el comportamiento de los usuarios a través de las campañas, permite optimizar al máximo el contenido y las estrategias, ayuda a identificar clientes potenciales y a ofrecerles la propuesta de valor de la marca; y, finalmente, el embudo de ventas, contribuye a aumentar la productividad, ya que proceso de ventas puede ser mucho más organizado y optimizado.
 
 
     .row.justify-content-center.align-items-center.mb-5
       .tarjeta-amarilla3.px-5.py-3(data-aos="flip-down")
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-8
-            p.mb-lg-0.mt-lg-5 Con el embudo se aprende que no todos los clientes se pueden tratar de igual manera ya que esto va ligado directamente con la etapa del embudo en la que cada cual se encuentran. Un cliente que apenas está conociendo la compañía, no accederá a un descuento promocional de la misma ya que ni siquiera se ha familiarizado con el contenido; por ello, a este tipo de clientes, por ejemplo, se les debe informar acerca del qué hacer de la empresa y de las ventajas de su producto o servicio, en vez de ofrecerle un descuento. Aquí las etapas del embudo de ventas:
+            p.mb-lg-0.mt-lg-5 Con el embudo se aprende que no todos los clientes se pueden tratar de igual manera, ya que esto va ligado directamente con la etapa del embudo en la que cada cual se encuentran. Un cliente que apenas está conociendo la compañía, no accederá a un descuento promocional de la misma, ya que ni siquiera se ha familiarizado con el contenido; por ello, a este tipo de clientes, por ejemplo, se les debe informar acerca del qué hacer de la empresa y de las ventajas de su producto o servicio, en vez de ofrecerle un descuento. Aquí las etapas del embudo de ventas:
 
           .col-8.col-lg-4
             figure.mb-0
@@ -530,7 +534,7 @@
       AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
         .row(titulo="Tofu o atracción")
           .col-md-6.mb-4.mb-md-0
-            p Es la parte de arriba del embudo. es la captación de clientes o <i>leads</i>. El objetivo de esta etapa es obtener los datos de los usuarios que están buscando solucionar alguna de sus necesidades, pero aún no conocen los productos o servicios de la marca. 
+            p Es la parte de arriba del embudo. Es la captación de clientes o <i>leads</i>. El objetivo de esta etapa es obtener los datos de los usuarios que están buscando solucionar alguna de sus necesidades, pero aún no conocen los productos o servicios de la marca. 
         
           .col-md-6
             figure
@@ -576,12 +580,12 @@
             .col-md-8.col-lg-9  
               .bg-tarjeta8-1.p-2.p-lg-4
                 .row.justify-content-center.align-items-center
-                  p.mt-3 Son personas que ya llevan tiempo en el mercado y cuentan con clientes fieles a partir de la comunidad que han construido. Esta opción es viable ya que facilita el poder llegar a una audiencia ya constituida que empezar desde cero.
+                  p.mt-3 Son personas que ya llevan tiempo en el mercado y cuentan con clientes fieles a partir de la comunidad que han construido. Esta opción es viable, ya que facilita el poder llegar a una audiencia ya constituida que empezar desde cero.
 
 
         .row(titulo="MOFU o prospecto")
           .col-md-6.mb-4.mb-md-0
-            p Es la parte del medio del embudo. Esta etapa es la más importante ya que el usuario ya conoce las bondades de la compañía, pero también tiene a su alcance otras que ofrecen productos o servicios similares. En este punto, el cliente potencial está interesado y comenzará a indagar más acerca de la marca y es allí donde se le debe convencer de la compra.
+            p Es la parte del medio del embudo. Esta etapa es la más importante, ya que el usuario conoce las bondades de la compañía, pero también tiene a su alcance otras que ofrecen productos o servicios similares. En este punto, el cliente potencial está interesado y comenzará a indagar más acerca de la marca y es allí donde se le debe convencer de la compra.
 
             p Es importante educar para enseñarles a resolver su problema a través de los productos o servicios de la compañía; también se les debe atrapar para que sigan la marca, se suscriban a un <i>newsletter</i> o activen las notificaciones del perfil de la marca en caso de que no deseen comprar aún; y, finalmente, poner en práctica otras estrategias como los <i>webinars</i>, las consultorías gratuitas o el <i>e-mail marketing</i> para demostrarles las razones por las cuales deberían elegir todo lo que ofrece la marca. 
 
@@ -624,14 +628,16 @@
             img(src='@/assets/curso/temas/tema1/img34.svg', alt='Imágen decorativa')
 
         .col-lg-11
-          p(data-aos="fade-left") Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización teniendo en cuenta los <i>buyer</i> persona; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
+          p(data-aos="fade-left") Para lograr atraer nuevos usuarios usando el embudo de ventas, se recomienda prestar atención al diseño web y su optimización, teniendo en cuenta los <i>buyer</i> persona; el contenido de calidad que aporte valor o brinde una solución específica al usuario objetivo; y los llamados a la acción que ayudarán a definir cómo finalizará la visita el cliente y cuál es el siguiente paso.
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Técnicas de fijación de objetivos 
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0  Técnicas de fijación de objetivos 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p(data-aos="fade-right") Toda empresa requiere tener claros sus objetivos de mercadeo para alcanzar mayor nivel de ventas, rentabilidad y posicionamiento de marca. Los objetivos son resultados concretos que se desean lograr en un plazo fijo y que incluyen recursos de personal, dinero y otras herramientas según sea la disponibilidad de la compañía. Plantearlos es de gran importancia ya que deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo; todo ello con la intención de lograr una meta mayor que vaya enfocada al crecimiento del negocio. 
+        p(data-aos="fade-right") Toda empresa requiere tener claros sus objetivos de mercadeo para alcanzar mayor nivel de ventas, rentabilidad y posicionamiento de marca. Los objetivos son resultados concretos que se desean lograr en un plazo fijo y que incluyen recursos de personal, dinero y otras herramientas según sea la disponibilidad de la compañía. Plantearlos es de gran importancia, ya que deben ser específicos, medibles, alcanzables, relevantes y definidos en el tiempo; todo ello con la intención de lograr una meta mayor que vaya enfocada al crecimiento del negocio. 
 
         p(data-aos="fade-right") Así, pues, los pasos para definir los objetivos son:
       
@@ -712,14 +718,14 @@
 
               .row(x="82%" y="13%" tooltip="" numero="+")
                 h5 Ingresos
-                p De este ítem se puede aprovechar todo. Habrá clientes que tengan mayor capacidad adquisitiva por lo cual podrán acceder a productos o servicios mucho más <i>premium</i>; mientras que habrá otros con una menor capacidad a los cuales se les podrá ofrecer descuentos o promociones
+                p De este ítem se puede aprovechar todo. Habrá clientes que tengan mayor capacidad adquisitiva, por lo cual podrán acceder a productos o servicios mucho más <i>premium</i>; mientras que habrá otros con una menor capacidad a los cuales se les podrá ofrecer descuentos o promociones
 
 
         .row.justify-content-center
           .col-md-7.mb-4.mb-md-0
             h4 Segmentación basada en compras/uso 
             
-            p En este punto se habla de retener a los clientes actuales que ya han comprado y que por su valor VIP se les debe conocer indagando variables como el tiempo que han durado sido clientes (meses o años); lo que han invertido en la marca a nivel económico; frecuencia de compra. Este segmento debe ser una prioridad para cualquier marca ya que estas personas ya han confiado y han creído en los valores de la compañía, por tanto, se hacen acreedores de una mayor atención, descuentos especiales y regalos sorpresa. 
+            p En este punto se habla de retener a los clientes actuales que ya han comprado y que por su valor VIP se les debe conocer indagando variables como el tiempo que han durado siendo clientes (meses o años); lo que han invertido en la marca a nivel económico; frecuencia de compra. Este segmento debe ser una prioridad para cualquier marca, ya que estas personas ya han confiado y han creído en los valores de la compañía, por tanto, se hacen acreedores de una mayor atención, descuentos especiales y regalos sorpresa. 
 
 
           .col-md-5
@@ -756,10 +762,10 @@
             figure
               img(src='@/assets/curso/temas/tema1/img45.svg', alt='Imágen decorativa')
 
-
-
-    .row.bg-titulo3.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Tipos de canales
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0 Tipos de canales
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-lg-6
@@ -803,8 +809,10 @@
         figure
           img(src='@/assets/curso/temas/tema1/img47.svg', alt='Imágen decorativa')
 
-    .row.bg-titulo1.align-items-center.mb-5(data-aos="fade-right")
-      h4.mt-3.text-right Marco legal de internet
+    .row.mb-5(data-aos="fade-right")
+      .col-auto
+        .bg-titulo1.p-2
+          h4.mx-2.mb-0  Marco legal de internet
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -853,7 +861,7 @@
           .col-md-6.mb-4.mb-md-0
             h5 El usuario debe poder darse de baja
 
-            p Tus <i>e-mails</i> deben ofrecer la posibilidad de renunciar a las <i>newsletters</i> o cualquier tipo de comunicación por <i>e-mail.</i> De hecho este servicio de baja debe ser gratuito y estar disponible siempre. Es posible que algunas empresas piensen que si no ofrecen esta opción, sus usuarios seguirán con ellos. Incluso hay quienes no lo ponen nada fácil a la hora de encontrar esta posibilidad para no sufrir bajas, pero esta no es una buena estrategia.
+            p Tus <i>e-mails</i> deben ofrecer la posibilidad de renunciar a las <i>newsletters</i> o cualquier tipo de comunicación por <i>e-mail.</i> De hecho, este servicio de baja debe ser gratuito y estar disponible siempre. Es posible que algunas empresas piensen que, si no ofrecen esta opción, sus usuarios seguirán con ellos. Incluso hay quienes no lo ponen nada fácil a la hora de encontrar esta posibilidad para no sufrir bajas, pero esta no es una buena estrategia.
         
           .col-md-6
             figure
