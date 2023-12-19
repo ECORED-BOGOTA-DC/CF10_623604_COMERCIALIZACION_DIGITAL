@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <filter id="Elipse_6979" x="0" y="0" width="150" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1034496" data-name="Grupo 1034496" transform="translate(-1070.257 -3213.854)">
+    <g transform="matrix(1, 0, 0, 1, 1070.26, 3213.85)" filter="url(#Elipse_6979)">
+      <circle id="Elipse_6979-2" data-name="Elipse 6979" cx="66" cy="66" r="66" transform="translate(9 6)" fill="#b6e1fd"/>
+    </g>
+    <g id="Grupo_883418" data-name="Grupo 883418" transform="translate(1110.33 3233.665)">
+      <path id="Trazado_642478" data-name="Trazado 642478" d="M69.854,47.871A10.558,10.558,0,0,0,59.3,37.324H59.11v-.07A16.937,16.937,0,0,0,27.4,28.983,11.954,11.954,0,0,0,9.458,38.511a9.957,9.957,0,0,0-1.928,19.6V53.851a4.2,4.2,0,0,1,4.191-4.191h47.85a4.2,4.2,0,0,1,4.191,4.191v3.562a10.621,10.621,0,0,0,6.091-9.542Z" fill="#12263f"/>
+      <path id="Trazado_642479" data-name="Trazado 642479" d="M119.209,235.13a1.4,1.4,0,0,0-1.4-1.4H69.962a1.4,1.4,0,0,0-1.4,1.4v11.61a1.4,1.4,0,0,0,1.4,1.4h47.85a1.4,1.4,0,0,0,1.4-1.4Zm-41.912,7.2a1.4,1.4,0,1,1-2.794,0v-2.794a1.4,1.4,0,1,1,2.794,0Zm6,0a1.4,1.4,0,0,1-2.794,0v-2.794a1.4,1.4,0,0,1,2.794,0Zm28.574,0H92.468a1.4,1.4,0,1,1,0-2.794h19.407a1.4,1.4,0,1,1,0,2.794Z" transform="translate(-58.241 -181.279)" fill="#12263f"/>
+      <path id="Trazado_642480" data-name="Trazado 642480" d="M117.812,347.959H69.962a1.4,1.4,0,0,0-1.4,1.4v11.608a1.4,1.4,0,0,0,1.4,1.4h47.85a1.4,1.4,0,0,0,1.4-1.4V349.356A1.4,1.4,0,0,0,117.812,347.959Zm-40.515,8.6a1.4,1.4,0,1,1-2.794,0v-2.794a1.4,1.4,0,1,1,2.794,0Zm6,0a1.4,1.4,0,1,1-2.794,0v-2.794a1.4,1.4,0,0,1,2.794,0Zm28.574,0H92.468a1.4,1.4,0,1,1,0-2.794h19.407a1.4,1.4,0,1,1,0,2.794Z" transform="translate(-58.241 -278.306)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>

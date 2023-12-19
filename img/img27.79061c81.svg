@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="228" height="89.256" viewBox="0 0 228 89.256">
+  <defs>
+    <filter id="Trazado_646259" x="0" y="30.256" width="228" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_502571" x="0.125" y="0" width="89.256" height="89.256" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1034551" data-name="Grupo 1034551" transform="translate(-206.626 -5836.745)">
+    <g transform="matrix(1, 0, 0, 1, 206.63, 5836.74)" filter="url(#Trazado_646259)">
+      <path id="Trazado_646259-2" data-name="Trazado 646259" d="M0,0H200a10,10,0,0,1,10,10V41H0Z" transform="translate(9 36.26)" fill="#fff"/>
+    </g>
+    <g id="Grupo_152495" data-name="Grupo 152495" transform="translate(35.626 -1689.999)">
+      <text id="Texto" transform="translate(296.065 7571.643)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Texto</tspan></text>
+      <path id="Trazado_194609" data-name="Trazado 194609" d="M0,0,85,40H0Z" transform="translate(180 7563.643)" fill="#ffb338"/>
+      <g id="tarea-completada" transform="translate(180.125 7532.744)">
+        <path id="Trazado_203286" data-name="Trazado 203286" d="M0,20.438ZM4.438,16" transform="translate(13.875 -13.525)" fill="#ffc846"/>
+        <g transform="matrix(1, 0, 0, 1, -9.12, -6)" filter="url(#Trazado_502571)">
+          <path id="Trazado_502571-2" data-name="Trazado 502571" d="M295.256,259.628A35.628,35.628,0,1,1,259.628,224,35.629,35.629,0,0,1,295.256,259.628Zm0,0" transform="translate(-214.88 -218)" fill="#cee4c6"/>
+        </g>
+        <g id="Grupo_883126" data-name="Grupo 883126" transform="translate(13.01 -43.496)">
+          <path id="Trazado_641407" data-name="Trazado 641407" d="M298.578,66.657V65.175h-6.372v1.482h2.445V91.592h-2.445v1.482h6.372V91.592h-2.445V66.657Z" transform="translate(-253.342)" fill="#333e48"/>
+          <g id="Grupo_883125" data-name="Grupo 883125" transform="translate(0 68.338)">
+            <path id="Trazado_641408" data-name="Trazado 641408" d="M.275,107.662l7.457-16.84a2.909,2.909,0,0,1,2.751-1.864h.275a2.868,2.868,0,0,1,2.72,1.864l7.457,16.84a2.3,2.3,0,0,1,.245.948,2.231,2.231,0,0,1-2.231,2.262,2.4,2.4,0,0,1-2.262-1.62l-1.436-3.362H5.838L4.34,109.4a2.311,2.311,0,0,1-2.17,1.467A2.165,2.165,0,0,1,0,108.67,2.5,2.5,0,0,1,.275,107.662Zm13.234-5.929-2.965-7.06-2.964,7.06Z" transform="translate(0 -88.957)" fill="#1e252b"/>
+            <path id="Trazado_641409" data-name="Trazado 641409" d="M176.011,139.65v-.061c0-3.576,2.72-5.226,6.6-5.226a11.64,11.64,0,0,1,4,.672v-.275c0-1.926-1.192-3-3.515-3a10.651,10.651,0,0,0-3.209.458,1.965,1.965,0,0,1-.673.122,1.892,1.892,0,0,1-1.925-1.895,1.926,1.926,0,0,1,1.253-1.8,14.263,14.263,0,0,1,5.226-.856c2.536,0,4.37.672,5.532,1.834a7.14,7.14,0,0,1,1.773,5.226v7.457a2.231,2.231,0,0,1-2.262,2.231,2.08,2.08,0,0,1-2.231-1.925v-.031a6.3,6.3,0,0,1-4.951,2.078C178.548,144.663,176.011,142.89,176.011,139.65Zm10.666-1.07v-.825a7.2,7.2,0,0,0-2.965-.611c-1.987,0-3.209.795-3.209,2.262v.061c0,1.253,1.039,1.987,2.537,1.987C185.21,141.454,186.677,140.262,186.677,138.581Z" transform="translate(-152.601 -122.627)" fill="#1e252b"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

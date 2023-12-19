@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <filter id="Elipse_6990" x="0" y="0" width="150" height="150" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1034504" data-name="Grupo 1034504" transform="translate(-368.743 -4317.854)">
+    <g transform="matrix(1, 0, 0, 1, 368.74, 4317.85)" filter="url(#Elipse_6990)">
+      <circle id="Elipse_6990-2" data-name="Elipse 6990" cx="66" cy="66" r="66" transform="translate(9 6)" fill="#b6e1fd"/>
+    </g>
+    <path id="Trazado_642512" data-name="Trazado 642512" d="M38.987,72.138V55a.88.88,0,0,1,.88-.88H52.479a.88.88,0,0,1,.88.88V72.138h6.814V50.01h-28V72.138ZM62.211,26.214l-15.72-9.2a.614.614,0,0,0-.635,0l-15.72,9.2ZM75.717,73.9H16.629a.63.63,0,0,0-.629.629v1.884a.63.63,0,0,0,.629.629H75.717a.63.63,0,0,0,.629-.629V74.527a.63.63,0,0,0-.629-.629Zm-52.028-1.76v-27.9H19.623a.63.63,0,0,0-.629.629V72.138Zm49.662,0V44.865a.63.63,0,0,0-.629-.629H68.657v27.9Zm-42.939,0H25.449V43.357a.88.88,0,0,0-.88-.88H22.222V28.6a.63.63,0,0,1,.629-.629H69.5a.63.63,0,0,1,.629.629V42.477H67.777a.88.88,0,0,0-.88.88V72.138H61.933V49.13a.88.88,0,0,0-.88-.88H31.293a.88.88,0,0,0-.88.88Zm.88-39.094a.88.88,0,0,0-.88.88v4.9a.88.88,0,0,0,.88.88H61.053a.88.88,0,0,0,.88-.88v-4.9a.88.88,0,0,0-.88-.88ZM60.173,34.8h-28v3.141h28ZM51.6,72.138H40.747V55.881H51.6Z" transform="translate(397.654 4338.192)" fill="#12263f" fill-rule="evenodd"/>
+  </g>
+</svg>
