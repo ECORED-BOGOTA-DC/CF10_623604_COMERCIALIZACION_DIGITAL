@@ -109,7 +109,7 @@
                   p Con el fin de tener mayor conocimiento sobre el tema, se invita a ver el siguiente documento.
 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/indicadores_de_un_cuadro_de_mando.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/indicadores_de_un_cuadro_de_mando.pdf')" target="_blank")
                     span Ingresar 
                     i.fas.fa-link
 
@@ -550,7 +550,7 @@
                   h3 <i>Dashboard</i>
                   p Con el fin de tener mayor conocimiento sobre los <i>dashboard</i> y sus tipos se invita a ver el siguiente documento. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/dashboard.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/dashboard.pdf')" target="_blank")
                     span Ingresar 
                     i.fas.fa-link
 

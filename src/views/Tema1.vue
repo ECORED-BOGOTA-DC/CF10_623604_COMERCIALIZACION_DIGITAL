@@ -658,7 +658,7 @@
                   h3.mb-1 Pasos para definir los objetivos
                   p Con el fin de tener mayor conocimiento sobre el tema, se invita a ver el siguiente documento.  
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/pasos_para_definir_los_objetivos.docx')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexos/pasos_para_definir_los_objetivos.pdf')" target="_blank")
                     span Ingresar 
                     i.fas.fa-link 
 
